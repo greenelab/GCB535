@@ -9,3 +9,8 @@ Some exercises require setup. For example, code to simulate data used in the k-m
 
 ## Python Programming Exercises
 If you are only interested in the python programming portions, check into @sarahmid's repository sarahmid/python-for-genomics-miniseries. The exercises in this course share a common origin with those exercises.
+
+## Data on SageMath Cloud
+For modules that have big data files (e.g. the ChIP-seq modules), it is best to create two separate assignments in SMC: one that contains the data itself and is never 
+collected by the TAs for grading, and another one that contains the assignment notebooks and is collected by the TAs. This is because files are copied whenever assignments
+are collected and so if an assignment contains large data files that never change, they will be duplicated for every student in the class, wasting a lot of space. 
