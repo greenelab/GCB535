@@ -26,6 +26,14 @@ csgreene@upenn.edu
 
 * [Greg Grant](mailto:ggrant543@gmail.com)
 
+## Location and time
+
+TBD
+
+## Office Hours
+
+TBD
+
 ## Course web Site
 
 We will use [SageMathCloud](https://cloud.sagemath.com/) for in class exercises
