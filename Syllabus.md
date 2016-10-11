@@ -113,14 +113,3 @@ our discretion on grading.
 
 https://provost.upenn.edu/policies/faculty-handbook/students/iv-d
 http://www.upenn.edu/academicintegrity/ai_violations.html
-
-## Reference Texts
-
-As this is a rapidly moving field, there is no textbook required for this course. We rely on a combination of online material and active exercises. There are a number of existing resources that may be valuable during this course.
-
-1. See [PLOS Computational Biology
-Collections](http://www.ploscollections.org/static/pcbiCollections),
-specifically sections on Education, Developing Computational Biology, and
-Translational Bioinformatics:
-2. Bioinformatics for Biologists, eds. Pavel Pevzner and Ron Shamir, Cambridge University Press, 2011.
-3. Bioinformatics and Functional Genomics by Jonathan Pevsner (www.bioinfbook.org/). This compiles material used for a course at Johns Hopkins.
