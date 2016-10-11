@@ -32,6 +32,8 @@ TBD
 
 ## Office Hours
 
+BFV: Wednesday 11-12
+CSG: Friday 11-12
 TBD
 
 ## Course web Site
