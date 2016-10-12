@@ -1,8 +1,10 @@
 # GCB/CIS/MTR 535: Introduction to Bioinformatics
 
-## Course directors
+## Course Staff
 
-### Benjamin F. Voight, PhD
+### Course Directors
+
+#### Benjamin F. Voight, PhD
 Department of Systems Pharmacology and Translational Therapeutics
 Department of Genetics
 10-126 Smilow Center for Translational Research (SCTR)
@@ -10,14 +12,14 @@ Department of Genetics
 215-746-8083
 bvoight@upenn.edu
 
-### Casey S. Greene, PhD
+#### Casey S. Greene, PhD
 Department of Systems Pharmacology and Translational Therapeutics
 10-131 Smilow Center for Translational Research (SCTR)
 3400 Civic Center Blvd
 215-573-2991
 csgreene@upenn.edu
 
-## Teaching assistants
+### Teaching assistants
 
 * [Katie Siewert](mailto:ksiewert@mail.med.upenn.edu)
 * TBD
@@ -25,6 +27,12 @@ csgreene@upenn.edu
 ### Guest proctors:
 
 * [Greg Grant](mailto:ggrant543@gmail.com)
+
+### Keywords
+
+* Ben Voight: genetic variation, human genetics, diabetes
+* Casey Greene: machine learning, systems biology, gene expression
+* TAs fill your keywords in.
 
 ## Location and time
 
