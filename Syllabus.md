@@ -30,10 +30,16 @@ csgreene@upenn.edu
 
 TBD
 
-## Office Hours
+## Office hours
 
-BFV: Wednesday 11-12
-CSG: Friday 11-12
+TA office hours are open door. Please feel free to attend at your convenience.
+Office hours with Ben and Casey are generally open door. However, students may
+schedule meetings during this time with the course directors, and scheduled
+students will receive precedence. To schedule a meeting, send a quick e-mail to
+the course directors.
+
+BFV: Wednesday 11-12 in SCTR 10-130
+CSG: Friday 11-12 in SCTR 10-131
 TBD
 
 ## Course web Site
