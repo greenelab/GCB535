@@ -38,9 +38,9 @@ schedule meetings during this time with the course directors, and scheduled
 students will receive precedence. To schedule a meeting, send a quick e-mail to
 the course directors.
 
-BFV: Wednesday 11-12 in SCTR 10-130
-CSG: Friday 11-12 in SCTR 10-131
-TBD
+* BFV: Wednesday 11-12 in SCTR 10-130
+* CSG: Friday 11-12 in SCTR 10-131
+* TA Office Hours: TBD
 
 ## Course web site
 
@@ -104,14 +104,14 @@ Our late grading policy is driven by fairness. This policy allows us to
 return assignments quickly while providing flexibility where it is required.
 
 * Prelab assignments are collected at the start of class. We are unable to
-  accept late turn-ins. This material is required in order to fully participate
-  in the in class exercises.
+accept late turn-ins. This material is required in order to fully participate
+in the in class exercises.
 
 * Homework is due at the start of class immediately following the
-  class in which it was assigned (e.g. homework assigned Monday is due at the
-  start of class on Wednesday). Homework will be accepted up to one class after
-  its due date (e.g. assigned Monday would be accepted at the start of class on
-  Friday, but grades will be penalized (minus 30% off).
+class in which it was assigned (e.g. homework assigned Monday is due at the
+start of class on Wednesday). Homework will be accepted up to one class after
+its due date (e.g. assigned Monday would be accepted at the start of class on
+Friday, but grades will be penalized (minus 30% off).
 
 ## Plagiarism policy
 
