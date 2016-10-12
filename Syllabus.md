@@ -91,6 +91,11 @@ TAs will provide help with the material, but students should be computer-capable
 with their own laptop, and should be willing/capable to download and install
 free software from the Internet.
 
+## Schedule
+
+The most up to date schedule for the course is available in the [course
+calendar](https://github.com/greenelab/GCB535/blob/master/Course_Calendar.md).
+
 ## Grading
 
 ### Composition of grades
