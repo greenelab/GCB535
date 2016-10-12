@@ -42,10 +42,11 @@ BFV: Wednesday 11-12 in SCTR 10-130
 CSG: Friday 11-12 in SCTR 10-131
 TBD
 
-## Course web Site
+## Course web site
 
 We will use [SageMathCloud](https://cloud.sagemath.com/) for in class exercises
 and homework. Completed assignments will be collected through this system.
+Canvas is used to return grades to students.
 
 ## Course description
 
@@ -91,7 +92,7 @@ Grades are composed of:
 * the course project (50% total, 25% written proposal,
 25% oral presentation)
 * homework assignments (30%)
-* in-class labs assignments (10%)
+* prelab assignments (10%)
 * class participation (10%).
 
 For the homework grade, we will drop scores from the 3 lowest scoring
@@ -99,11 +100,18 @@ assignments when determining the final grade.
 
 ### Late grading policy:
 
-For in-class lab assignments, we will not accept late turn-ins. For homework, we
-will grade assignments turned in after the due date up to one week past the
-deadline, but grades will be penalized (minus 30% off). Our late policy is
-driven by fairness, because answer keys will be handed out a week after problems
-are due.
+Our late grading policy is driven by fairness. This policy allows us to
+return assignments quickly while providing flexibility where it is required.
+
+* Prelab assignments are collected at the start of class. We are unable to
+  accept late turn-ins. This material is required in order to fully participate
+  in the in class exercises.
+
+* Homework is due at the start of class immediately following the
+  class in which it was assigned (e.g. homework assigned Monday is due at the
+  start of class on Wednesday). Homework will be accepted up to one class after
+  its due date (e.g. assigned Monday would be accepted at the start of class on
+  Friday, but grades will be penalized (minus 30% off).
 
 ## Plagiarism policy
 
