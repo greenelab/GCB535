@@ -107,11 +107,13 @@ return assignments quickly while providing flexibility where it is required.
 accept late turn-ins. This material is required in order to fully participate
 in the in class exercises.
 
-* Homework is due at the start of class immediately following the
-class in which it was assigned (e.g. homework assigned Monday is due at the
-start of class on Wednesday). Homework will be accepted up to one class after
-its due date (e.g. assigned Monday would be accepted at the start of class on
-Friday, but grades will be penalized (minus 30% off).
+* Homework is due at the start of class immediately following the class in which
+it was assigned (e.g. homework assigned Monday is due at the start of class on
+Wednesday). Homework will be accepted up to one class period after its due date
+(e.g. assigned Monday would be accepted at the start of class on Friday), but
+grades will be penalized (minus 30% off). If you would like to have an
+assignment graded under this late policy, you must e-mail one of the course
+directors before the start of the class period in question.
 
 ## Plagiarism policy
 
