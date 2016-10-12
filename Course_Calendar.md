@@ -4,7 +4,7 @@
 |--------	|--------------------------------------	|----------------------------------------------	|----------------------	|
 | 11-Jan 	| -                                    	| Lecture Intro/Databases                      	| -                    	|
 | 13-Jan 	| Stats for Bioinformatics             	| Seeking Biological Info Online               	| SMC Exercise         	|
-| 16-Jan 	| MLK Day - No Class                   	| -                                            	| --                   	|
+| 16-Jan 	| MLK Day - No Class                   	| -                                            	| -                   	|
 | 18-Jan 	| Working in UNIX - I                  	| UNIX Activities/Problems - I                 	| Databases            	|
 | 20-Jan 	| Working in UNIX - II                 	| UNIX Problems - II                           	| Unix I               	|
 | 23-Jan 	| Motif Discovery                      	| Motif Discovery and Analysis - I             	| Unix II              	|
@@ -46,4 +46,3 @@
 | 21-Apr 	| -                                    	| Student Presentations                        	| -                    	|
 | 24-Apr 	| -                                    	| Student Presentations                        	| -                    	|
 | 26-Apr 	| -                                    	| Student Presentations                        	| Project Report Due   	|
-|--------	|--------------------------------------	|----------------------------------------------	|----------------------	|
