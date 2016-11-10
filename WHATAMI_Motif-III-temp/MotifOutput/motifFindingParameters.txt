@@ -1,0 +1,1 @@
+cmd = GSE25836_Human_Liver_FOXA2_GLITR_1p5_FDR.bed hg18 MotifOutput/ -size 200 -mask -preparsedDir parsed_genome -len 8
