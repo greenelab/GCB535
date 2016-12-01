@@ -48,7 +48,7 @@ the course directors.
 
 * BFV: Wednesday 11-12 in SCTR 10-130
 * CSG: Friday 11-12 in SCTR 10-131
-* TA Office Hours: TBD
+* TAs: Tuesday/Thursday 4-5PM in Room TBD
 
 ## Course web site
 
