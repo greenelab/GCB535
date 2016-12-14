@@ -36,7 +36,7 @@ csgreene@upenn.edu
 
 ## Location and time
 
-TBD
+MWF 10a-11a SCTR 10-146
 
 ## Office hours
 
@@ -46,15 +46,15 @@ schedule meetings during this time with the course directors, and scheduled
 students will receive precedence. To schedule a meeting, send a quick e-mail to
 the course directors.
 
-* BFV: Wednesday 11-12 in SCTR 10-130
-* CSG: Friday 11-12 in SCTR 10-131
-* TAs: Tuesday 4-5PM in Room 10-100, Thursday 4-5PM in Room 10-120
+* BFV: Wednesday 11a-12p in SCTR 10-126
+* CSG: Friday 11a-12p in SCTR 10-131
+* TAs: Tuesday 4-5 PM in Room 10-100, Thursday 4-5 PM in Room 10-120
 
 ## Course web site
 
 We will use [SageMathCloud](https://cloud.sagemath.com/) for in class exercises
 and homework. Completed assignments will be collected through this system.
-Canvas is used to return grades to students.
+[Canvas](https://upenn.instructure.com/) is used to return grades to students.
 
 ## Course description
 
