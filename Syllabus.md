@@ -5,12 +5,12 @@
 ### Course Directors
 
 #### Benjamin F. Voight, PhD
-* Department of Systems Pharmacology and Translational Therapeutics
-* Department of Genetics
-* 10-126 Smilow Center for Translational Research (SCTR)
-* 3400 Civic Center Blvd
-* 215-746-8083
-* bvoight@upenn.edu
+   Department of Systems Pharmacology and Translational Therapeutics
+   Department of Genetics
+   10-126 Smilow Center for Translational Research (SCTR)
+   3400 Civic Center Blvd
+   215-746-8083
+   bvoight@upenn.edu
 
 #### Casey S. Greene, PhD
 Department of Systems Pharmacology and Translational Therapeutics
