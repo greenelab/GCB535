@@ -18,7 +18,7 @@
 | 2/7/2016  | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 2/8/2016  | 11:00-12:00 | 10-126           | Ben              |
 | 2/9/2016  | 4:00-5:00   | 10-120           | Katie and Kelsey |
-| 2/10/2016 | 11:00-12:00 | 10-131           | Casey            |
+| 2/10/2016 | GCB Interviews - Email to schedule alternative time | 10-131           | Casey            |
 | 2/14/2016 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 2/15/2016 | 11:00-12:00 | 10-126           | Ben              |
 | 2/16/2016 | 4:00-5:00   | 10-120           | Katie and Kelsey |
@@ -30,7 +30,7 @@
 | 2/28/2016 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 3/1/2016  | 11:00-12:00 | 10-126           | Ben              |
 | 3/2/2016  | 4:00-5:00   | 10-120           | Katie and Kelsey |
-| 3/3/2016  | 11:00-12:00 | 10-131           | Casey            |
+| 3/3/2016  | Out of town for a seminar - Email to schedule alternative time | 10-131           | Casey            |
 | 3/14/2016 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 3/15/2016 | 11:00-12:00 | 10-126           | Ben              |
 | 3/16/2016 | 4:00-5:00   | 10-120           | Katie and Kelsey |
