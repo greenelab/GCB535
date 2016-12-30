@@ -33,6 +33,7 @@ csgreene@upenn.edu
 * Ben Voight: genetic variation, human genetics, diabetes
 * Casey Greene: machine learning, systems biology, gene expression
 * Katie Siewert: evolution, human genetics
+* Kelsey Johnson: human genetics, evolution
 
 ## Location and time
 
