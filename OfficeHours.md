@@ -5,7 +5,7 @@
 | 1/13/2016 | 11:00-12:00 | 10-131           | Casey            |
 | 1/17/2016 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 1/18/2016 | 11:00-12:00 | 10-126           | Ben              |
-| 1/19/2016 | 4:00-5:00   | 10-120           | Katie and Kelsey |
+| 1/19/2016 | TAs at conference - Email to schedule alternative time
 | 1/20/2016 | 11:00-12:00 | 10-131           | Casey            |
 | 1/24/2016 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 1/25/2016 | 11:00-12:00 | 10-126           | Ben              |
