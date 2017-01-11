@@ -4,3 +4,4 @@ sage-jupyter$
 \.*
 ^testbed/
 ^GCB535-Keys/
+.ipynb_checkpoints
