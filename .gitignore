@@ -1,0 +1,6 @@
+.ssh/*
+.term$
+sage-jupyter$
+\.*
+^testbed/
+^GCB535-Keys/
