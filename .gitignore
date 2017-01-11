@@ -1,6 +1,7 @@
 .ssh/*
 .term$
 sage-jupyter$
+sage-chat$
 \.*
 ^testbed/
 ^GCB535-Keys/
