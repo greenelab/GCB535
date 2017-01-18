@@ -21,8 +21,8 @@ csgreene@upenn.edu
 
 ### Teaching assistants
 
-* [Katie Siewert](mailto:ksiewert@mail.med.upenn.edu)
-* [Kelsey Johnson](mailto:kelsj@mail.med.upenn.edu)
+* [Katie Siewert](mailto:ksiewert@mail.med.upenn.edu)    ksiewert@mail.med.upenn.edu
+* [Kelsey Johnson](mailto:kelsj@mail.med.upenn.edu)     kelsj@mail.med.upenn.edu
 
 ### Guest proctors:
 
