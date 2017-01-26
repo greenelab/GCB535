@@ -1,8 +1,12 @@
 .ssh/*
-.term$
+*.term
 sage-jupyter$
 sage-chat$
 \.*
-^testbed/
+testbed/*
 ^GCB535-Keys/
 .ipynb_checkpoints
+*.course
+GCB535-*
+*DUE_DATE.txt
+2017*
