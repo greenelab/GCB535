@@ -24,7 +24,7 @@
 | 24-Feb 	| -                                           	| 18_GeneExpression-III            	| 17_GeneExpression-II  	|
 | 27-Feb 	| RNA-Seq Primer - I                          	| 19_RNA-Seq-I                     	| 18_GeneExpression-III 	|
 | 1-Mar  	| RNA-Seq Primer - II                         	| 20_RNA-Seq-II                    	| 19_RNA-Seq-I          	|
-| 3-Mar  	| RNA-Seq Primer - II                         	| 21_RNA-Seq-III                   	| 20_RNA-Seq-II         	|
+| 3-Mar  	| RNA-Seq Primer - II                         	| 21_RNA-Seq-III                   	| 20_RNA-Seq-II; Project Proposal         	|
 | -      	| SPRING BREAK - No Class                     	| -                                	| -                     	|
 | 13-Mar 	| -                                           	| Project Meeting                  	| 21_RNA-Seq-III        	|
 | 15-Mar 	| Bioinformatics in Pharmacology              	| 22_Pharmacology                  	|                       	|
