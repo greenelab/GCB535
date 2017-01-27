@@ -1,1 +1,0 @@
-cmd = GSE25836_Human_SGBS_Ads_PPARg_GLITR_1p5_FDR.bed hg18 MotifOutput/ -size 200 -mask -preparsedDir parsed_genome -len 8
