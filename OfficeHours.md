@@ -26,7 +26,7 @@
 | 2/22/2017 | 11:00-12:00 | 10-126           | Ben              |
 | 2/22/2017 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 2/23/2017 | 4:00-5:00   | 10-120           | Katie and Kelsey |
-| 2/24/2017 | 11:00-12:00 | 10-131           | Casey            |
+| 2/24/2017 | Casey interviewing faculty candidate - email to schedule alternative time
 | 3/1/2017  | 11:00-12:00 | 10-126           | Ben              |
 | 3/1/2017 | 4:00-5:00   | 10-100           | Katie and Kelsey |
 | 3/2/2017  | 4:00-5:00   | 10-120           | Katie and Kelsey |
