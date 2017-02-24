@@ -41,6 +41,8 @@ MWF 10a-11a SCTR 10-146
 
 ## Office hours
 
+Office hours are time that we (the instructors and TAs) set aside for you to 
+drop by to talk about the course and ask any questions that you may have.
 TA office hours are open door. Please feel free to attend at your convenience.
 Office hours with Ben and Casey are generally open door. However, students may
 schedule meetings during this time with the course directors, and scheduled
