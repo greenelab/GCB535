@@ -1,0 +1,941 @@
+#!/usr/bin/env perl
+#use warnings;
+#use strict;
+#use FindBin qw($Bin);
+#use lib ("$Bin/lib", "$Bin/lib/perl5");
+#use File::Type;
+
+my $USAGE =  "\nUsage: run_normalization --sample_dirs <file of sample_dirs> --loc <s> --unaligned <file of fa/fqfiles> --alignedfilename <s> --cfg <cfg file> [options]
+
+where:
+--sample_dirs <file of sample_dirs> : is a file of sample directories with alignment output without path
+--loc <s> : full path of the directory with the sample directories
+--unaligned <file of fa/fqfiles> : is a file with the full path of all input fa or fq files
+--alignedfilename <s> : is the name of aligned file; All alignment files MUST have the same name across sample (e.g. RUM.sam, RUM.bam, Aligned.out.sam, Aligned.out.bam) 
+--cfg <cfg file> : is a cfg file for the study
+
+OPTIONS:
+     [pipeline options]
+     By default, the pipeline will run through the steps in PART1 and pause (recommended).
+     You will have a chance to check the following before resuming:
+      (1) number of reads you will have after normalization 
+          - modify the list of sample directories accordingly.
+      (2) percent high expressers
+          - use -cutoff_highexp <n> option to set/change the highexpresser cutoff value.
+
+     -part1_part2 : Use this option if you want to run steps in PART1 and PART2 without pausing. 
+     -part2 : Use this option to resume the pipeline at PART2. You may edit the <file of sample_dirs> file 
+               and/or change the highexpresser cutoff value.
+     -h : print usage 
+     -v : print version of PORT
+     -alt_out <s> : Use this option to provide the full path of the alternate output directory (default: /path/to/studydir/NORMALIZED_DATA/).
+
+     [resume options]
+     You may not change the normalization parameters with resume option.
+     -resume : Use this if you have a job that crashed or stopped.
+               Runs job that has already been initialized or partially run after the last completed step.
+               It may repeat the last completed step.
+     -resume_at \"<step>\" : Use this if you have a job that crashed or stopped.
+                             This resumes at \"<step>\".
+                             **make sure full step name (found in log file) is given in quotes**
+                             (e.g. \"1    \"allsteps.get_total_num_reads\"\")
+
+     [normalization parameters]
+     -cutoff_highexp <n> : is cutoff % value to identify highly expressed genes/exons/introns.
+                           the script will consider genes/exons/introns with gene/exon/intronpercents greater than n(%) as high expressers,
+                           report the list of highly expressed genes/exons and remove the reads that map to those genes/exons/introns.
+                           (Default = 100; with the default cutoff, genes/exons/introns expressed >5% will be reported)
+     -cutoff_lowexp <n> : is cutoff counts to identify low expressers in the final spreadsheets (exon, intron and junc).
+                          the script will consider features with sum of counts for all samples less than <n> as low expressers
+                          and remove them from all samples for the final spreadsheets.
+                          (Default = 0; this will remove features with sum of counts = 0)
+
+     [exon-intron-junction normalization only]
+     -novel_off : set this if you DO NOT want to generate/use a study-specific master list of exons/introns 
+                  (By default, the pipeline will add inferred exons/introns to the list of exons/introns)
+     -min <n> : is minimum size of inferred exon for get_inferred_exons.pl script (Default = 10)
+     -max <n> : is maximum size of inferred exon for get_inferred_exons.pl script (Default = 2000)
+     -depthExon <n> : the pipeline splits filtered sam files into 1,2,3...n exonmappers and downsamples each separately.
+                   (Default = 20)
+     -depthIntron <n> : the pipeline splits filtered sam files into 1,2,3...n intronmappers and downsamples each separately.
+                   (Default = 10)
+     -flanking_region <n> : is used for generating list of flanking regions.
+                            by default, 5000 bp up/downstream of each gene will be considered a flanking region.
+                            use this option to change the size <n>.
+
+";
+
+
+for(my $i=0; $i<@ARGV; $i++) {
+    if ($ARGV[$i] eq '-v'){
+	die "\nPORT v.0.8-beta\n\n";
+    }
+}
+for(my $i=0; $i<@ARGV; $i++) {
+    if ($ARGV[0] eq '-h'){
+	die $USAGE;
+    }
+}
+
+if(@ARGV < 10) {
+    die $USAGE;
+}
+
+my $required = 0;
+my $count_b = 0;
+my $count_r = 0;
+my $min = 10;
+my $max = 2000;
+my $cutoff_he = 100;
+my $flanking = 5000;
+my $filter_high_expressers = "false";
+my $i_exon = 20;
+my $i_intron = 10;
+my $filter_low_expressers = "false";
+my $novel = "true";
+my $shfile_name = "runall_normalization.sh";
+my $resume = "false";
+my $resume_at = "false";
+
+my ($sample_dir, $LOC, $unaligned_file, $alignedfilename, $cfg_file, $cutoff_temp, $last_step);
+my $part2 = "false";
+for(my $i=0; $i<@ARGV; $i++) {
+    my $option_found = "false";
+    if ($ARGV[$i] eq '-part1_part2'){
+	$option_found = "true";
+	$shfile_name = "runall_normalization_part1_part2.sh";
+	$count_b++;
+    }
+    if ($ARGV[$i] eq '-alt_out'){
+	$option_found = "true";
+	$i++;
+    }
+    if ($ARGV[$i] eq '-resume'){
+	$option_found = "true";
+	$resume = "true";
+	$count_r++;
+    }
+    if ($ARGV[$i] eq '-resume_at'){
+	$option_found = "true";
+	$resume = "true";
+	$count_r++;
+	$resume_at = "true";
+	$last_step = $ARGV[$i+1];
+	if ($last_step =~ /^$/){
+	    die "you need to provide -resume_at \"<step>\".\n";
+	}
+	$i++;
+    }
+    if ($ARGV[$i] eq '-part2'){
+        $option_found = "true";
+	$part2 = "true";
+	$shfile_name = "runall_normalization_part2.sh";
+	$count_b++;
+    }
+    if ($ARGV[$i] eq '--sample_dirs'){
+	$option_found = "true";
+	$sample_dir = $ARGV[$i+1];
+	if ($sample_dir =~ /^-/ | $sample_dir eq ""){
+	    die "\nplease provide <file of sample_dirs> for --sample_dirs\n";
+	}
+	$i++;
+	$required++;
+    }
+    if ($ARGV[$i] eq '-novel_off'){
+	$option_found = "true";
+	$novel = "false";
+    }
+    if ($ARGV[$i] eq '--loc'){
+	$option_found = "true";
+        $LOC = $ARGV[$i+1];
+	if ($LOC =~ /^-/ | $LOC eq ""){
+	    die "\nplease provide '/path/to/directory with the sample directories' for --loc\n";
+	}
+        $i++;
+	$required++;
+    }
+    if ($ARGV[$i] eq '--unaligned'){
+	$option_found = "true";
+        $unaligned_file = $ARGV[$i+1];
+	if ($unaligned_file =~ /^-/ | $unaligned_file eq ""){
+	    die "\nplease provide <file of fa/fqfiles> for --unaligned\n";
+	}
+        $i++;
+	$required++;
+    }
+    if ($ARGV[$i] eq '--alignedfilename'){
+	$option_found = "true";
+	$alignedfilename = $ARGV[$i+1];
+	if ($alignedfilename =~ /^-/ | $alignedfilename eq ""){
+	    die "\nplease provide the 'name of aligned file' for --alignedfilename\n";
+	}
+	$i++;
+	$required++;
+    }
+    if ($ARGV[$i] eq '--cfg'){
+	$option_found = "true";
+	$cfg_file = $ARGV[$i+1];
+	if ($cfg_file =~ /^-/ | $cfg_file eq ""){
+	    die "\nplease provide <cfg file> for --cfg\n";
+	}
+	$i++;
+	$required++;
+    }
+    if($ARGV[$i] eq '-min') {
+	$min = $ARGV[$i+1];
+	$i++;
+	$option_found = "true";
+        if ($min !~ /(\d+$)/ ){
+            die "-min <n> : <n> needs to be a number\n";
+        }
+    }
+    if($ARGV[$i] eq '-max') {
+	$max = $ARGV[$i+1];
+	$i++;
+	$option_found = "true";
+        if ($max !~ /(\d+$)/ ){
+            die "-max <n> : <n> needs to be a number\n";
+        }
+    }
+    if($ARGV[$i] eq '-cutoff_highexp') {
+        $cutoff_he = $ARGV[$i+1];
+        $i++;
+        $option_found = "true";
+	$filter_high_expressers = "true";
+        if ($cutoff_he !~ /(\d+$)/ ){
+            die "-cutoff_highexp <n> : <n> needs to be a number\n";
+        }
+    }
+    if ($ARGV[$i] eq '-flanking_region'){
+	$flanking = $ARGV[$i+1];
+	$i++;
+	$option_found = "true";
+	if (($flanking !~ /(\d+$)/) || ($flanking < 0) ){
+
+            die "-flanking_region <n> : <n> needs to be a number greater than 0\n";
+        }
+    }
+    if ($ARGV[$i] eq '-depthExon'){
+	$i_exon = $ARGV[$i+1];
+	if ($i_exon !~ /(\d+$)/ ){
+
+	    die "-depthExon <n> : <n> needs to be a number\n";
+	}
+	$i++;
+	$option_found = "true";
+    }
+    if ($ARGV[$i] eq '-depthIntron'){
+	$i_intron = $ARGV[$i+1];
+	if ($i_intron !~ /(\d+$)/ ){
+	    die "-depthIntron <n> : <n> needs to be a number\n";
+	}
+	$i++;
+	$option_found = "true";
+    }
+    if($ARGV[$i] eq '-cutoff_lowexp') {
+        $cutoff_temp = $ARGV[$i+1];
+        $i++;
+        $option_found = "true";
+        $filter_low_expressers = "true";
+        if ($cutoff_temp !~ /(\d+$)/ ){
+            die "-cutoff_lowexp <n> : <n> needs to be a number\n";
+        }
+    }
+    if($option_found eq "false") {
+        die "option \"$ARGV[$i]\" was not recognized.\n";
+    }
+}
+$LOC =~ s/\/$//;
+my @fields = split("/", $LOC);
+my $last_dir = $fields[@fields-1];
+my $study_dir = $LOC;
+$study_dir =~ s/$last_dir//;
+my $study = $fields[@fields-2];
+my $home = $ENV{HOME};
+my $lastjobs = "$home/.lastjobs.temp";
+
+
+if ($required ne '5'){
+    
+    die "please specify the required parameters: --sample_dirs, --loc, --unaligned, --alignedfilename and --cfg\n";
+}
+if ($count_b > 1){
+    
+    die "you can only set one of the following options: -part1_part2, -part2\n";
+}
+if ($count_r > 1){
+    
+    die "you can only set one of the following options: -resume, -resume_at \"<step>\"\n";
+}
+my $dirs = `wc -l $sample_dir`;
+my @a = split(" ", $dirs);
+my $num_samples = $a[0];
+my $cutoff_le = 0;
+if ($filter_low_expressers eq "true"){
+    $cutoff_le = $cutoff_temp;
+}
+
+
+my $GNORM = "false";
+my $EIJ = "false";
+#check_config file
+unless (-e $cfg_file){
+    
+    die "ERROR: cannot find file \"$cfg_file\". please provide a cfg file for the study\n";
+}
+my %Config;
+&parse_config_file ($cfg_file, \%Config);
+
+use Cwd 'abs_path';
+my $norm_script_dir = abs_path($0);
+$norm_script_dir =~ s/\/run_normalization//;
+
+my $normcnt = 0;
+if ($GENE_NORM =~ /true/i){
+    $GNORM = "true";
+    $normcnt++;
+}
+if ($EXON_INTRON_JUNCTION_NORM =~ /^true/i){
+    $EIJ = "true";
+    $normcnt++;
+}
+
+if ($normcnt == 0){
+    
+    die "ERROR: Please select a type of Normalization you'd like to use (# 0. NORMALIZTION and DATA TYPE - [A] Normalization Type in your cfg file \"$cfg_file\")\n\n";
+}
+my $geneinfo;
+if ($EIJ eq "true"){
+    $geneinfo = $ENSGENES_FILE;
+    unless (-e $geneinfo){
+	die "ERROR: cannot find file \"$geneinfo\"\nYou need to provide [2] gene information file for Exon-Intron-Junction Normalization (# 2. GENE INFO in your cfg file \"$cfg_file\")\n\n";
+    }
+}
+my $chromname = "false";
+my $chrom = $CHRNAMES;
+my %CNAMES;
+unless ($chrom =~ /^$/){
+    $chromname = "true";
+    unless (-e $chrom){
+	die "ERROR: cannot find file \"$chrom\"\nPlease double check [D-i] File of standard chromosome (# 0. NORMALIZTION and DATA TYPE in your cfg file \"$cfg_file\")\n\n";
+    }
+    open(NAMES, $chrom);
+    while(my $line = <NAMES>){
+	chomp($line);
+	$CNAMES{$line}=1;
+    }
+    close(NAMES);
+}
+
+my $mito = $CHRM;
+if ($mito =~ /^$/){
+    
+    die "ERROR: You need to provide [D-ii] Name of mitochondrial chromosome (# 0. NORMALIZTION and DATA TYPE in your cfg file \"$cfg_file\")\n\n";
+}
+
+my $genome = $GENOME_FA;
+unless (-e $genome){
+    
+    die "ERROR: cannot find file \"$genome\"\nYou need to provide [1] genome sequence one-line fasta file (# 3. FA and FAI in your cfg file \"$cfg_file\")\n\n";
+}
+my $fai = $GENOME_FAI;
+unless (-e $fai){
+    
+    die "ERROR: cannot find file \"$fai\"\nYou need to provide [2] index file (# 3. FA and FAI in your cfg file \"$cfg_file\")\n\n";
+}
+
+my $pref = "false";
+if ($rRNA_PREFILTERED =~ /^true/i){
+    $pref = "true";
+}
+=comment
+my $rRNA = $rRNA_FA;
+if ($pref eq "false"){
+    unless (-e $rRNA){
+	die "ERROR: cannot find file \"$rRNA\"\nYou need to provide [2] rRNA sequence fasta file (# 4. rRNA in your cfg file \"$cfg_file\")\n\n";
+    }
+}
+=cut
+my $ensGene;
+if ($GNORM eq "true"){
+    $ensGene = $ENSGENES_FILE;
+    unless (-e $ensGene){
+	die "ERROR: cannot find file \"$ensGene\"\nYou need to provide [1] Gene information file for [Gene Normalization] (# 2. GENE INFO in your cfg file \"$cfg_file\")\n\n";
+    }
+}
+
+my $strand_info = "";
+my $strand_info_sam2cov = "";
+if ($STRANDED =~ /^true/i){
+    $strand_info_sam2cov = "-str";
+    my $strand_flag = 0;
+    if ($FWD =~ /^true/i){
+	$strand_flag++;
+	$strand_info = "-str_f";
+    }
+    if ($REV =~ /^true/i){
+	$strand_flag++;
+	$strand_info = "-str_r";
+    }
+    if ($strand_flag ne "1"){
+	die "Please specify the read orientation. (# 0. NORMALIZTION and DATA TYPE - [B] Stranded Data in your cfg file \"$cfg_file\")\n\n";
+    }
+}
+my $sam2cov = "false";
+my $sam2cov_loc;
+if ($SAM2COV =~ /^true/i){
+    $sam2cov = "true";
+    my $num_cov = 0;
+=comment
+    unless (-e $SAM2COV_LOC){
+	die "You need to provide sam2cov location. (# 5. DATA VISUALIZATION in your cfg file \"$cfg_file\")\n";
+    }
+=cut
+    $sam2cov_loc = $SAM2COV_LOC;
+    if ($RUM =~ /^true/i){
+	$aligner = "-rum";
+	$num_cov++;
+    }
+    if ($STAR_GSNAP =~ /^true/i){
+	$aligner = "-star";
+	$num_cov++;
+    }
+    if ($num_cov ne '1'){
+	die "Please specify which aligner was used. (# 5. DATA VISUALIZATION in your cfg file \"$cfg_file\")\n\n";
+    }
+}
+my $delete_int_sam = "true";
+my $convert_sam2bam = "false";
+my $gzip_cov = "false";
+if ($DELETE_INT_SAM ne ""){
+    if ($DELETE_INT_SAM =~ /^true/i){
+	$delete_int_sam = "true";
+    }
+    if ($DELETE_INT_SAM=~ /^false/i){
+	$delete_int_sam = "false";
+    }
+}
+if ($CONVERT_SAM2BAM ne ""){
+    if ($CONVERT_SAM2BAM =~ /^true/i){
+	$convert_sam2bam = "true";
+    }
+    if ($CONVERT_SAM2BAM =~ /^false/i){
+	$convert_sam2bam= "false";
+    }
+}
+my $samtools = $SAMTOOLS;
+if ($samtools =~ /^$/){
+    
+    die "You need to provide samtools location. (# 3. FA and FAI - [3] samtools in your cfg file \"$cfg_file\")\n";
+}
+if ($GZIP_COV ne ""){
+    if ($GZIP_COV =~ /^true/i){
+	$gzip_cov = "true";
+    }
+    if ($GZIP_COV =~ /^false/i){
+	$gzip_cov = "false";
+    }
+}
+
+my $lsf = "false";
+my $sge = "false";
+my $other = "false";
+my $num_cluster = 0;
+my ($batchjobs,  $jobname, $status, $request, $queue_3G,  $queue_6G, $queue_10G, $queue_15G, $queue_30G, $queue_45G, $queue_60G, $submit, $c_option, $maxjobs);
+if ($SGE_CLUSTER =~ /^true/i){
+    $num_cluster++;
+    if ($QUEUE_NAME_3G_sge eq "" | $QUEUE_NAME_6G_sge eq "" | $QUEUE_NAME_10G_sge eq "" |  $QUEUE_NAME_15G_sge eq "" | $QUEUE_NAME_30G_sge eq "" | $QUEUE_NAME_45G_sge eq "" | $QUEUE_NAME_60G_sge eq "" | $MAX_JOBS_sge eq "" | $REQUEST_RESOURCE_OPTION_sge eq ""){
+        die "ERROR: please provide all required CLUSTER INFO for SGE_CLUSTER in the config file \"$cfg_file\"\n";
+    }
+    else{
+	$batchjobs = "qsub -cwd";
+	$jobname = "-N";
+	$status = "qstat -r";
+	$request = $REQUEST_RESOURCE_OPTION_sge;
+	$queue_3G = $QUEUE_NAME_3G_sge;
+	$queue_6G = $QUEUE_NAME_6G_sge;
+	$queue_10G = $QUEUE_NAME_10G_sge;
+	$queue_15G = $QUEUE_NAME_15G_sge;
+	$queue_30G = $QUEUE_NAME_30G_sge;
+	$queue_45G = $QUEUE_NAME_45G_sge;
+	$queue_60G = $QUEUE_NAME_60G_sge;
+	$submit = "-sge";
+	$sge = "true";
+	$c_option = $submit;
+	$maxjobs = $MAX_JOBS_sge;
+    }
+}
+if ($LSF_CLUSTER =~ /^true/i){
+    $num_cluster++;
+    if ($QUEUE_NAME_3G_lsf eq "" | $QUEUE_NAME_6G_lsf eq "" | $QUEUE_NAME_10G_lsf eq "" |  $QUEUE_NAME_15G_lsf eq "" | $QUEUE_NAME_30G_lsf eq "" | $QUEUE_NAME_45G_lsf eq "" | $QUEUE_NAME_60G_lsf eq "" | $MAX_JOBS_lsf eq "" | $REQUEST_RESOURCE_OPTION_lsf eq ""){
+        die "ERROR: please provide all required CLUSTER INFO for LSF_CLUSTER in the config file \"$cfg_file\"\n";
+    }
+    else{
+	$batchjobs = "bsub";
+	$jobname = "-J";
+	$status = "bjobs -w";
+	$request = $REQUEST_RESOURCE_OPTION_lsf;
+	$queue_3G = $QUEUE_NAME_3G_lsf;
+	$queue_6G = $QUEUE_NAME_6G_lsf;
+	$queue_10G = $QUEUE_NAME_10G_lsf;
+	$queue_15G = $QUEUE_NAME_15G_lsf;
+	$queue_30G = $QUEUE_NAME_30G_lsf;
+	$queue_45G = $QUEUE_NAME_45G_lsf;
+	$queue_60G = $QUEUE_NAME_60G_lsf;
+	$submit = "-lsf";
+	$lsf = "true";
+	$c_option = $submit;
+	$maxjobs = $MAX_JOBS_lsf;
+    }
+}
+if ($OTHER_CLUSTER =~ /^true/i){
+    $num_cluster++;
+    if ($SUBMIT_BATCH_JOBS eq "" | $JOB_NAME_OPTION eq "" | $CHECK_STATUS_FULLNAME eq "" | $REQUEST_RESOURCE_OPTION eq "" | $QUEUE_NAME_3G eq "" | $QUEUE_NAME_6G eq "" | $QUEUE_NAME_10G eq "" |  $QUEUE_NAME_15G eq "" | $QUEUE_NAME_30G eq "" | $QUEUE_NAME_45G eq "" | $QUEUE_NAME_60G eq "" | $MAX_JOBS eq ""){
+	die "ERROR: please provide all required CLUSTER INFO for OTHER_CLUSTER in the config file \"$cfg_file\"\n";
+    }
+    else {
+	$batchjobs = $SUBMIT_BATCH_JOBS;
+	$jobname = $JOB_NAME_OPTION;
+	$status = $CHECK_STATUS_FULLNAME;
+	$request = $REQUEST_RESOURCE_OPTION;
+	$queue_3G = $QUEUE_NAME_3G;
+	$queue_6G = $QUEUE_NAME_6G;
+	$queue_10G = $QUEUE_NAME_10G;
+	$queue_15G = $QUEUE_NAME_15G;
+	$queue_30G = $QUEUE_NAME_30G;
+	$queue_45G = $QUEUE_NAME_45G;
+	$queue_60G = $QUEUE_NAME_60G;
+	$submit = "-other";
+	$other = "true";
+	$maxjobs = $MAX_JOBS;
+    }
+}
+if ($num_cluster ne '1'){
+    
+    die "ERROR: please specify which cluster you're using in your configuration file \"$cfg_file\"\n";
+}
+
+my $shdir = $study_dir . "shell_scripts";
+my $logdir = $study_dir . "logs";
+my $logfile = $logdir . "/$study.run_normalization.log";
+unless (-d $shdir){
+    `mkdir $shdir`;}
+unless (-d $logdir){
+    `mkdir $logdir`;}
+
+my %SAMFLAGS;
+my $bam = "false";
+my $bam_cnt = 0;
+my $bam_option = "-sam";
+#check sam/bam
+=comment
+open(IN, $sample_dir) or die "ERROR: cannot find file \"$sample_dir\".\nPlease provide a file of sample directories.\n";
+while (my $line = <IN>){
+    chomp($line);
+    $line =~ s/^\s+|\s+$//g;
+    my $file_loc = "$LOC/$line/$alignedfilename";
+    #check if the aligned files exist
+    unless (-e $file_loc){
+        die "ERROR: Aligned file \"$file_loc\" does not exist. Please double check --sample_dirs, --loc, and --alignedfilename\n";
+    }
+    my $ft = File::Type->new();
+    my $type_from_file = $ft->checktype_filename($file_loc);
+    if ($type_from_file =~ /zip/){
+	$bam = "true";
+	$bam_cnt++;
+	$bam_option = "-bam";
+    }
+}
+close(IN);
+
+unless (($bam_cnt == 0) || ($bam_cnt == $num_samples)){
+    die "\nERROR: All input aligned files need to be in the same format (sam/bam).\n\n";
+}
+=cut
+my $se = "false";
+my $pe = "false";
+my $se_option = "";
+my $se_cnt = 0;
+
+#check single/paired
+unless (-e $sample_dir){
+    
+}
+open(IN, $sample_dir) or die "ERROR: cannot find file \"$sample_dir\".\nPlease provide a file of sample directories.\n";
+while (my $line = <IN>){
+    chomp($line);
+    $line =~ s/^\s+|\s+$//g;
+    my $file_loc = "$LOC/$line/$alignedfilename";
+    if ($bam eq "false"){#samfile
+	my $count = 0;
+	open(SAM, $file_loc);
+	while(!eof(SAM)){
+	    my $line = <SAM>;
+	    if ($count > 10000){
+		last;
+	    }
+	    chomp($line);
+	    if ($line =~ /^@/){
+		next;
+	    }
+	    my @a = split(/\t/,$line);
+	    my $bit = $a[1];
+	    if ($bit & 1){
+		$pe = "true";
+	    }
+	    else{
+		$se = "true";
+	    }
+	    $count++;
+	}
+	close(SAM);
+    }
+    if ($bam eq "true"){#bamfile
+	unless ($file_loc =~ /.bam$/i){
+	    
+	    die "\nERROR: Input BAM file name must end with \".bam\"\n\n";
+	}
+	my $x = `$samtools view -h $file_loc | head -10000 | grep -v ^@ | cut -f 2 | sort -u >> $LOC/bitflags.tmp`;
+    }
+}
+close(IN);
+
+if ($bam eq "true"){
+    open(BIT, "$LOC/bitflags.tmp") or die "ERROR: cannot find $LOC/bitflags.tmp\n";
+    while(my $bit = <BIT>){
+	chomp($bit);
+	if ($bit & 1){
+	    $pe = "true";
+	}
+	else{
+	    $se = "true";
+	}
+    }
+    close(BIT);
+}
+
+if ((($pe eq "true") && ($se eq "true")) || (($pe eq "false") && ($se eq "false"))){
+    
+    die "ERROR: All input aligned files need to be in the same format (single/paired end).\n\n";
+}
+
+if (-e "$LOC/bitflags.tmp"){
+    my $r = `rm $LOC/bitflags.tmp`;
+}
+if ($se eq "true"){
+    $se_option = "-se";
+}
+my $gz = "false";
+my $gz_option = "";
+my $gz_cnt=0;
+my $ua_option = "";
+my $fa = "false";
+my $fq = "true";
+=comment
+#check fq/fa format
+open(IN, $unaligned_file) or die "ERROR: cannot find file \"$unaligned_file\".\nPlease provide a file of unaligned reads.\n";
+while (my $line = <IN>){
+    chomp($line);
+    unless (-e $line){
+	die "ERROR: Unaligned file \"$line\" does not exist.\n";
+    }
+    my $ft = File::Type->new();
+    my $type_from_file = $ft->checktype_filename($line);
+    if ($type_from_file =~ /zip/){
+	$gz_option = "-gz";
+	$gz_cnt++;
+	$gz = "true";
+    }
+    my $firstline;
+    if ($gz eq "true"){
+	$firstline = `zcat $line | head -1`;
+    }
+    else{
+	$firstline = `head -1 $line`;
+    }
+    if ($firstline =~ /^@/){
+	$ua_option = "-fq";
+	$fq = "true";
+    }
+    else{
+	if ($firstline =~ /^>/){
+	    $ua_option = "-fa";
+	    $fa = "true";
+	}
+	else{
+	    die "\nERROR: Unaligned files need to be in fastq or fasta format.\n\n";
+	}
+    }
+}
+close(IN);
+=cut
+$ua_option = "-fq";
+unless (($gz_cnt == 0) || ($gz_cnt == $num_samples * 2) || ($gz_cnt == $num_samples)){
+    
+    die "\nERROR: All input unaligned files need to be in the same format.\n\n";
+}
+if ((($fa eq "true") && ($fq eq "true")) || (($fa eq "false") && ($fq eq "false"))){
+    
+    die "ERROR: All input unaligned files need to be in the same format (fastq/fasta).\n\n";
+}
+
+#check input fa, gene info, ensgenes
+my %CHR;
+if ($EIJ eq "true"){
+    open(EIJ, $geneinfo) or die "ERROR: cannot find file \"$geneinfo\"\n";
+    my $header = <EIJ>;
+    chomp($header);
+    my @EIJHEADER = split(/\t/, $header);
+    my ($chrcol, $exonstartcol, $exonendcol, $strandcol, $txSt, $txEnd);
+    for(my $i=0; $i<@EIJHEADER; $i++){
+        if ($EIJHEADER[$i] =~ /strand$/){
+            $strandcol = $i;
+        }
+        if ($EIJHEADER[$i] =~ /chrom$/){
+            $chrcol = $i;
+        }
+        if ($EIJHEADER[$i] =~ /exonStarts$/){
+            $exonstartcol = $i;
+        }
+        if ($EIJHEADER[$i] =~ /exonEnds$/){
+            $exonendcol = $i;
+        }
+        if ($EIJHEADER[$i] =~ /txStart$/){
+            $txSt = $i;
+        }
+        if ($EIJHEADER[$i] =~ /txEnd$/){
+            $txEnd = $i;
+        }
+    }
+
+    if (!defined($chrcol) || !defined($exonstartcol) || !defined($exonendcol) || !defined($strandcol) || !defined($txSt) || !defined($txEnd)){
+        die "\nERROR: Input GENE_INFO_FILE \"$geneinfo\"\nmust contain column headers with the following suffixes: chrom, strand, txStart, txEnd, exonStarts, and exonEnds.\n\n";
+    }
+    while(my $line = <EIJ>){
+        chomp($line);
+        my @a = split(/\t/, $line);
+        my $chr = $a[$chrcol];
+        $CHR{$chr} = 1;
+    }
+    close(EIJ);
+}
+if ($GNORM eq "true"){
+    open(ENS, $ensGene) or die "ERROR: cannot find file \"$ensGene\"\n";
+    my $header = <ENS>;
+    chomp($header);
+    my @ENSHEADER = split(/\t/, $header);
+    my ($genenamecol, $genesymbolcol, $txchrcol, $txstartcol, $txendcol, $strandcol, $exonStcol, $exonEndcol);
+    for(my $i=0; $i<@ENSHEADER; $i++){
+        if ($ENSHEADER[$i] =~ /name2$/){
+            $genenamecol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /strand$/){
+            $strandcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /ensemblToGeneName.value$/){
+            $genesymbolcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /chrom/){
+            $txchrcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /txStart/){
+            $txstartcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /txEnd/){
+            $txendcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /exonStarts$/){
+            $exonStcol = $i;
+        }
+        if ($ENSHEADER[$i] =~ /exonEnds$/){
+            $exonEndcol = $i;
+        }
+    }
+    if (!defined($genenamecol) || !defined($genesymbolcol) || !defined($txchrcol) || !defined($txstartcol)|| !defined($txendcol) || !defined($strandcol) || !defined($exonStcol) || !defined($exonEndcol)){
+        die "\nERROR: Input ENSGENES_FILE \"$ensGene\"\nmust contain column headers with the following suffixes: name, chrom, strand, txStart, txEnd, exonStarts, exonEnds, name2, ensemblToGeneName.value\n\n";
+    }
+    while(my $line = <ENS>){
+        chomp($line);
+        my @a = split(/\t/, $line);
+        my $chr = $a[$txchrcol];
+        $CHR{$chr} = 1;
+    }
+    close(ENS);
+}
+
+open(FA, $genome) or die "cannot open \"$genome\"\n\n";
+while(my $line = <FA>){
+    chomp($line);
+    if ($line =~ /^>/){
+        my $chr;
+        if ($line =~ /\ /){
+            $line =~ />(.*)/;
+            my $temp = $1;
+            $temp =~ s/^\s+|\s+$//g;
+            my @t = split(" ", $temp);
+            $chr = $t[0];
+	}
+        else{
+            $line =~ />(.*)/;
+            $chr = $1;
+        }
+        $chr =~ s/:[^:]*$//;
+	if (exists $CHR{$chr}){
+	    delete $CHR{$chr};
+	}
+	if ($chromname eq "true"){
+	    if (exists $CNAMES{$chr}){
+		delete $CNAMES{$chr};
+	    }
+	}
+    }
+    else{
+        next;
+    }
+}
+close(FA);
+my $hashsize = keys(%CHR);
+if ($hashsize > 0){
+    
+    die "\nERROR: Please check the input GENOME_FA \"$genome\".\nDescription line (\">\") must begin with a chromosome name that matches the chromosome names in GENE INFO (# 2. GENE INFO in your cfg file \"$cfg_file\").\nPlease check and modify the file(s) appropriately.\n\n";
+}
+if ($chromname eq "true"){
+    my $hashsize2 = keys(%CNAMES);
+    if ($hashsize2 > 0){
+	die "\nERROR: Please check the input \"$chrom\".\nDescription line (\">\") must begin with a chromosome name that matches the chromosome names in [D-i] File of standard chromosome (# 0. NORMALIZATION AND DATA TYPE in your cfg file \"$cfg_file\").\nPlease check and modify the file(s) appropriately.\n\n";
+    }
+}
+#if resume option used, check if the log file exists
+if (($resume eq "true") && ($resume_at eq "false")){
+    unless (-e $logfile){
+	die "ERROR: Log file \"$logfile\" does not exist. Please use -resume_at \"<step>\" option to resume.\n\n";
+    }
+}
+my $runall_shfile = $shdir . "/" . $shfile_name;
+open(SH, ">$runall_shfile");
+if ($resume_at eq "true"){
+    $argv = join(" ", &args2shell(@ARGV));
+}
+else{
+    $argv = join(" ", @ARGV);
+}
+my $pid = open my $fhOut, "| sleep 1", or die;
+chomp($pid);
+print SH "perl $norm_script_dir/runall_normalization.pl $argv --pid $pid $se_option $bam_option $gz_option $ua_option\n";
+close(SH);
+my $start = `TZ='US/Eastern' date`;
+# lastjobs
+my @a = split(" ", $start);
+my $node = int(rand(136))+4;
+my $time = substr($a[3],0,5);
+my $jobname_lastjob = "$study.RUNALL_NORMALIZATION\t$a[1] $a[2] $time\t$pid\t$node";
+my ($p2_I, $p2_E);
+if ($part2 eq "true"){
+#if -part2 is set, check to make sure runall_normalization.sh file exists.
+    unless ((-e "$shdir/runall_normalization.sh") || (-e "$shdir/runall_normalization_part1_part2.sh")){
+	die "ERROR: cannot find file \"$shdir/runall_normalization.sh\" or \"$shdir/runall_normalization_part1_part2.sh\".\n-part2 option cannot be used. please run the pipeline using default pipeline setting first.\n";
+    }
+#if -depthE and/or -depthI is greater than before
+    my $default_sh;
+    if (-e "$shdir/runall_normalization.sh"){
+	$default_sh = `cat $shdir/runall_normalization.sh`;
+    }
+    if (-e "$shdir/runall_normalization_part1_part2.sh"){
+	$default_sh = `cat $shdir/runall_normalization_part1_part2.sh`;
+    }
+    my $part2_sh = `cat $runall_shfile`;
+    my $def_E = 20;
+    my $def_I = 10;
+    my $res_E = 20;
+    my $res_I = 10;
+    if ($default_sh =~ /-depthE/){
+	$default_sh =~ /-depthE\ (\d+)/;
+	$def_E = $1;
+	if ($def_E =~ /^$/){
+	    $def_E = 20;
+	}
+    }
+    if ($default_sh =~ /-depthI/){
+	$default_sh =~ /-depthI\ (\d+)/;
+	$def_I = $1;
+	if ($def_I =~ /^$/){
+	    $def_I = 10;
+	}
+    }
+    if ($part2_sh =~ /-depthE/){
+	$part2_sh =~ /-depthE\ (\d+)/;
+	$p2_E = $1;
+	if ($p2_E =~ /^$/){
+	    $p2_E = 20;
+	}
+    }
+    else{
+	$p2_E = 20;
+    }
+    if ($part2_sh =~ /-depthI/){
+	$part2_sh =~ /-depthI\ (\d+)/;
+	$p2_I = $1;
+	if ($p2_I =~ /^$/){
+	    $p2_I = 10;
+	}
+    }
+    else{
+	$p2_I = 10;
+    }
+    if (($p2_E > $def_E)){
+	die "ERROR: Check \"-depthE <n>\" option. <n> cannot be greater than $def_E.\n";
+    }
+    if (($p2_I > $def_I)){
+	die "ERROR: Check \"-depthI <n>\" option. <n> cannot be greater than $def_I.\n";
+    }
+    #if -part2 is set and $novel is true, check and make sure study-specific master list of exon exists.
+    if ($EIJ eq "true"){
+	if ($novel eq "true") {
+	    unless (-e "$LOC/master_list_of_exons.$study.txt"){
+		die "ERROR: cannot find file \"$LOC/master_list_of_exons.$study.txt\"\nMake sure PART1 completed successfully\n";
+	    }
+	}
+    }
+}
+
+my @s = split(" ", $status);
+my $stat = $s[0];
+while(qx{$stat | wc -l} > $maxjobs){
+    sleep(10);
+}
+my $check_study_port = `$status | grep -w $study.RUNALL_NORMALIZATION | wc -l`;
+if ($check_study_port == 1){
+    die "\nERROR: PORT job with study name \"$study\" is already running.\n\n"
+}
+my $j = `echo "$jobname_lastjob" >> $lastjobs`;
+system("bash $runall_shfile &");
+#`$batchjobs $request$queue_3G $jobname "$study.RUNALL_NORMALIZATION" -o $logdir/$study.runall_normalization.out -e $logdir/$study.runall_normalization.err < $runall_shfile`;
+
+sub args2shell{
+    local (@argv) = @_;
+    local $" = '\' \'';
+    local (@margv);
+
+    @margv = map { s/'/'\\''/g; $_ } @argv;
+    return "\'@margv\'" if @margv;
+    return undef;   
+} 
+
+sub parse_config_file () {
+    my ($File, $Config) = @_;
+    open(CONFIG, "$File") or die "ERROR: Config file not found : $File\n";
+    while (my $config_line = <CONFIG>) {
+	chomp($config_line);
+        $config_line =~ s/^\s*//;
+        $config_line =~ s/\s*$//;
+        if ( ($config_line !~ /^#/) && ($config_line ne "") ){
+	    my ($Name, $Value) = split(/\s*=\s*/, $config_line);
+	    if ($Value =~ /^"/){
+		$Value =~ s/^"//;
+		$Value =~ s/"$//;
+	    }
+	    $Config{$Name} = $Value;
+	    $$Name = $Value;
+	}
+    }
+}
