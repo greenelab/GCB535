@@ -41,7 +41,7 @@
 | 3/24/2017 | 11:00-12:00 | 10-131           | Casey            |
 | 3/29/2017 | 11:00-12:00 | 10-126           | Ben              |
 | 3/29/2017 | 4:00-5:00   | 10-100           | Katie and Kelsey |
-| 3/30/2017 | 4:00-5:00   | 10-120           | Katie and Kelsey |
+| 3/30/2017 | TA office hours canceled - Email to schedule alternative time
 | 3/31/2017 | 11:00-12:00 | 10-131           | Casey            |
 | 4/5/2017  | 11:00-12:00 | 10-126           | Ben              |
 | 4/5/2017  | 4:00-5:00   | 10-100           | Katie and Kelsey |
