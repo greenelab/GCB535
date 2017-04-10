@@ -41,7 +41,7 @@
 | 10-Apr 	| Intro to PLINK                              	| 33_Variation-I                   	| 32_ML-V               	|
 | 12-Apr 	| Analysis of Genetic Variation               	| 34_Variation-II                  	| 33_Variation-I        	|
 | 14-Apr 	| OPEN STUDIO                                 	|                                  	| 34_Variation-II       	|
-| 17-Apr 	| -                                           	| "Demo Day" (Greene, Voight, TAs) 	| -                     	|
+| 17-Apr 	| -                                           	| Student Presentations           	| -                     	|
 | 19-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 21-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 24-Apr 	| -                                           	| Student Presentations            	| -                     	|
