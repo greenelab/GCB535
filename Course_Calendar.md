@@ -2,8 +2,8 @@
 
 | Date   	| Topic                                       	| In Class + Homework Directory    	| Homework Due          	|
 |--------	|---------------------------------------------	|----------------------------------	|-----------------------	|
-| 11-Jan 	| Lecture Intro/Databases                     	| 00_Sagemathcloud                 	| -                     	|
-| 13-Jan 	| Seeking Biological Info Online              	| 01_Databases                     	| 00_Sagemathcloud      	|
+| 11-Jan 	| Lecture Intro/Databases                     	| 00_Cocalc                     	| -                     	|
+| 13-Jan 	| Seeking Biological Info Online              	| 01_Databases                     	| 00_Cocalc             	|
 | 16-Jan 	| MLK Day - No Class                          	| -                                	| --                    	|
 | 18-Jan 	| UNIX Directories and Files                  	| 02_Unix-I                        	| 01_Online_Databases   	|
 | 20-Jan 	| UNIX Web Resources and Workflows            	| 03_Unix-II                       	| 02_Unix-I             	|

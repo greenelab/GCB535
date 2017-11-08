@@ -57,7 +57,7 @@ for your convenience.
 
 ## Course web site
 
-We will use [SageMathCloud](https://cloud.sagemath.com/) for in class exercises
+We will use [CoCalc](https://cocalc.com/) for in class exercises
 and homework. Completed assignments will be collected through this system.
 [Canvas](https://upenn.instructure.com/) is used to return grades to students.
 
