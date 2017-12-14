@@ -1,0 +1,8 @@
+name: R-kernel-GCB535
+channels:
+- bioconda
+- conda-forge
+dependencies:
+- anaconda::R=3.4
+- r::r-irkernel=0.7.1
+- bioconda::bioconductor-seqlogo=1.44.0
