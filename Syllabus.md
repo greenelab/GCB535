@@ -5,39 +5,45 @@
 ### Course Directors
 
 #### Benjamin F. Voight, PhD
-   Department of Systems Pharmacology and Translational Therapeutics
-   Department of Genetics
-   10-126 Smilow Center for Translational Research (SCTR)
-   3400 Civic Center Blvd
-   215-746-8083
-   bvoight@upenn.edu
+    Department of Systems Pharmacology and Translational Therapeutics
+    Department of Genetics
+    10-126 Smilow Center for Translational Research (SCTR)
+    3400 Civic Center Blvd
+    215-746-8083
+    bvoight28@gmail.com
 
 #### Casey S. Greene, PhD
-Department of Systems Pharmacology and Translational Therapeutics
-10-131 Smilow Center for Translational Research (SCTR)
-3400 Civic Center Blvd
-215-573-2991
-csgreene@upenn.edu
+    Department of Systems Pharmacology and Translational Therapeutics
+    10-131 Smilow Center for Translational Research (SCTR)
+    3400 Civic Center Blvd
+    215-573-2991
+    greenescientist@gmail.com
+
+#### Ophir Shalem, PhD
+    Department of Genetics
+    Center of Cellular and Molecular Therapeutics
+    3501 Civic Center Boulevard
+    5th floor CTRB, room 5050
+    shalemo@upenn.edu
 
 ### Teaching assistants
 
-* [Katie Siewert](mailto:ksiewert@mail.med.upenn.edu)    ksiewert@mail.med.upenn.edu
-* [Kelsey Johnson](mailto:kelsj@mail.med.upenn.edu)     kelsj@mail.med.upenn.edu
+[Kelsey Johnson](mailto:kelseyelizabethjohnson@gmail.com): kelseyelizabethjohnson@gmail.com
 
-### Guest proctors:
+[Greg Way](mailto:gregory.way@gmail.com): gregory.way@gmail.com
 
-* [Greg Grant](mailto:ggrant543@gmail.com)
 
 ### Keywords
 
-* Ben Voight: genetic variation, human genetics, diabetes
+* Ben Voight: human genetics, statistics, cardiometabolic disease
 * Casey Greene: machine learning, systems biology, gene expression
-* Katie Siewert: evolution, human genetics
+* Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
+* Greg Way: machine learning, cancer genomics, data science
 * Kelsey Johnson: human genetics, evolution
 
 ## Location and time
 
-MWF 10a-11a SCTR 10-146
+* MWF 10a-11a SCTR 10-146
 
 ## Office hours
 
@@ -53,7 +59,8 @@ for your convenience.
 
 * BFV: Wednesday 11a-12p in SCTR 10-126
 * CSG: Friday 11a-12p in SCTR 10-131
-* TAs: Wednesday 4-5 PM in Room 10-100, Thursday 4-5 PM in Room 10-120
+* OS: Monday, 1-2p in room TBD
+* TAs: Tuesday XX-XX PM in Room 10-100 SCTR, Thursday 2-3 PM in Room 10-120 SCTR
 
 ## Course web site
 
@@ -111,7 +118,7 @@ Grades are composed of:
 25% oral presentation)
 * homework assignments (30%)
 * prelab assignments (10%)
-* class participation (10%).
+* class participation (10%)
 
 For the homework grade, we will drop scores from the 3 lowest scoring
 assignments when determining the final grade.
