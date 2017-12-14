@@ -1,0 +1,8 @@
+name: python-kernel-GCB535
+channels:
+- bioconda
+- conda-forge
+dependencies:
+- anaconda::python=2.7
+- conda-forge::ipykernel=4.7.0
+- bioconda::plink=1.90b4
