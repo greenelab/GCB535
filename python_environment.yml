@@ -1,0 +1,11 @@
+name: python-kernel-GCB535
+channels:
+- bioconda
+- conda-forge
+dependencies:
+- anaconda::python=2.7
+- anaconda::scikit-learn=0.19.1
+- conda-forge::ipykernel=4.7.0
+- bioconda::plink=1.90b4
+- bioconda::homer=4.9.1
+- bioconda::samtools=1.6
