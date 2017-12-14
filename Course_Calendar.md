@@ -27,21 +27,21 @@
 | 2-Mar  	| RNA-Seq Primer - II                         	| 21_RNA-Seq-III                   	| 20_RNA-Seq-II; Project Proposal         	|
 | -      	| SPRING BREAK - No Class                     	| -                                	| -                     	|
 | 12-Mar 	| -                                           	| Project Meeting                  	| 21_RNA-Seq-III        	|
-| 14-Mar 	| Bioinformatics in Pharmacology              	| 22_Pharmacology                  	|                       	|
+| 14-Mar 	| Bioinformatics in Pharmacology              	| 22_Pharmacology                  	| -                      	|
 | 16-Mar 	| Programming in Python - I                   	| 23_Python-I                      	| 22_Pharmacology       	|
 | 19-Mar 	| Programming in Python - II                  	| 24_Python-II                     	| 23_Python-I           	|
 | 21-Mar 	| Programming in Python - III                 	| 25_Python-III                    	| 24_Python-II          	|
 | 23-Mar 	| Programming in Python - IV                  	| 26_Python-IV                     	| 25_Python-III         	|
 | 26-Mar 	| Programming in Python - V                   	| 27_Python-V                      	| 26_Python-IV          	|
 | 28-Mar 	| Machine Learning (ML) - I                   	| 28_ML-I                          	| 27_Python-V           	|
-| 30-Mar 	| ML - II                                     	| 29_ML-II                         	| 28_ML-I               	|
-| 2-Apr  	| ML - III                                    	| 30_ML-III                        	| 29_ML-II              	|
-| 4-Apr  	| ML - IV                                     	| 31_ML-IV                         	| 30_ML-III             	|
-| 6-Apr  	| ML - V                                      	| 32_ML-V                          	| 31_ML-IV              	|
-| 9-Apr 	| Intro to PLINK                              	| 33_Variation-I                   	| 32_ML-V               	|
-| 11-Apr 	| Analysis of Genetic Variation               	| 34_Variation-II                  	| 33_Variation-I        	|
-| 13-Apr 	| OPEN STUDIO                                 	|                                  	| 34_Variation-II       	|
-| 16-Apr 	| -                                           	| Student Presentations           	| -                     	|
+| 30-Mar 	| OPEN STUDIO/PROJECT WORK DAY                	| -                                	| -                       	|
+| 2-Apr  	| ML - II                                     	| 29_ML-II                         	| 28_ML-I                  	|
+| 4-Apr  	| ML - III                                  	| 30_ML-III                        	| 29_ML-II                 	|
+| 6-Apr  	| ML - IV                                    	| 31_ML-IV                         	| 30_ML-III              	|
+| 9-Apr 	| ML - V                                     	| 32_ML-V                          	| 31_ML-IV               	|
+| 11-Apr 	| Intro to PLINK                               	| 33_Variation-I                   	| 32_ML-V                	|
+| 13-Apr 	| Analysis of Genetic Variation               	| 34_Variation-II                  	| 33_Variation-I        	|
+| 16-Apr 	| Demo Day                                     	| TAs/Prof Presentations           	| 34_Variation-II       	|
 | 18-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 20-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 23-Apr 	| -                                           	| Student Presentations            	| -                     	|
