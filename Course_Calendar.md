@@ -41,7 +41,7 @@
 | 9-Apr 	| ML - V                                     	| 32_ML-V                          	| 31_ML-IV               	|
 | 11-Apr 	| Intro to PLINK                               	| 33_Variation-I                   	| 32_ML-V                	|
 | 13-Apr 	| Analysis of Genetic Variation               	| 34_Variation-II                  	| 33_Variation-I        	|
-| 16-Apr 	| Demo Day                                     	| TAs/Prof Presentations           	| 34_Variation-II       	|
+| 16-Apr 	| Demo Day                                     	| TAs/Prof. Presentations          	| 34_Variation-II       	|
 | 18-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 20-Apr 	| -                                           	| Student Presentations            	| -                     	|
 | 23-Apr 	| -                                           	| Student Presentations            	| -                     	|
