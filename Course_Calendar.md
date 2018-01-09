@@ -2,16 +2,16 @@
 
 | Date   	| Topic                                       	| In Class + Homework Directory    	| Homework Due          	|
 |--------	|---------------------------------------------	|----------------------------------	|-----------------------	|
-| 10-Jan 	| Lecture Intro/Databases                     	| 00_Cocalc                     	| -                     	|
+| 10-Jan 	| Lecture Intro/Databases                     	| 00_Cocalc                     	  | -                     	|
 | 12-Jan 	| Seeking Biological Info Online              	| 01_Databases                     	| 00_Cocalc             	|
 | 15-Jan 	| MLK Day - No Class                          	| -                                	| --                    	|
-| 17-Jan 	| UNIX Directories and Files                  	| 02_Unix-I                        	| 01_Online_Databases   	|
+| 17-Jan 	| UNIX Directories and Files                  	| 02_Unix-I                        	| 01_Databases   	        |
 | 19-Jan 	| UNIX Web Resources and Workflows            	| 03_Unix-II                       	| 02_Unix-I             	|
 | 22-Jan 	| Motif Discovery                             	| 04_Motif-I                       	| 03_Unix-II            	|
 | 24-Jan 	| cis-regulatory Modules                      	| 05_Motif-II                      	| 04_Motif-I            	|
 | 26-Jan 	| Regulatory Analysis                         	| 06_Motif-III                     	| 05_Motif-II           	|
 | 29-Jan 	| Sequence Alignment: Basics, next-gen        	| 07_Alignment                     	| 06_Motif-III          	|
-| 31-Jan  	| ChIP-Seq Primer - I                         	| 08_ChIP-Seq-I                    	| 07_Alignment          	|
+| 31-Jan  	| ChIP-Seq Primer - I                         	| 08_ChIP-Seq-I                  	| 07_Alignment          	|
 | 2-Feb  	| ChIP-Seq Primer - II                        	| 09_ChIP-Seq-II                   	| 08_ChIP-Seq-I         	|
 | 5-Feb  	| Phylogenies and Multiple Sequence Alignment 	| 10_Phylogenies                   	| 09_ChIP-Seq-II        	|
 | 7-Feb  	| ENCODE Primer - I                           	| 11-ENCODE-I                      	| 10_Phylogenies        	|
@@ -23,7 +23,7 @@
 | 21-Feb 	| Functional Enrichment Analysis              	| 17_GeneExpression-II             	| 16_GeneExpression-I   	|
 | 23-Feb 	| -                                           	| 18_GeneExpression-III            	| 17_GeneExpression-II  	|
 | 26-Feb 	| RNA-Seq Primer - I                          	| 19_RNA-Seq-I                     	| 18_GeneExpression-III 	|
-| 28-Feb  	| RNA-Seq Primer - II                         	| 20_RNA-Seq-II                    	| 19_RNA-Seq-I          	|
+| 28-Feb  	| RNA-Seq Primer - II                         	| 20_RNA-Seq-II                  	| 19_RNA-Seq-I          	|
 | 2-Mar  	| RNA-Seq Primer - II                         	| 21_RNA-Seq-III                   	| 20_RNA-Seq-II; Project Proposal         	|
 | -      	| SPRING BREAK - No Class                     	| -                                	| -                     	|
 | 12-Mar 	| -                                           	| Project Meeting                  	| 21_RNA-Seq-III        	|
