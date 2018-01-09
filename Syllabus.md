@@ -60,10 +60,11 @@ the course directors. There are some days where there are preexisting conflicts
 with regularly scheduled office hours. We've created a [table with details](https://github.com/greenelab/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* BFV: Wednesday 11a-12p in SCTR 10-126
-* CSG: Friday 11a-12p in SCTR 10-131
 * OS: Monday, 1-2p in room TBD
-* TAs: Tuesday 2-3 PM in Room 10-120 SCTR, Thursday 2-3 PM in Room 10-120 SCTR
+* TAs: Tuesday 2-3 PM in Room 10-120 SCTR, 
+* BFV: Wednesday 11a-12p in SCTR 10-126
+* TAs: Thursday 2-3 PM in Room 10-120 SCTR
+* CSG: Friday 11a-12p in SCTR 10-131
 
 ## Course web site
 
