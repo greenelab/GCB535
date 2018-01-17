@@ -62,7 +62,7 @@ for your convenience.
 
 * BFV: Wednesday 11a-12p in SCTR 10-126
 * CSG: Friday 11a-12p in SCTR 10-131
-* OS: Monday, 1-2p in room TBD
+* OS: Monday, 1-2p in room CTRB 5050
 * TAs: Tuesday 2-3 PM in Room 10-120 SCTR, Thursday 2-3 PM in Room 10-120 SCTR
 
 ## Course web site
