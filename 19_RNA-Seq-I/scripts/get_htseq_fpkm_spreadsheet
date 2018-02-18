@@ -30,7 +30,7 @@ $study_dir =~ s/$last_dir//;
 my $shdir = $study_dir . "shell_scripts";
 my $logdir = $study_dir . "logs";
 my $htseqdir = $study_dir . "HTSEQ_FPKM";
-my $from_dir = "/projects/data/RNASEQ/HTSEQ_FPKM/";
+my $from_dir = "/ext/data/RNASEQ/HTSEQ_FPKM/";
 unless (-d $shdir){
     `mkdir $shdir`;
 }

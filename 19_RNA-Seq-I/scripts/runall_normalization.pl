@@ -372,7 +372,7 @@ open(IN, $sample_dir);
 my @samples = <IN>;
 close(IN);
 my $resume_file = "$sample_dir.resume";
-my $from_dir = "/projects/data/RNASEQ/";
+my $from_dir = "/ext/data/RNASEQ/";
 my $from_study = "RNASEQ";
 my $starttime_PORT = `TZ='US/Eastern' date`;
 chomp($starttime_PORT);
@@ -410,7 +410,7 @@ if ($normcnt == 0){
 use Cwd 'abs_path';
 #my $path = abs_path($0);
 #$path =~ s/\/runall_normalization.pl//;
-my $norm_script_dir = "/projects/data/RNASEQ/norm_scripts/";
+my $norm_script_dir = "/ext/data/RNASEQ/norm_scripts/";
 #my $rl = `perl $norm_script_dir/get_readlength.pl $unaligned_file $unaligned_type $unaligned_z`;
 #chomp($rl);
 #my $read_length= $rl;
