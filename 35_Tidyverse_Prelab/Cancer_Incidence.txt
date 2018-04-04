@@ -1,0 +1,2017 @@
+YEAR	RACE	SEX	SITE	AGE_ADJUSTED_CI_LOWER	AGE_ADJUSTED_CI_UPPER	AGE_ADJUSTED_RATE	COUNT	POPULATION	CRUDE_CI_LOWER	CRUDE_CI_UPPER	CRUDE_RATE
+1999	All Races	Female	Brain	5.3	5.5	5.4	7829	139034769	5.5	5.8	5.6
+2000	All Races	Female	Brain	5.2	5.5	5.4	7855	140494755	5.5	5.7	5.6
+2001	All Races	Female	Brain	5.1	5.3	5.2	7813	143603977	5.3	5.6	5.4
+2002	All Races	Female	Brain	5.1	5.4	5.3	7964	144616076	5.4	5.6	5.5
+2003	All Races	Female	Brain	5.2	5.4	5.3	8223	147679036	5.4	5.7	5.6
+2004	All Races	Female	Brain	5.3	5.5	5.4	8516	148977286	5.6	5.8	5.7
+2005	All Races	Female	Brain	5.2	5.4	5.3	8533	150319521	5.6	5.8	5.7
+2006	All Races	Female	Brain	5.3	5.5	5.4	8690	151732647	5.6	5.8	5.7
+2007	All Races	Female	Brain	5.3	5.5	5.4	8858	153166353	5.7	5.9	5.8
+2008	All Races	Female	Brain	5.2	5.4	5.3	8888	154604015	5.6	5.9	5.7
+2009	All Races	Female	Brain	5.2	5.5	5.3	9064	155964075	5.7	5.9	5.8
+2010	All Races	Female	Brain	5.1	5.3	5.2	8955	157258820	5.6	5.8	5.7
+2011	All Races	Female	Brain	5	5.3	5.1	8887	157079233	5.5	5.8	5.7
+2012	All Races	Female	Brain	5	5.3	5.2	9130	159581546	5.6	5.8	5.7
+2013	All Races	Female	Brain	5	5.3	5.1	9247	160720625	5.6	5.9	5.8
+2014	All Races	Female	Brain	4.9	5.1	5	9038	161952064	5.5	5.7	5.6
+1999	All Races	Female	Gallbladder	1.4	1.5	1.5	2303	139034769	1.6	1.7	1.7
+2000	All Races	Female	Gallbladder	1.4	1.5	1.5	2277	140494755	1.6	1.7	1.6
+2001	All Races	Female	Gallbladder	1.4	1.5	1.4	2331	143603977	1.6	1.7	1.6
+2002	All Races	Female	Gallbladder	1.3	1.4	1.3	2168	144616076	1.4	1.6	1.5
+2003	All Races	Female	Gallbladder	1.3	1.4	1.4	2305	147679036	1.5	1.6	1.6
+2004	All Races	Female	Gallbladder	1.3	1.4	1.4	2339	148977286	1.5	1.6	1.6
+2005	All Races	Female	Gallbladder	1.4	1.5	1.4	2431	150319521	1.6	1.7	1.6
+2006	All Races	Female	Gallbladder	1.3	1.4	1.4	2402	151732647	1.5	1.6	1.6
+2007	All Races	Female	Gallbladder	1.3	1.4	1.4	2456	153166353	1.5	1.7	1.6
+2008	All Races	Female	Gallbladder	1.3	1.4	1.4	2465	154604015	1.5	1.7	1.6
+2009	All Races	Female	Gallbladder	1.4	1.5	1.4	2595	155964075	1.6	1.7	1.7
+2010	All Races	Female	Gallbladder	1.3	1.5	1.4	2614	157258820	1.6	1.7	1.7
+2011	All Races	Female	Gallbladder	1.3	1.4	1.4	2603	157079233	1.6	1.7	1.7
+2012	All Races	Female	Gallbladder	1.3	1.4	1.4	2677	159581546	1.6	1.7	1.7
+2013	All Races	Female	Gallbladder	1.3	1.4	1.4	2704	160720625	1.6	1.7	1.7
+2014	All Races	Female	Gallbladder	1.3	1.5	1.4	2825	161952064	1.7	1.8	1.7
+1999	All Races	Female	Kidney and Renal Pelvis	8.4	8.7	8.6	12764	139034769	9	9.3	9.2
+2000	All Races	Female	Kidney and Renal Pelvis	8.8	9.1	8.9	13489	140494755	9.4	9.8	9.6
+2001	All Races	Female	Kidney and Renal Pelvis	9.1	9.4	9.3	14317	143603977	9.8	10.1	10
+2002	All Races	Female	Kidney and Renal Pelvis	9.4	9.7	9.5	14958	144616076	10.2	10.5	10.3
+2003	All Races	Female	Kidney and Renal Pelvis	9.9	10.2	10	16183	147679036	10.8	11.1	11
+2004	All Races	Female	Kidney and Renal Pelvis	10.2	10.6	10.4	17021	148977286	11.3	11.6	11.4
+2005	All Races	Female	Kidney and Renal Pelvis	10.6	10.9	10.8	17843	150319521	11.7	12	11.9
+2006	All Races	Female	Kidney and Renal Pelvis	11	11.3	11.2	18858	151732647	12.3	12.6	12.4
+2007	All Races	Female	Kidney and Renal Pelvis	11.1	11.4	11.3	19329	153166353	12.4	12.8	12.6
+2008	All Races	Female	Kidney and Renal Pelvis	11.4	11.7	11.6	20174	154604015	12.9	13.2	13
+2009	All Races	Female	Kidney and Renal Pelvis	11.4	11.7	11.5	20457	155964075	12.9	13.3	13.1
+2010	All Races	Female	Kidney and Renal Pelvis	11	11.4	11.2	20217	157258820	12.7	13	12.9
+2011	All Races	Female	Kidney and Renal Pelvis	11.1	11.5	11.3	20558	157079233	12.9	13.3	13.1
+2012	All Races	Female	Kidney and Renal Pelvis	11.2	11.5	11.4	21273	159581546	13.2	13.5	13.3
+2013	All Races	Female	Kidney and Renal Pelvis	11.1	11.4	11.3	21428	160720625	13.2	13.5	13.3
+2014	All Races	Female	Kidney and Renal Pelvis	11.1	11.4	11.3	21864	161952064	13.3	13.7	13.5
+1999	All Races	Female	Leukemias	9.7	10	9.9	14832	139034769	10.5	10.8	10.7
+2000	All Races	Female	Leukemias	10.1	10.4	10.3	15645	140494755	11	11.3	11.1
+2001	All Races	Female	Leukemias	10.2	10.5	10.4	16217	143603977	11.1	11.5	11.3
+2002	All Races	Female	Leukemias	9.9	10.2	10.1	15879	144616076	10.8	11.2	11
+2003	All Races	Female	Leukemias	10.2	10.5	10.4	16819	147679036	11.2	11.6	11.4
+2004	All Races	Female	Leukemias	10.2	10.5	10.4	16963	148977286	11.2	11.6	11.4
+2005	All Races	Female	Leukemias	10.1	10.5	10.3	17126	150319521	11.2	11.6	11.4
+2006	All Races	Female	Leukemias	10.3	10.6	10.5	17622	151732647	11.4	11.8	11.6
+2007	All Races	Female	Leukemias	10.2	10.5	10.4	17672	153166353	11.4	11.7	11.5
+2008	All Races	Female	Leukemias	10.2	10.6	10.4	17964	154604015	11.5	11.8	11.6
+2009	All Races	Female	Leukemias	10.3	10.6	10.4	18422	155964075	11.6	12	11.8
+2010	All Races	Female	Leukemias	10.8	11.1	10.9	19568	157258820	12.3	12.6	12.4
+2011	All Races	Female	Leukemias	10.9	11.2	11	19808	157079233	12.4	12.8	12.6
+2012	All Races	Female	Leukemias	10.6	10.9	10.8	19865	159581546	12.3	12.6	12.4
+2013	All Races	Female	Leukemias	10.5	10.8	10.6	19812	160720625	12.2	12.5	12.3
+2014	All Races	Female	Leukemias	10.2	10.5	10.3	19646	161952064	12	12.3	12.1
+1999	All Races	Female	Lymphomas	18.5	18.9	18.7	27940	139034769	19.9	20.3	20.1
+2000	All Races	Female	Lymphomas	18.4	18.9	18.7	28193	140494755	19.8	20.3	20.1
+2001	All Races	Female	Lymphomas	18.5	19	18.7	29056	143603977	20	20.5	20.2
+2002	All Races	Female	Lymphomas	18.7	19.1	18.9	29604	144616076	20.2	20.7	20.5
+2003	All Races	Female	Lymphomas	18.9	19.4	19.2	30817	147679036	20.6	21.1	20.9
+2004	All Races	Female	Lymphomas	19.3	19.7	19.5	31827	148977286	21.1	21.6	21.4
+2005	All Races	Female	Lymphomas	19	19.5	19.2	31815	150319521	20.9	21.4	21.2
+2006	All Races	Female	Lymphomas	18.8	19.3	19.1	31973	151732647	20.8	21.3	21.1
+2007	All Races	Female	Lymphomas	18.8	19.3	19	32450	153166353	21	21.4	21.2
+2008	All Races	Female	Lymphomas	18.9	19.3	19.1	33123	154604015	21.2	21.7	21.4
+2009	All Races	Female	Lymphomas	18.9	19.3	19.1	33558	155964075	21.3	21.7	21.5
+2010	All Races	Female	Lymphomas	18.6	19	18.8	33619	157258820	21.2	21.6	21.4
+2011	All Races	Female	Lymphomas	18	18.4	18.2	32885	157079233	20.7	21.2	20.9
+2012	All Races	Female	Lymphomas	17.9	18.3	18.1	33581	159581546	20.8	21.3	21
+2013	All Races	Female	Lymphomas	17.7	18.1	17.9	33641	160720625	20.7	21.2	20.9
+2014	All Races	Female	Lymphomas	17.5	17.8	17.7	33842	161952064	20.7	21.1	20.9
+1999	All Races	Female	Pancreas	9.5	9.8	9.6	14982	139034769	10.6	10.9	10.8
+2000	All Races	Female	Pancreas	9.6	9.9	9.8	15343	140494755	10.7	11.1	10.9
+2001	All Races	Female	Pancreas	9.6	9.9	9.8	15786	143603977	10.8	11.2	11
+2002	All Races	Female	Pancreas	9.7	10	9.8	16024	144616076	10.9	11.3	11.1
+2003	All Races	Female	Pancreas	10	10.3	10.1	16994	147679036	11.3	11.7	11.5
+2004	All Races	Female	Pancreas	10	10.3	10.2	17253	148977286	11.4	11.8	11.6
+2005	All Races	Female	Pancreas	10.3	10.6	10.4	18030	150319521	11.8	12.2	12
+2006	All Races	Female	Pancreas	10.5	10.8	10.6	18531	151732647	12	12.4	12.2
+2007	All Races	Female	Pancreas	10.5	10.8	10.6	18859	153166353	12.1	12.5	12.3
+2008	All Races	Female	Pancreas	10.8	11.1	10.9	19787	154604015	12.6	13	12.8
+2009	All Races	Female	Pancreas	10.6	10.9	10.7	19743	155964075	12.5	12.8	12.7
+2010	All Races	Female	Pancreas	10.8	11.1	10.9	20503	157258820	12.9	13.2	13
+2011	All Races	Female	Pancreas	10.8	11.1	11	20875	157079233	13.1	13.5	13.3
+2012	All Races	Female	Pancreas	10.9	11.2	11.1	21746	159581546	13.4	13.8	13.6
+2013	All Races	Female	Pancreas	10.9	11.2	11.1	22114	160720625	13.6	13.9	13.8
+2014	All Races	Female	Pancreas	10.9	11.2	11.1	22558	161952064	13.7	14.1	13.9
+1999	All Races	Female	Stomach	5	5.2	5.1	7899	139034769	5.6	5.8	5.7
+2000	All Races	Female	Stomach	4.9	5.1	5	7883	140494755	5.5	5.7	5.6
+2001	All Races	Female	Stomach	4.8	5	4.9	7891	143603977	5.4	5.6	5.5
+2002	All Races	Female	Stomach	4.8	5	4.9	7990	144616076	5.4	5.6	5.5
+2003	All Races	Female	Stomach	4.9	5.1	5	8355	147679036	5.5	5.8	5.7
+2004	All Races	Female	Stomach	4.8	5	4.9	8212	148977286	5.4	5.6	5.5
+2005	All Races	Female	Stomach	4.7	4.9	4.8	8148	150319521	5.3	5.5	5.4
+2006	All Races	Female	Stomach	4.6	4.8	4.7	8163	151732647	5.3	5.5	5.4
+2007	All Races	Female	Stomach	4.6	4.8	4.7	8280	153166353	5.3	5.5	5.4
+2008	All Races	Female	Stomach	4.5	4.7	4.6	8134	154604015	5.1	5.4	5.3
+2009	All Races	Female	Stomach	4.5	4.7	4.6	8257	155964075	5.2	5.4	5.3
+2010	All Races	Female	Stomach	4.6	4.8	4.7	8688	157258820	5.4	5.6	5.5
+2011	All Races	Female	Stomach	4.5	4.7	4.6	8579	157079233	5.3	5.6	5.5
+2012	All Races	Female	Stomach	4.6	4.8	4.7	8899	159581546	5.5	5.7	5.6
+2013	All Races	Female	Stomach	4.5	4.7	4.6	8866	160720625	5.4	5.6	5.5
+2014	All Races	Female	Stomach	4.5	4.6	4.5	8951	161952064	5.4	5.6	5.5
+1999	All Races	Male	Brain	7.4	7.7	7.6	9481	133774719	6.9	7.2	7.1
+2000	All Races	Male	Brain	7.4	7.7	7.6	9587	135384871	6.9	7.2	7.1
+2001	All Races	Male	Brain	7.4	7.7	7.5	9780	138511984	6.9	7.2	7.1
+2002	All Races	Male	Brain	7.6	7.9	7.7	10176	139577278	7.1	7.4	7.3
+2003	All Races	Male	Brain	7.4	7.6	7.5	10183	142428897	7	7.3	7.1
+2004	All Races	Male	Brain	7.5	7.7	7.6	10489	143828012	7.2	7.4	7.3
+2005	All Races	Male	Brain	7.4	7.7	7.6	10568	145197078	7.1	7.4	7.3
+2006	All Races	Male	Brain	7.4	7.7	7.6	10769	146647265	7.2	7.5	7.3
+2007	All Races	Male	Brain	7.4	7.7	7.5	10952	148064854	7.3	7.5	7.4
+2008	All Races	Male	Brain	7.5	7.8	7.6	11294	149489951	7.4	7.7	7.6
+2009	All Races	Male	Brain	7.4	7.7	7.5	11312	150807454	7.4	7.6	7.5
+2010	All Races	Male	Brain	7.3	7.6	7.4	11361	152088043	7.3	7.6	7.5
+2011	All Races	Male	Brain	7.2	7.5	7.4	11406	151920805	7.4	7.6	7.5
+2012	All Races	Male	Brain	7.1	7.4	7.3	11533	154521077	7.3	7.6	7.5
+2013	All Races	Male	Brain	7.1	7.4	7.2	11700	155706770	7.4	7.7	7.5
+2014	All Races	Male	Brain	7	7.3	7.2	11739	156955337	7.3	7.6	7.5
+1999	All Races	Male	Gallbladder	0.8	0.9	0.8	920	133774719	0.6	0.7	0.7
+2000	All Races	Male	Gallbladder	0.7	0.8	0.8	854	135384871	0.6	0.7	0.6
+2001	All Races	Male	Gallbladder	0.8	0.9	0.8	976	138511984	0.7	0.8	0.7
+2002	All Races	Male	Gallbladder	0.8	0.9	0.8	960	139577278	0.6	0.7	0.7
+2003	All Races	Male	Gallbladder	0.8	0.9	0.8	1027	142428897	0.7	0.8	0.7
+2004	All Races	Male	Gallbladder	0.8	0.9	0.8	1011	143828012	0.7	0.7	0.7
+2005	All Races	Male	Gallbladder	0.7	0.8	0.8	1010	145197078	0.7	0.7	0.7
+2006	All Races	Male	Gallbladder	0.8	0.9	0.8	1097	146647265	0.7	0.8	0.7
+2007	All Races	Male	Gallbladder	0.8	0.9	0.8	1091	148064854	0.7	0.8	0.7
+2008	All Races	Male	Gallbladder	0.7	0.8	0.8	1101	149489951	0.7	0.8	0.7
+2009	All Races	Male	Gallbladder	0.8	0.9	0.8	1197	150807454	0.7	0.8	0.8
+2010	All Races	Male	Gallbladder	0.8	0.9	0.8	1202	152088043	0.7	0.8	0.8
+2011	All Races	Male	Gallbladder	0.8	0.9	0.8	1232	151920805	0.8	0.9	0.8
+2012	All Races	Male	Gallbladder	0.8	0.9	0.8	1247	154521077	0.8	0.9	0.8
+2013	All Races	Male	Gallbladder	0.8	0.9	0.8	1309	155706770	0.8	0.9	0.8
+2014	All Races	Male	Gallbladder	0.8	0.8	0.8	1288	156955337	0.8	0.9	0.8
+1999	All Races	Male	Kidney and Renal Pelvis	16.5	16.9	16.7	19855	133774719	14.6	15.1	14.8
+2000	All Races	Male	Kidney and Renal Pelvis	17.2	17.6	17.4	21103	135384871	15.4	15.8	15.6
+2001	All Races	Male	Kidney and Renal Pelvis	17.9	18.4	18.2	22763	138511984	16.2	16.6	16.4
+2002	All Races	Male	Kidney and Renal Pelvis	18.5	19	18.8	23975	139577278	17	17.4	17.2
+2003	All Races	Male	Kidney and Renal Pelvis	19.2	19.6	19.4	25641	142428897	17.8	18.2	18
+2004	All Races	Male	Kidney and Renal Pelvis	19.7	20.1	19.9	26949	143828012	18.5	19	18.7
+2005	All Races	Male	Kidney and Renal Pelvis	20.4	20.9	20.6	28481	145197078	19.4	19.8	19.6
+2006	All Races	Male	Kidney and Renal Pelvis	21	21.4	21.2	29894	146647265	20.2	20.6	20.4
+2007	All Races	Male	Kidney and Renal Pelvis	21.5	22	21.7	31438	148064854	21	21.5	21.2
+2008	All Races	Male	Kidney and Renal Pelvis	21.7	22.2	21.9	32528	149489951	21.5	22	21.8
+2009	All Races	Male	Kidney and Renal Pelvis	21.7	22.2	21.9	33311	150807454	21.9	22.3	22.1
+2010	All Races	Male	Kidney and Renal Pelvis	21.2	21.7	21.5	33324	152088043	21.7	22.1	21.9
+2011	All Races	Male	Kidney and Renal Pelvis	21.4	21.9	21.7	34104	151920805	22.2	22.7	22.4
+2012	All Races	Male	Kidney and Renal Pelvis	21.5	22	21.8	35466	154521077	22.7	23.2	23
+2013	All Races	Male	Kidney and Renal Pelvis	21.8	22.2	22	36642	155706770	23.3	23.8	23.5
+2014	All Races	Male	Kidney and Renal Pelvis	21.8	22.2	22	37531	156955337	23.7	24.2	23.9
+1999	All Races	Male	Leukemias	16.2	16.7	16.5	19132	133774719	14.1	14.5	14.3
+2000	All Races	Male	Leukemias	17.1	17.6	17.4	20513	135384871	14.9	15.4	15.2
+2001	All Races	Male	Leukemias	17.1	17.6	17.4	21165	138511984	15.1	15.5	15.3
+2002	All Races	Male	Leukemias	16.7	17.2	16.9	20954	139577278	14.8	15.2	15
+2003	All Races	Male	Leukemias	17	17.4	17.2	21920	142428897	15.2	15.6	15.4
+2004	All Races	Male	Leukemias	17.2	17.7	17.5	22667	143828012	15.6	16	15.8
+2005	All Races	Male	Leukemias	16.9	17.4	17.1	22683	145197078	15.4	15.8	15.6
+2006	All Races	Male	Leukemias	17	17.5	17.2	23281	146647265	15.7	16.1	15.9
+2007	All Races	Male	Leukemias	16.8	17.3	17	23545	148064854	15.7	16.1	15.9
+2008	All Races	Male	Leukemias	17	17.4	17.2	24181	149489951	16	16.4	16.2
+2009	All Races	Male	Leukemias	17.1	17.5	17.3	24780	150807454	16.2	16.6	16.4
+2010	All Races	Male	Leukemias	17.7	18.2	18	26374	152088043	17.1	17.6	17.3
+2011	All Races	Male	Leukemias	17.6	18	17.8	26537	151920805	17.3	17.7	17.5
+2012	All Races	Male	Leukemias	17.6	18	17.8	27405	154521077	17.5	17.9	17.7
+2013	All Races	Male	Leukemias	17.3	17.7	17.5	27543	155706770	17.5	17.9	17.7
+2014	All Races	Male	Leukemias	16.9	17.3	17.1	27489	156955337	17.3	17.7	17.5
+1999	All Races	Male	Lymphomas	25.7	26.3	26	31174	133774719	23	23.6	23.3
+2000	All Races	Male	Lymphomas	25.8	26.3	26	31751	135384871	23.2	23.7	23.5
+2001	All Races	Male	Lymphomas	25.8	26.4	26.1	32686	138511984	23.3	23.9	23.6
+2002	All Races	Male	Lymphomas	26.3	26.8	26.6	33788	139577278	23.9	24.5	24.2
+2003	All Races	Male	Lymphomas	26.3	26.8	26.6	34697	142428897	24.1	24.6	24.4
+2004	All Races	Male	Lymphomas	26.7	27.3	27	35837	143828012	24.7	25.2	24.9
+2005	All Races	Male	Lymphomas	27	27.5	27.2	36922	145197078	25.2	25.7	25.4
+2006	All Races	Male	Lymphomas	26.5	27.1	26.8	37002	146647265	25	25.5	25.2
+2007	All Races	Male	Lymphomas	26.7	27.3	27	38049	148064854	25.4	26	25.7
+2008	All Races	Male	Lymphomas	26.7	27.3	27	38783	149489951	25.7	26.2	25.9
+2009	All Races	Male	Lymphomas	26.8	27.3	27	39580	150807454	26	26.5	26.2
+2010	All Races	Male	Lymphomas	26.5	27	26.7	39945	152088043	26	26.5	26.3
+2011	All Races	Male	Lymphomas	26.1	26.6	26.3	39806	151920805	25.9	26.5	26.2
+2012	All Races	Male	Lymphomas	25.5	26	25.8	40242	154521077	25.8	26.3	26
+2013	All Races	Male	Lymphomas	25.4	25.9	25.7	40984	155706770	26.1	26.6	26.3
+2014	All Races	Male	Lymphomas	25.2	25.7	25.5	41508	156955337	26.2	26.7	26.4
+1999	All Races	Male	Pancreas	12.3	12.7	12.5	14252	133774719	10.5	10.8	10.7
+2000	All Races	Male	Pancreas	12.5	12.9	12.7	14760	135384871	10.7	11.1	10.9
+2001	All Races	Male	Pancreas	12.5	12.9	12.7	15234	138511984	10.8	11.2	11
+2002	All Races	Male	Pancreas	12.4	12.9	12.6	15489	139577278	10.9	11.3	11.1
+2003	All Races	Male	Pancreas	12.9	13.3	13.1	16524	142428897	11.4	11.8	11.6
+2004	All Races	Male	Pancreas	13	13.4	13.2	17091	143828012	11.7	12.1	11.9
+2005	All Races	Male	Pancreas	13.1	13.5	13.3	17551	145197078	11.9	12.3	12.1
+2006	All Races	Male	Pancreas	13.4	13.8	13.6	18336	146647265	12.3	12.7	12.5
+2007	All Races	Male	Pancreas	13.5	13.9	13.7	18953	148064854	12.6	13	12.8
+2008	All Races	Male	Pancreas	13.7	14.1	13.9	19769	149489951	13	13.4	13.2
+2009	All Races	Male	Pancreas	13.7	14.1	13.9	20314	150807454	13.3	13.7	13.5
+2010	All Races	Male	Pancreas	13.7	14.1	13.9	20869	152088043	13.5	13.9	13.7
+2011	All Races	Male	Pancreas	14	14.4	14.2	21608	151920805	14	14.4	14.2
+2012	All Races	Male	Pancreas	14.1	14.5	14.3	22699	154521077	14.5	14.9	14.7
+2013	All Races	Male	Pancreas	14.1	14.5	14.3	23272	155706770	14.8	15.1	14.9
+2014	All Races	Male	Pancreas	14.1	14.5	14.3	23966	156955337	15.1	15.5	15.3
+1999	All Races	Male	Stomach	10.7	11.1	10.9	12331	133774719	9.1	9.4	9.2
+2000	All Races	Male	Stomach	10.4	10.8	10.6	12218	135384871	8.9	9.2	9
+2001	All Races	Male	Stomach	10.2	10.5	10.4	12373	138511984	8.8	9.1	8.9
+2002	All Races	Male	Stomach	10.1	10.5	10.3	12489	139577278	8.8	9.1	8.9
+2003	All Races	Male	Stomach	10	10.4	10.2	12789	142428897	8.8	9.1	9
+2004	All Races	Male	Stomach	9.8	10.2	10	12844	143828012	8.8	9.1	8.9
+2005	All Races	Male	Stomach	9.5	9.8	9.6	12664	145197078	8.6	8.9	8.7
+2006	All Races	Male	Stomach	9.3	9.7	9.5	12765	146647265	8.6	8.9	8.7
+2007	All Races	Male	Stomach	9.3	9.6	9.5	13039	148064854	8.7	9	8.8
+2008	All Races	Male	Stomach	9.1	9.4	9.3	13074	149489951	8.6	8.9	8.7
+2009	All Races	Male	Stomach	9.1	9.4	9.2	13400	150807454	8.7	9	8.9
+2010	All Races	Male	Stomach	9.2	9.6	9.4	13973	152088043	9	9.3	9.2
+2011	All Races	Male	Stomach	9.2	9.5	9.4	14156	151920805	9.2	9.5	9.3
+2012	All Races	Male	Stomach	8.9	9.2	9.1	14267	154521077	9.1	9.4	9.2
+2013	All Races	Male	Stomach	9	9.3	9.1	14660	155706770	9.3	9.6	9.4
+2014	All Races	Male	Stomach	8.8	9.1	8.9	14767	156955337	9.3	9.6	9.4
+1999	All Races	Male and Female	Brain	6.3	6.5	6.4	17310	272809488	6.3	6.4	6.3
+2000	All Races	Male and Female	Brain	6.3	6.5	6.4	17442	275879626	6.2	6.4	6.3
+2001	All Races	Male and Female	Brain	6.2	6.4	6.3	17593	282115961	6.1	6.3	6.2
+2002	All Races	Male and Female	Brain	6.3	6.5	6.4	18140	284193354	6.3	6.5	6.4
+2003	All Races	Male and Female	Brain	6.2	6.4	6.3	18406	290107933	6.3	6.4	6.3
+2004	All Races	Male and Female	Brain	6.3	6.5	6.4	19005	292805298	6.4	6.6	6.5
+2005	All Races	Male and Female	Brain	6.3	6.4	6.4	19101	295516599	6.4	6.6	6.5
+2006	All Races	Male and Female	Brain	6.3	6.5	6.4	19459	298379912	6.4	6.6	6.5
+2007	All Races	Male and Female	Brain	6.3	6.5	6.4	19810	301231207	6.5	6.7	6.6
+2008	All Races	Male and Female	Brain	6.3	6.5	6.4	20182	304093966	6.5	6.7	6.6
+2009	All Races	Male and Female	Brain	6.3	6.4	6.4	20376	306771529	6.6	6.7	6.6
+2010	All Races	Male and Female	Brain	6.2	6.3	6.2	20316	309346863	6.5	6.7	6.6
+2011	All Races	Male and Female	Brain	6.1	6.3	6.2	20293	309000038	6.5	6.7	6.6
+2012	All Races	Male and Female	Brain	6	6.2	6.1	20663	314102623	6.5	6.7	6.6
+2013	All Races	Male and Female	Brain	6	6.2	6.1	20947	316427395	6.5	6.7	6.6
+2014	All Races	Male and Female	Brain	5.9	6.1	6	20777	318907401	6.4	6.6	6.5
+1999	All Races	Male and Female	Gallbladder	1.2	1.2	1.2	3223	272809488	1.1	1.2	1.2
+2000	All Races	Male and Female	Gallbladder	1.1	1.2	1.2	3131	275879626	1.1	1.2	1.1
+2001	All Races	Male and Female	Gallbladder	1.1	1.2	1.2	3307	282115961	1.1	1.2	1.2
+2002	All Races	Male and Female	Gallbladder	1.1	1.1	1.1	3128	284193354	1.1	1.1	1.1
+2003	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3332	290107933	1.1	1.2	1.1
+2004	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3350	292805298	1.1	1.2	1.1
+2005	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3441	295516599	1.1	1.2	1.2
+2006	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3499	298379912	1.1	1.2	1.2
+2007	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3547	301231207	1.1	1.2	1.2
+2008	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3566	304093966	1.1	1.2	1.2
+2009	All Races	Male and Female	Gallbladder	1.1	1.2	1.2	3792	306771529	1.2	1.3	1.2
+2010	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3816	309346863	1.2	1.3	1.2
+2011	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3835	309000038	1.2	1.3	1.2
+2012	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	3924	314102623	1.2	1.3	1.2
+2013	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	4013	316427395	1.2	1.3	1.3
+2014	All Races	Male and Female	Gallbladder	1.1	1.2	1.1	4113	318907401	1.3	1.3	1.3
+1999	All Races	Male and Female	Kidney and Renal Pelvis	12	12.3	12.2	32619	272809488	11.8	12.1	12
+2000	All Races	Male and Female	Kidney and Renal Pelvis	12.6	12.8	12.7	34592	275879626	12.4	12.7	12.5
+2001	All Races	Male and Female	Kidney and Renal Pelvis	13.1	13.3	13.2	37080	282115961	13	13.3	13.1
+2002	All Races	Male and Female	Kidney and Renal Pelvis	13.5	13.8	13.6	38933	284193354	13.6	13.8	13.7
+2003	All Races	Male and Female	Kidney and Renal Pelvis	14.1	14.4	14.2	41824	290107933	14.3	14.6	14.4
+2004	All Races	Male and Female	Kidney and Renal Pelvis	14.5	14.8	14.7	43970	292805298	14.9	15.2	15
+2005	All Races	Male and Female	Kidney and Renal Pelvis	15.1	15.3	15.2	46324	295516599	15.5	15.8	15.7
+2006	All Races	Male and Female	Kidney and Renal Pelvis	15.6	15.8	15.7	48752	298379912	16.2	16.5	16.3
+2007	All Races	Male and Female	Kidney and Renal Pelvis	15.9	16.2	16	50767	301231207	16.7	17	16.9
+2008	All Races	Male and Female	Kidney and Renal Pelvis	16.1	16.4	16.3	52702	304093966	17.2	17.5	17.3
+2009	All Races	Male and Female	Kidney and Renal Pelvis	16.1	16.4	16.3	53768	306771529	17.4	17.7	17.5
+2010	All Races	Male and Female	Kidney and Renal Pelvis	15.8	16	15.9	53541	309346863	17.2	17.5	17.3
+2011	All Races	Male and Female	Kidney and Renal Pelvis	15.9	16.2	16	54662	309000038	17.5	17.8	17.7
+2012	All Races	Male and Female	Kidney and Renal Pelvis	16	16.3	16.2	56739	314102623	17.9	18.2	18.1
+2013	All Races	Male and Female	Kidney and Renal Pelvis	16.1	16.3	16.2	58070	316427395	18.2	18.5	18.4
+2014	All Races	Male and Female	Kidney and Renal Pelvis	16.1	16.4	16.2	59395	318907401	18.5	18.8	18.6
+1999	All Races	Male and Female	Leukemias	12.5	12.8	12.6	33964	272809488	12.3	12.6	12.4
+2000	All Races	Male and Female	Leukemias	13.1	13.4	13.3	36158	275879626	13	13.2	13.1
+2001	All Races	Male and Female	Leukemias	13.2	13.5	13.4	37382	282115961	13.1	13.4	13.3
+2002	All Races	Male and Female	Leukemias	12.9	13.1	13	36833	284193354	12.8	13.1	13
+2003	All Races	Male and Female	Leukemias	13.2	13.4	13.3	38739	290107933	13.2	13.5	13.4
+2004	All Races	Male and Female	Leukemias	13.3	13.6	13.4	39630	292805298	13.4	13.7	13.5
+2005	All Races	Male and Female	Leukemias	13.1	13.4	13.3	39809	295516599	13.3	13.6	13.5
+2006	All Races	Male and Female	Leukemias	13.3	13.5	13.4	40903	298379912	13.6	13.8	13.7
+2007	All Races	Male and Female	Leukemias	13.1	13.4	13.3	41217	301231207	13.6	13.8	13.7
+2008	All Races	Male and Female	Leukemias	13.2	13.5	13.3	42145	304093966	13.7	14	13.9
+2009	All Races	Male and Female	Leukemias	13.3	13.6	13.4	43202	306771529	14	14.2	14.1
+2010	All Races	Male and Female	Leukemias	13.9	14.2	14	45942	309346863	14.7	15	14.9
+2011	All Races	Male and Female	Leukemias	13.9	14.1	14	46345	309000038	14.9	15.1	15
+2012	All Races	Male and Female	Leukemias	13.8	14	13.9	47270	314102623	14.9	15.2	15
+2013	All Races	Male and Female	Leukemias	13.5	13.8	13.7	47355	316427395	14.8	15.1	15
+2014	All Races	Male and Female	Leukemias	13.2	13.5	13.3	47135	318907401	14.6	14.9	14.8
+1999	All Races	Male and Female	Lymphomas	21.8	22.1	22	59114	272809488	21.5	21.8	21.7
+2000	All Races	Male and Female	Lymphomas	21.8	22.1	21.9	59944	275879626	21.6	21.9	21.7
+2001	All Races	Male and Female	Lymphomas	21.8	22.2	22	61742	282115961	21.7	22.1	21.9
+2002	All Races	Male and Female	Lymphomas	22.1	22.5	22.3	63392	284193354	22.1	22.5	22.3
+2003	All Races	Male and Female	Lymphomas	22.3	22.6	22.4	65514	290107933	22.4	22.8	22.6
+2004	All Races	Male and Female	Lymphomas	22.6	23	22.8	67664	292805298	22.9	23.3	23.1
+2005	All Races	Male and Female	Lymphomas	22.6	23	22.8	68737	295516599	23.1	23.4	23.3
+2006	All Races	Male and Female	Lymphomas	22.3	22.7	22.5	68975	298379912	22.9	23.3	23.1
+2007	All Races	Male and Female	Lymphomas	22.4	22.8	22.6	70499	301231207	23.2	23.6	23.4
+2008	All Races	Male and Female	Lymphomas	22.5	22.8	22.6	71906	304093966	23.5	23.8	23.6
+2009	All Races	Male and Female	Lymphomas	22.5	22.8	22.7	73138	306771529	23.7	24	23.8
+2010	All Races	Male and Female	Lymphomas	22.2	22.5	22.4	73564	309346863	23.6	24	23.8
+2011	All Races	Male and Female	Lymphomas	21.7	22	21.9	72691	309000038	23.4	23.7	23.5
+2012	All Races	Male and Female	Lymphomas	21.4	21.7	21.6	73823	314102623	23.3	23.7	23.5
+2013	All Races	Male and Female	Lymphomas	21.2	21.5	21.4	74625	316427395	23.4	23.8	23.6
+2014	All Races	Male and Female	Lymphomas	21	21.3	21.2	75350	318907401	23.5	23.8	23.6
+1999	All Races	Male and Female	Pancreas	10.8	11.1	10.9	29234	272809488	10.6	10.8	10.7
+2000	All Races	Male and Female	Pancreas	10.9	11.2	11.1	30103	275879626	10.8	11	10.9
+2001	All Races	Male and Female	Pancreas	11	11.2	11.1	31020	282115961	10.9	11.1	11
+2002	All Races	Male and Female	Pancreas	11	11.2	11.1	31513	284193354	11	11.2	11.1
+2003	All Races	Male and Female	Pancreas	11.3	11.6	11.5	33518	290107933	11.4	11.7	11.6
+2004	All Races	Male and Female	Pancreas	11.4	11.7	11.5	34344	292805298	11.6	11.9	11.7
+2005	All Races	Male and Female	Pancreas	11.6	11.9	11.7	35581	295516599	11.9	12.2	12
+2006	All Races	Male and Female	Pancreas	11.8	12.1	12	36867	298379912	12.2	12.5	12.4
+2007	All Races	Male and Female	Pancreas	11.9	12.1	12	37812	301231207	12.4	12.7	12.6
+2008	All Races	Male and Female	Pancreas	12.1	12.4	12.3	39556	304093966	12.9	13.1	13
+2009	All Races	Male and Female	Pancreas	12.1	12.3	12.2	40057	306771529	12.9	13.2	13.1
+2010	All Races	Male and Female	Pancreas	12.2	12.4	12.3	41372	309346863	13.2	13.5	13.4
+2011	All Races	Male and Female	Pancreas	12.3	12.6	12.5	42483	309000038	13.6	13.9	13.7
+2012	All Races	Male and Female	Pancreas	12.5	12.7	12.6	44445	314102623	14	14.3	14.1
+2013	All Races	Male and Female	Pancreas	12.4	12.7	12.5	45386	316427395	14.2	14.5	14.3
+2014	All Races	Male and Female	Pancreas	12.4	12.7	12.6	46524	318907401	14.5	14.7	14.6
+1999	All Races	Male and Female	Stomach	7.5	7.7	7.6	20230	272809488	7.3	7.5	7.4
+2000	All Races	Male and Female	Stomach	7.3	7.5	7.4	20101	275879626	7.2	7.4	7.3
+2001	All Races	Male and Female	Stomach	7.1	7.3	7.2	20264	282115961	7.1	7.3	7.2
+2002	All Races	Male and Female	Stomach	7.1	7.3	7.2	20479	284193354	7.1	7.3	7.2
+2003	All Races	Male and Female	Stomach	7.1	7.3	7.2	21144	290107933	7.2	7.4	7.3
+2004	All Races	Male and Female	Stomach	7	7.2	7.1	21056	292805298	7.1	7.3	7.2
+2005	All Races	Male and Female	Stomach	6.8	7	6.9	20812	295516599	6.9	7.1	7
+2006	All Races	Male and Female	Stomach	6.7	6.9	6.8	20928	298379912	6.9	7.1	7
+2007	All Races	Male and Female	Stomach	6.7	6.9	6.8	21319	301231207	7	7.2	7.1
+2008	All Races	Male and Female	Stomach	6.5	6.7	6.6	21208	304093966	6.9	7.1	7
+2009	All Races	Male and Female	Stomach	6.5	6.7	6.6	21657	306771529	7	7.2	7.1
+2010	All Races	Male and Female	Stomach	6.7	6.9	6.8	22661	309346863	7.2	7.4	7.3
+2011	All Races	Male and Female	Stomach	6.6	6.8	6.7	22735	309000038	7.3	7.5	7.4
+2012	All Races	Male and Female	Stomach	6.6	6.7	6.7	23166	314102623	7.3	7.5	7.4
+2013	All Races	Male and Female	Stomach	6.5	6.7	6.6	23526	316427395	7.3	7.5	7.4
+2014	All Races	Male and Female	Stomach	6.4	6.6	6.5	23718	318907401	7.3	7.5	7.4
+1999	American Indian/Alaska Native	Female	Brain	1.9	4.2	2.9	32	1375372	1.6	3.3	2.3
+2000	American Indian/Alaska Native	Female	Brain	1.9	4.1	2.8	34	1450740	1.6	3.3	2.3
+2001	American Indian/Alaska Native	Female	Brain	1.6	3.5	2.4	34	1545619	1.5	3.1	2.2
+2002	American Indian/Alaska Native	Female	Brain	1.6	3.5	2.4	30	1596078	1.3	2.7	1.9
+2003	American Indian/Alaska Native	Female	Brain	1.4	3.2	2.2	31	1659114	1.3	2.7	1.9
+2004	American Indian/Alaska Native	Female	Brain	1.3	2.9	2	30	1716767	1.2	2.5	1.7
+2005	American Indian/Alaska Native	Female	Brain	2.2	4.2	3.1	45	1778645	1.8	3.4	2.5
+2006	American Indian/Alaska Native	Female	Brain	2.2	4.2	3.1	47	1843293	1.9	3.4	2.5
+2007	American Indian/Alaska Native	Female	Brain	2.3	4.3	3.2	48	1911949	1.9	3.3	2.5
+2008	American Indian/Alaska Native	Female	Brain	2.6	4.6	3.5	57	1986553	2.2	3.7	2.9
+2009	American Indian/Alaska Native	Female	Brain	1.9	3.6	2.7	46	2062396	1.6	3	2.2
+2010	American Indian/Alaska Native	Female	Brain	1.7	3.4	2.5	45	2125763	1.5	2.8	2.1
+2011	American Indian/Alaska Native	Female	Brain	1.9	3.6	2.6	48	2130869	1.7	3	2.3
+2012	American Indian/Alaska Native	Female	Brain	2	3.7	2.8	53	2186915	1.8	3.2	2.4
+2013	American Indian/Alaska Native	Female	Brain	1.9	3.5	2.6	47	2216645	1.6	2.8	2.1
+2014	American Indian/Alaska Native	Female	Brain	1.7	3.1	2.3	49	2248348	1.6	2.9	2.2
+1999	American Indian/Alaska Native	Female	Gallbladder	1.8	4.5	2.9	NA	1375372	0.9	2.2	1.5
+2000	American Indian/Alaska Native	Female	Gallbladder	1.4	3.8	2.4	NA	1450740	0.7	1.9	1.2
+2001	American Indian/Alaska Native	Female	Gallbladder	1	3	1.8	NA	1545619	0.6	1.7	1
+2002	American Indian/Alaska Native	Female	Gallbladder	2	4.5	3.1	NA	1596078	1.1	2.5	1.7
+2003	American Indian/Alaska Native	Female	Gallbladder	2	4.4	3.1	29	1659114	1.2	2.5	1.7
+2004	American Indian/Alaska Native	Female	Gallbladder	1.1	2.9	1.8	NA	1716767	0.6	1.7	1
+2005	American Indian/Alaska Native	Female	Gallbladder	2.1	4.5	3.1	NA	1778645	1.1	2.3	1.6
+2006	American Indian/Alaska Native	Female	Gallbladder	3	5.7	4.2	NA	1843293	1.6	3	2.2
+2007	American Indian/Alaska Native	Female	Gallbladder	1.6	3.7	2.5	NA	1911949	1	2.1	1.5
+2008	American Indian/Alaska Native	Female	Gallbladder	1	2.5	1.6	NA	1986553	0.6	1.6	1
+2009	American Indian/Alaska Native	Female	Gallbladder	1.2	2.9	1.9	24	2062396	0.7	1.7	1.2
+2010	American Indian/Alaska Native	Female	Gallbladder	1.7	3.5	2.5	34	2125763	1.1	2.2	1.6
+2011	American Indian/Alaska Native	Female	Gallbladder	1.5	3.3	2.3	NA	2130869	0.9	2	1.4
+2012	American Indian/Alaska Native	Female	Gallbladder	1.5	3.2	2.3	33	2186915	1	2.1	1.5
+2013	American Indian/Alaska Native	Female	Gallbladder	1.3	2.8	1.9	29	2216645	0.9	1.9	1.3
+2014	American Indian/Alaska Native	Female	Gallbladder	1.3	2.8	1.9	NA	2248348	0.9	1.9	1.3
+1999	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	7.5	11.8	9.5	87	1375372	5.1	7.8	6.3
+2000	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	7.9	12.1	9.9	96	1450740	5.4	8.1	6.6
+2001	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	8.8	13.1	10.8	108	1545619	5.7	8.4	7
+2002	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	6.7	10.5	8.4	87	1596078	4.4	6.7	5.5
+2003	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.1	14.5	12.2	136	1659114	6.9	9.7	8.2
+2004	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.2	14.6	12.3	137	1716767	6.7	9.4	8
+2005	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	9.8	13.9	11.7	149	1778645	7.1	9.8	8.4
+2006	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.2	14.3	12.2	155	1843293	7.1	9.8	8.4
+2007	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.1	14.2	12	157	1911949	7	9.6	8.2
+2008	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.7	14.6	12.6	181	1986553	7.8	10.5	9.1
+2009	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.4	14.2	12.2	181	2062396	7.5	10.2	8.8
+2010	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	10.7	14.4	12.5	201	2125763	8.2	10.9	9.5
+2011	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	11.3	15.1	13.1	207	2130869	8.4	11.1	9.7
+2012	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	11.1	14.8	12.8	219	2186915	8.7	11.4	10
+2013	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	9	12.2	10.5	188	2216645	7.3	9.8	8.5
+2014	American Indian/Alaska Native	Female	Kidney and Renal Pelvis	9.3	12.4	10.8	210	2248348	8.1	10.7	9.3
+1999	American Indian/Alaska Native	Female	Leukemias	5	8.6	6.6	65	1375372	3.6	6	4.7
+2000	American Indian/Alaska Native	Female	Leukemias	5	8.6	6.6	65	1450740	3.5	5.7	4.5
+2001	American Indian/Alaska Native	Female	Leukemias	5.3	8.6	6.8	81	1545619	4.2	6.5	5.2
+2002	American Indian/Alaska Native	Female	Leukemias	3.9	6.8	5.2	63	1596078	3	5.1	3.9
+2003	American Indian/Alaska Native	Female	Leukemias	5.9	9.5	7.6	85	1659114	4.1	6.3	5.1
+2004	American Indian/Alaska Native	Female	Leukemias	4.3	7.3	5.7	71	1716767	3.2	5.2	4.1
+2005	American Indian/Alaska Native	Female	Leukemias	5.4	8.6	6.9	87	1778645	3.9	6	4.9
+2006	American Indian/Alaska Native	Female	Leukemias	4.7	7.7	6.1	79	1843293	3.4	5.3	4.3
+2007	American Indian/Alaska Native	Female	Leukemias	4.5	7.3	5.8	82	1911949	3.4	5.3	4.3
+2008	American Indian/Alaska Native	Female	Leukemias	4.9	7.6	6.2	100	1986553	4.1	6.1	5
+2009	American Indian/Alaska Native	Female	Leukemias	6.1	9.1	7.5	111	2062396	4.4	6.5	5.4
+2010	American Indian/Alaska Native	Female	Leukemias	6.6	9.6	8	128	2125763	5	7.2	6
+2011	American Indian/Alaska Native	Female	Leukemias	5.4	7.9	6.6	117	2130869	4.5	6.6	5.5
+2012	American Indian/Alaska Native	Female	Leukemias	5.8	8.5	7.1	123	2186915	4.7	6.7	5.6
+2013	American Indian/Alaska Native	Female	Leukemias	5.5	8.2	6.7	114	2216645	4.2	6.2	5.1
+2014	American Indian/Alaska Native	Female	Leukemias	4.3	6.5	5.3	101	2248348	3.7	5.5	4.5
+1999	American Indian/Alaska Native	Female	Lymphomas	9.6	14.7	12	99	1375372	5.9	8.8	7.2
+2000	American Indian/Alaska Native	Female	Lymphomas	9.1	13.8	11.3	104	1450740	5.9	8.7	7.2
+2001	American Indian/Alaska Native	Female	Lymphomas	8.7	13.2	10.8	105	1545619	5.6	8.2	6.8
+2002	American Indian/Alaska Native	Female	Lymphomas	9.3	13.8	11.4	117	1596078	6.1	8.8	7.3
+2003	American Indian/Alaska Native	Female	Lymphomas	11.7	16.7	14.1	145	1659114	7.4	10.3	8.7
+2004	American Indian/Alaska Native	Female	Lymphomas	9.8	14.2	11.9	132	1716767	6.4	9.1	7.7
+2005	American Indian/Alaska Native	Female	Lymphomas	9.7	13.9	11.7	144	1778645	6.8	9.5	8.1
+2006	American Indian/Alaska Native	Female	Lymphomas	10.5	14.8	12.5	151	1843293	6.9	9.6	8.2
+2007	American Indian/Alaska Native	Female	Lymphomas	9	12.8	10.8	141	1911949	6.2	8.7	7.4
+2008	American Indian/Alaska Native	Female	Lymphomas	10.9	15.1	12.9	170	1986553	7.3	9.9	8.6
+2009	American Indian/Alaska Native	Female	Lymphomas	9.6	13.5	11.4	161	2062396	6.6	9.1	7.8
+2010	American Indian/Alaska Native	Female	Lymphomas	9.4	13	11.1	168	2125763	6.8	9.2	7.9
+2011	American Indian/Alaska Native	Female	Lymphomas	9.3	12.9	11	168	2130869	6.7	9.2	7.9
+2012	American Indian/Alaska Native	Female	Lymphomas	9.6	13.3	11.3	175	2186915	6.9	9.3	8
+2013	American Indian/Alaska Native	Female	Lymphomas	9	12.4	10.6	178	2216645	6.9	9.3	8
+2014	American Indian/Alaska Native	Female	Lymphomas	8.5	11.7	10	175	2248348	6.7	9	7.8
+1999	American Indian/Alaska Native	Female	Pancreas	5.1	9.3	7	49	1375372	2.6	4.7	3.6
+2000	American Indian/Alaska Native	Female	Pancreas	6.2	10.3	8	67	1450740	3.6	5.9	4.6
+2001	American Indian/Alaska Native	Female	Pancreas	4.8	8.5	6.5	53	1545619	2.6	4.5	3.4
+2002	American Indian/Alaska Native	Female	Pancreas	5.4	9.1	7.1	65	1596078	3.1	5.2	4.1
+2003	American Indian/Alaska Native	Female	Pancreas	5.5	9.1	7.1	69	1659114	3.2	5.3	4.2
+2004	American Indian/Alaska Native	Female	Pancreas	7.4	11.5	9.3	89	1716767	4.2	6.4	5.2
+2005	American Indian/Alaska Native	Female	Pancreas	5.2	8.6	6.8	73	1778645	3.2	5.2	4.1
+2006	American Indian/Alaska Native	Female	Pancreas	7.3	11.2	9.1	98	1843293	4.3	6.5	5.3
+2007	American Indian/Alaska Native	Female	Pancreas	5.6	8.9	7.1	82	1911949	3.4	5.3	4.3
+2008	American Indian/Alaska Native	Female	Pancreas	5.9	9.2	7.4	91	1986553	3.7	5.6	4.6
+2009	American Indian/Alaska Native	Female	Pancreas	5.1	8	6.4	87	2062396	3.4	5.2	4.2
+2010	American Indian/Alaska Native	Female	Pancreas	6.2	9.5	7.8	103	2125763	4	5.9	4.8
+2011	American Indian/Alaska Native	Female	Pancreas	5.3	8.2	6.6	97	2130869	3.7	5.6	4.6
+2012	American Indian/Alaska Native	Female	Pancreas	6.1	9.1	7.5	114	2186915	4.3	6.3	5.2
+2013	American Indian/Alaska Native	Female	Pancreas	6	8.9	7.3	113	2216645	4.2	6.1	5.1
+2014	American Indian/Alaska Native	Female	Pancreas	6.3	9.2	7.6	125	2248348	4.6	6.6	5.6
+1999	American Indian/Alaska Native	Female	Stomach	5	9	6.8	51	1375372	2.8	4.9	3.7
+2000	American Indian/Alaska Native	Female	Stomach	3.9	7.4	5.4	42	1450740	2.1	3.9	2.9
+2001	American Indian/Alaska Native	Female	Stomach	4.3	7.6	5.8	54	1545619	2.6	4.6	3.5
+2002	American Indian/Alaska Native	Female	Stomach	4.2	7.7	5.8	51	1596078	2.4	4.2	3.2
+2003	American Indian/Alaska Native	Female	Stomach	3.5	6.5	4.8	49	1659114	2.2	3.9	3
+2004	American Indian/Alaska Native	Female	Stomach	3.4	6.2	4.7	52	1716767	2.3	4	3
+2005	American Indian/Alaska Native	Female	Stomach	3.9	6.8	5.2	57	1778645	2.4	4.2	3.2
+2006	American Indian/Alaska Native	Female	Stomach	4.1	7	5.4	61	1843293	2.5	4.3	3.3
+2007	American Indian/Alaska Native	Female	Stomach	3.5	6.1	4.7	57	1911949	2.3	3.9	3
+2008	American Indian/Alaska Native	Female	Stomach	3.5	6	4.6	59	1986553	2.3	3.8	3
+2009	American Indian/Alaska Native	Female	Stomach	3.3	5.6	4.3	64	2062396	2.4	4	3.1
+2010	American Indian/Alaska Native	Female	Stomach	4	6.6	5.2	74	2125763	2.7	4.4	3.5
+2011	American Indian/Alaska Native	Female	Stomach	2.6	4.7	3.5	49	2130869	1.7	3	2.3
+2012	American Indian/Alaska Native	Female	Stomach	3.9	6.3	5	76	2186915	2.7	4.3	3.5
+2013	American Indian/Alaska Native	Female	Stomach	4.4	7	5.6	88	2216645	3.2	4.9	4
+2014	American Indian/Alaska Native	Female	Stomach	3.1	5.1	4	71	2248348	2.5	4	3.2
+1999	American Indian/Alaska Native	Male	Brain	2.6	6	4.1	40	1365653	2.1	4	2.9
+2000	American Indian/Alaska Native	Male	Brain	2.7	5.6	3.9	42	1444839	2.1	3.9	2.9
+2001	American Indian/Alaska Native	Male	Brain	3	6.3	4.5	45	1538799	2.1	3.9	2.9
+2002	American Indian/Alaska Native	Male	Brain	2.8	5.3	3.9	50	1590329	2.3	4.1	3.1
+2003	American Indian/Alaska Native	Male	Brain	2.5	5.1	3.6	43	1652897	1.9	3.5	2.6
+2004	American Indian/Alaska Native	Male	Brain	1.8	3.7	2.6	40	1712685	1.7	3.2	2.3
+2005	American Indian/Alaska Native	Male	Brain	2.5	5	3.6	46	1775711	1.9	3.5	2.6
+2006	American Indian/Alaska Native	Male	Brain	3.4	6.4	4.7	62	1844390	2.6	4.3	3.4
+2007	American Indian/Alaska Native	Male	Brain	2.3	4.1	3.1	54	1917949	2.1	3.7	2.8
+2008	American Indian/Alaska Native	Male	Brain	4.1	7.2	5.5	68	1997376	2.6	4.3	3.4
+2009	American Indian/Alaska Native	Male	Brain	2.1	3.8	2.8	56	2078819	2	3.5	2.7
+2010	American Indian/Alaska Native	Male	Brain	2.5	4.7	3.4	53	2147296	1.8	3.2	2.5
+2011	American Indian/Alaska Native	Male	Brain	2.9	5.1	3.9	64	2151253	2.3	3.8	3
+2012	American Indian/Alaska Native	Male	Brain	2.9	5.1	3.9	64	2206836	2.2	3.7	2.9
+2013	American Indian/Alaska Native	Male	Brain	2.7	4.6	3.5	65	2236369	2.2	3.7	2.9
+2014	American Indian/Alaska Native	Male	Brain	2.5	4.4	3.4	62	2267184	2.1	3.5	2.7
+1999	American Indian/Alaska Native	Male	Gallbladder	0.9	4.3	2.3	NA	1365653	0.3	1.3	0.7
+2000	American Indian/Alaska Native	Male	Gallbladder	0.7	3.4	1.7	NA	1444839	0.2	1.1	0.6
+2001	American Indian/Alaska Native	Male	Gallbladder	0.4	2.4	1.1	NA	1538799	0.2	0.9	0.5
+2002	American Indian/Alaska Native	Male	Gallbladder	0.3	1.6	0.8	NA	1590329	0.2	1	0.5
+2003	American Indian/Alaska Native	Male	Gallbladder	1.2	3.8	2.3	17	1652897	0.6	1.6	1
+2004	American Indian/Alaska Native	Male	Gallbladder	1	3.2	1.9	NA	1712685	0.5	1.4	0.9
+2005	American Indian/Alaska Native	Male	Gallbladder	0.3	1.7	0.8	NA	1775711	0.2	0.8	0.4
+2006	American Indian/Alaska Native	Male	Gallbladder	0.7	2.5	1.4	NA	1844390	0.4	1.2	0.7
+2007	American Indian/Alaska Native	Male	Gallbladder	0.6	2.2	1.2	NA	1917949	0.3	1	0.6
+2008	American Indian/Alaska Native	Male	Gallbladder	0.4	1.8	0.9	NA	1997376	0.2	0.8	0.4
+2009	American Indian/Alaska Native	Male	Gallbladder	1	2.9	1.8	21	2078819	0.6	1.5	1
+2010	American Indian/Alaska Native	Male	Gallbladder	1.4	3.6	2.3	23	2147296	0.7	1.6	1.1
+2011	American Indian/Alaska Native	Male	Gallbladder	0.4	1.8	1	NA	2151253	0.3	1	0.6
+2012	American Indian/Alaska Native	Male	Gallbladder	0.8	2.5	1.5	17	2206836	0.4	1.2	0.8
+2013	American Indian/Alaska Native	Male	Gallbladder	0.8	2.4	1.4	16	2236369	0.4	1.2	0.7
+2014	American Indian/Alaska Native	Male	Gallbladder	0.3	1.4	0.8	NA	2267184	0.2	0.9	0.5
+1999	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	14.5	21.4	17.7	130	1365653	8	11.3	9.5
+2000	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	12.9	19.2	15.8	125	1444839	7.2	10.3	8.7
+2001	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	11.7	17.5	14.4	125	1538799	6.8	9.7	8.1
+2002	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	14.4	20.9	17.5	152	1590329	8.1	11.2	9.6
+2003	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	17.1	23.6	20.2	195	1652897	10.2	13.6	11.8
+2004	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	16.1	22.3	19	195	1712685	9.8	13.1	11.4
+2005	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	16.9	23.2	19.9	204	1775711	10	13.2	11.5
+2006	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	17.2	23.4	20.2	215	1844390	10.2	13.3	11.7
+2007	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	18.9	25	21.8	257	1917949	11.8	15.1	13.4
+2008	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	18.8	25	21.7	261	1997376	11.5	14.8	13.1
+2009	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	20.5	26.7	23.5	291	2078819	12.4	15.7	14
+2010	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	17.7	23.1	20.2	278	2147296	11.5	14.6	12.9
+2011	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	17.6	22.7	20	297	2151253	12.3	15.5	13.8
+2012	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	15.9	20.6	18.2	280	2206836	11.2	14.3	12.7
+2013	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	19.9	25.1	22.4	347	2236369	13.9	17.2	15.5
+2014	American Indian/Alaska Native	Male	Kidney and Renal Pelvis	17.2	22	19.5	318	2267184	12.5	15.7	14
+1999	American Indian/Alaska Native	Male	Leukemias	8.9	14.6	11.5	91	1365653	5.4	8.2	6.7
+2000	American Indian/Alaska Native	Male	Leukemias	6.5	11.1	8.6	83	1444839	4.6	7.1	5.7
+2001	American Indian/Alaska Native	Male	Leukemias	7.1	11.9	9.3	90	1538799	4.7	7.2	5.8
+2002	American Indian/Alaska Native	Male	Leukemias	6.4	10.7	8.4	92	1590329	4.7	7.1	5.8
+2003	American Indian/Alaska Native	Male	Leukemias	4.9	8.7	6.6	71	1652897	3.4	5.4	4.3
+2004	American Indian/Alaska Native	Male	Leukemias	9.9	15.2	12.4	126	1712685	6.1	8.8	7.4
+2005	American Indian/Alaska Native	Male	Leukemias	7.6	12	9.7	110	1775711	5.1	7.5	6.2
+2006	American Indian/Alaska Native	Male	Leukemias	7.4	11.6	9.4	111	1844390	5	7.2	6
+2007	American Indian/Alaska Native	Male	Leukemias	7	11.1	8.9	105	1917949	4.5	6.6	5.5
+2008	American Indian/Alaska Native	Male	Leukemias	7.7	11.9	9.6	117	1997376	4.8	7	5.9
+2009	American Indian/Alaska Native	Male	Leukemias	8	12.3	10	121	2078819	4.8	7	5.8
+2010	American Indian/Alaska Native	Male	Leukemias	7.4	11.2	9.2	127	2147296	4.9	7	5.9
+2011	American Indian/Alaska Native	Male	Leukemias	7.3	11	9	132	2151253	5.1	7.3	6.1
+2012	American Indian/Alaska Native	Male	Leukemias	8.1	11.8	9.9	149	2206836	5.7	7.9	6.8
+2013	American Indian/Alaska Native	Male	Leukemias	7.6	11.1	9.2	137	2236369	5.1	7.2	6.1
+2014	American Indian/Alaska Native	Male	Leukemias	7.6	11	9.2	145	2267184	5.4	7.5	6.4
+1999	American Indian/Alaska Native	Male	Lymphomas	9.4	15.4	12.2	88	1365653	5.2	7.9	6.4
+2000	American Indian/Alaska Native	Male	Lymphomas	11.3	17.1	14	123	1444839	7.1	10.2	8.5
+2001	American Indian/Alaska Native	Male	Lymphomas	13.2	19.3	16.1	143	1538799	7.8	10.9	9.3
+2002	American Indian/Alaska Native	Male	Lymphomas	9.7	14.9	12.1	117	1590329	6.1	8.8	7.4
+2003	American Indian/Alaska Native	Male	Lymphomas	15.3	22.1	18.5	167	1652897	8.6	11.8	10.1
+2004	American Indian/Alaska Native	Male	Lymphomas	11.4	16.9	14	139	1712685	6.8	9.6	8.1
+2005	American Indian/Alaska Native	Male	Lymphomas	13.3	19	16	173	1775711	8.3	11.3	9.7
+2006	American Indian/Alaska Native	Male	Lymphomas	9.8	14.7	12	134	1844390	6.1	8.6	7.3
+2007	American Indian/Alaska Native	Male	Lymphomas	11.5	16.6	13.9	160	1917949	7.1	9.7	8.3
+2008	American Indian/Alaska Native	Male	Lymphomas	11.6	16.5	13.9	169	1997376	7.2	9.8	8.5
+2009	American Indian/Alaska Native	Male	Lymphomas	12.5	17.5	14.8	184	2078819	7.6	10.2	8.9
+2010	American Indian/Alaska Native	Male	Lymphomas	13.6	18.7	16	209	2147296	8.5	11.1	9.7
+2011	American Indian/Alaska Native	Male	Lymphomas	11.4	15.7	13.5	198	2151253	8	10.6	9.2
+2012	American Indian/Alaska Native	Male	Lymphomas	11.7	16.3	13.9	190	2206836	7.4	9.9	8.6
+2013	American Indian/Alaska Native	Male	Lymphomas	10	14	11.9	181	2236369	7	9.4	8.1
+2014	American Indian/Alaska Native	Male	Lymphomas	10.1	14	11.9	190	2267184	7.2	9.7	8.4
+1999	American Indian/Alaska Native	Male	Pancreas	6.4	12.1	8.9	52	1365653	2.8	5	3.8
+2000	American Indian/Alaska Native	Male	Pancreas	4.9	9.3	6.9	49	1444839	2.5	4.5	3.4
+2001	American Indian/Alaska Native	Male	Pancreas	5.4	10.4	7.7	49	1538799	2.4	4.2	3.2
+2002	American Indian/Alaska Native	Male	Pancreas	4.8	9.3	6.8	48	1590329	2.2	4	3
+2003	American Indian/Alaska Native	Male	Pancreas	6.2	10.8	8.3	66	1652897	3.1	5.1	4
+2004	American Indian/Alaska Native	Male	Pancreas	7.6	12.5	9.9	80	1712685	3.7	5.8	4.7
+2005	American Indian/Alaska Native	Male	Pancreas	6.7	11.3	8.8	79	1775711	3.5	5.5	4.4
+2006	American Indian/Alaska Native	Male	Pancreas	4.1	8	5.8	50	1844390	2	3.6	2.7
+2007	American Indian/Alaska Native	Male	Pancreas	6.8	11.3	8.9	82	1917949	3.4	5.3	4.3
+2008	American Indian/Alaska Native	Male	Pancreas	6.3	10.1	8	89	1997376	3.6	5.5	4.5
+2009	American Indian/Alaska Native	Male	Pancreas	6.8	10.7	8.6	99	2078819	3.9	5.8	4.8
+2010	American Indian/Alaska Native	Male	Pancreas	7.2	11.2	9.1	106	2147296	4	6	4.9
+2011	American Indian/Alaska Native	Male	Pancreas	8.7	12.9	10.6	127	2151253	4.9	7	5.9
+2012	American Indian/Alaska Native	Male	Pancreas	5.6	8.8	7.1	101	2206836	3.7	5.6	4.6
+2013	American Indian/Alaska Native	Male	Pancreas	7.9	11.7	9.7	129	2236369	4.8	6.9	5.8
+2014	American Indian/Alaska Native	Male	Pancreas	7.4	11	9.1	130	2267184	4.8	6.8	5.7
+1999	American Indian/Alaska Native	Male	Stomach	8.7	14.9	11.5	69	1365653	3.9	6.4	5.1
+2000	American Indian/Alaska Native	Male	Stomach	5.5	10.2	7.6	53	1444839	2.7	4.8	3.7
+2001	American Indian/Alaska Native	Male	Stomach	8.8	14.8	11.6	75	1538799	3.8	6.1	4.9
+2002	American Indian/Alaska Native	Male	Stomach	8	13.4	10.5	79	1590329	3.9	6.2	5
+2003	American Indian/Alaska Native	Male	Stomach	8.9	14.9	11.7	78	1652897	3.7	5.9	4.7
+2004	American Indian/Alaska Native	Male	Stomach	9.2	14.3	11.5	104	1712685	5	7.4	6.1
+2005	American Indian/Alaska Native	Male	Stomach	9.6	15.1	12.1	98	1775711	4.5	6.7	5.5
+2006	American Indian/Alaska Native	Male	Stomach	8	13.1	10.4	91	1844390	4	6.1	4.9
+2007	American Indian/Alaska Native	Male	Stomach	6.6	10.9	8.6	79	1917949	3.3	5.1	4.1
+2008	American Indian/Alaska Native	Male	Stomach	6	10	7.9	79	1997376	3.1	4.9	4
+2009	American Indian/Alaska Native	Male	Stomach	6.3	10.2	8.1	91	2078819	3.5	5.4	4.4
+2010	American Indian/Alaska Native	Male	Stomach	6.4	10.3	8.2	91	2147296	3.4	5.2	4.2
+2011	American Indian/Alaska Native	Male	Stomach	6.8	10.6	8.6	105	2151253	4	5.9	4.9
+2012	American Indian/Alaska Native	Male	Stomach	5.8	9.4	7.5	89	2206836	3.2	5	4
+2013	American Indian/Alaska Native	Male	Stomach	7.1	10.7	8.8	118	2236369	4.4	6.3	5.3
+2014	American Indian/Alaska Native	Male	Stomach	6.8	10.1	8.3	119	2267184	4.3	6.3	5.2
+1999	American Indian/Alaska Native	Male and Female	Brain	2.5	4.4	3.4	72	2741025	2.1	3.3	2.6
+2000	American Indian/Alaska Native	Male and Female	Brain	2.6	4.3	3.3	76	2895579	2.1	3.3	2.6
+2001	American Indian/Alaska Native	Male and Female	Brain	2.5	4.2	3.3	79	3084418	2	3.2	2.6
+2002	American Indian/Alaska Native	Male and Female	Brain	2.4	4	3.1	80	3186407	2	3.1	2.5
+2003	American Indian/Alaska Native	Male and Female	Brain	2.1	3.6	2.8	74	3312011	1.8	2.8	2.2
+2004	American Indian/Alaska Native	Male and Female	Brain	1.7	3	2.3	70	3429452	1.6	2.6	2
+2005	American Indian/Alaska Native	Male and Female	Brain	2.6	4.1	3.3	91	3554356	2.1	3.1	2.6
+2006	American Indian/Alaska Native	Male and Female	Brain	3.1	4.7	3.8	109	3687683	2.4	3.6	3
+2007	American Indian/Alaska Native	Male and Female	Brain	2.6	4	3.2	102	3829898	2.2	3.2	2.7
+2008	American Indian/Alaska Native	Male and Female	Brain	3.5	5.3	4.3	125	3983929	2.6	3.7	3.1
+2009	American Indian/Alaska Native	Male and Female	Brain	2.2	3.5	2.8	102	4141215	2	3	2.5
+2010	American Indian/Alaska Native	Male and Female	Brain	2.3	3.6	2.9	98	4273059	1.9	2.8	2.3
+2011	American Indian/Alaska Native	Male and Female	Brain	2.6	3.9	3.2	112	4282122	2.2	3.1	2.6
+2012	American Indian/Alaska Native	Male and Female	Brain	2.7	4	3.3	117	4393751	2.2	3.2	2.7
+2013	American Indian/Alaska Native	Male and Female	Brain	2.5	3.7	3.1	112	4453014	2.1	3	2.5
+2014	American Indian/Alaska Native	Male and Female	Brain	2.3	3.4	2.8	111	4515532	2	3	2.5
+1999	American Indian/Alaska Native	Male and Female	Gallbladder	1.7	3.7	2.6	29	2741025	0.7	1.5	1.1
+2000	American Indian/Alaska Native	Male and Female	Gallbladder	1.3	3.1	2.1	25	2895579	0.6	1.3	0.9
+2001	American Indian/Alaska Native	Male and Female	Gallbladder	0.9	2.3	1.5	23	3084418	0.5	1.1	0.7
+2002	American Indian/Alaska Native	Male and Female	Gallbladder	1.4	3	2.1	35	3186407	0.8	1.5	1.1
+2003	American Indian/Alaska Native	Male and Female	Gallbladder	1.9	3.7	2.7	46	3312011	1	1.9	1.4
+2004	American Indian/Alaska Native	Male and Female	Gallbladder	1.3	2.8	1.9	33	3429452	0.7	1.4	1
+2005	American Indian/Alaska Native	Male and Female	Gallbladder	1.5	3.1	2.2	36	3554356	0.7	1.4	1
+2006	American Indian/Alaska Native	Male and Female	Gallbladder	2.3	4	3.1	54	3687683	1.1	1.9	1.5
+2007	American Indian/Alaska Native	Male and Female	Gallbladder	1.4	2.7	1.9	39	3829898	0.7	1.4	1
+2008	American Indian/Alaska Native	Male and Female	Gallbladder	0.8	1.9	1.3	28	3983929	0.5	1	0.7
+2009	American Indian/Alaska Native	Male and Female	Gallbladder	1.3	2.6	1.9	45	4141215	0.8	1.5	1.1
+2010	American Indian/Alaska Native	Male and Female	Gallbladder	1.8	3.1	2.4	57	4273059	1	1.7	1.3
+2011	American Indian/Alaska Native	Male and Female	Gallbladder	1.2	2.4	1.7	42	4282122	0.7	1.3	1
+2012	American Indian/Alaska Native	Male and Female	Gallbladder	1.4	2.6	1.9	50	4393751	0.8	1.5	1.1
+2013	American Indian/Alaska Native	Male and Female	Gallbladder	1.2	2.3	1.7	45	4453014	0.7	1.4	1
+2014	American Indian/Alaska Native	Male and Female	Gallbladder	1	2	1.4	40	4515532	0.6	1.2	0.9
+1999	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	11.3	15.1	13.1	217	2741025	6.9	9	7.9
+2000	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	10.8	14.3	12.4	221	2895579	6.7	8.7	7.6
+2001	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	10.9	14.4	12.6	233	3084418	6.6	8.6	7.6
+2002	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	10.8	14.2	12.4	239	3186407	6.6	8.5	7.5
+2003	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14	17.8	15.8	331	3312011	8.9	11.1	10
+2004	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	13.6	17.3	15.4	332	3429452	8.7	10.8	9.7
+2005	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	13.6	17.1	15.3	353	3554356	8.9	11	9.9
+2006	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14	17.5	15.7	370	3687683	9	11.1	10
+2007	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14.8	18.3	16.5	414	3829898	9.8	11.9	10.8
+2008	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14.9	18.2	16.5	442	3983929	10.1	12.2	11.1
+2009	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	15.5	18.9	17.2	472	4141215	10.4	12.5	11.4
+2010	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14.5	17.6	16	479	4273059	10.2	12.3	11.2
+2011	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14.9	18	16.4	504	4282122	10.8	12.8	11.8
+2012	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14	16.9	15.4	499	4393751	10.4	12.4	11.4
+2013	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	14.5	17.4	15.9	535	4453014	11	13.1	12
+2014	American Indian/Alaska Native	Male and Female	Kidney and Renal Pelvis	13.4	16.1	14.7	528	4515532	10.7	12.7	11.7
+1999	American Indian/Alaska Native	Male and Female	Leukemias	7.3	10.5	8.8	156	2741025	4.8	6.7	5.7
+2000	American Indian/Alaska Native	Male and Female	Leukemias	6.3	9.1	7.6	148	2895579	4.3	6	5.1
+2001	American Indian/Alaska Native	Male and Female	Leukemias	6.6	9.3	7.9	171	3084418	4.7	6.4	5.5
+2002	American Indian/Alaska Native	Male and Female	Leukemias	5.5	8	6.7	155	3186407	4.1	5.7	4.9
+2003	American Indian/Alaska Native	Male and Female	Leukemias	6	8.6	7.2	156	3312011	4	5.5	4.7
+2004	American Indian/Alaska Native	Male and Female	Leukemias	7.3	10.1	8.7	197	3429452	5	6.6	5.7
+2005	American Indian/Alaska Native	Male and Female	Leukemias	6.9	9.5	8.2	197	3554356	4.8	6.4	5.5
+2006	American Indian/Alaska Native	Male and Female	Leukemias	6.5	8.9	7.6	190	3687683	4.4	5.9	5.2
+2007	American Indian/Alaska Native	Male and Female	Leukemias	6	8.3	7.1	187	3829898	4.2	5.6	4.9
+2008	American Indian/Alaska Native	Male and Female	Leukemias	6.5	8.8	7.6	217	3983929	4.7	6.2	5.4
+2009	American Indian/Alaska Native	Male and Female	Leukemias	7.3	9.8	8.5	232	4141215	4.9	6.4	5.6
+2010	American Indian/Alaska Native	Male and Female	Leukemias	7.3	9.7	8.4	255	4273059	5.3	6.7	6
+2011	American Indian/Alaska Native	Male and Female	Leukemias	6.6	8.7	7.6	249	4282122	5.1	6.6	5.8
+2012	American Indian/Alaska Native	Male and Female	Leukemias	7.3	9.5	8.3	272	4393751	5.5	7	6.2
+2013	American Indian/Alaska Native	Male and Female	Leukemias	6.9	9	7.9	251	4453014	5	6.4	5.6
+2014	American Indian/Alaska Native	Male and Female	Leukemias	6.1	8	7	246	4515532	4.8	6.2	5.4
+1999	American Indian/Alaska Native	Male and Female	Lymphomas	10.3	14.2	12.1	187	2741025	5.9	7.9	6.8
+2000	American Indian/Alaska Native	Male and Female	Lymphomas	10.9	14.6	12.7	227	2895579	6.9	8.9	7.8
+2001	American Indian/Alaska Native	Male and Female	Lymphomas	11.5	15.2	13.3	248	3084418	7.1	9.1	8
+2002	American Indian/Alaska Native	Male and Female	Lymphomas	10.1	13.5	11.7	234	3186407	6.4	8.3	7.3
+2003	American Indian/Alaska Native	Male and Female	Lymphomas	14	18	15.9	312	3312011	8.4	10.5	9.4
+2004	American Indian/Alaska Native	Male and Female	Lymphomas	11.3	14.7	12.9	271	3429452	7	8.9	7.9
+2005	American Indian/Alaska Native	Male and Female	Lymphomas	12	15.3	13.6	317	3554356	8	10	8.9
+2006	American Indian/Alaska Native	Male and Female	Lymphomas	10.8	14	12.3	285	3687683	6.9	8.7	7.7
+2007	American Indian/Alaska Native	Male and Female	Lymphomas	10.7	13.7	12.1	301	3829898	7	8.8	7.9
+2008	American Indian/Alaska Native	Male and Female	Lymphomas	11.9	15.1	13.4	339	3983929	7.6	9.5	8.5
+2009	American Indian/Alaska Native	Male and Female	Lymphomas	11.5	14.6	13	345	4141215	7.5	9.3	8.3
+2010	American Indian/Alaska Native	Male and Female	Lymphomas	11.9	14.8	13.3	377	4273059	8	9.8	8.8
+2011	American Indian/Alaska Native	Male and Female	Lymphomas	10.9	13.6	12.2	366	4282122	7.7	9.5	8.5
+2012	American Indian/Alaska Native	Male and Female	Lymphomas	11.1	13.9	12.4	365	4393751	7.5	9.2	8.3
+2013	American Indian/Alaska Native	Male and Female	Lymphomas	10	12.6	11.3	359	4453014	7.2	8.9	8.1
+2014	American Indian/Alaska Native	Male and Female	Lymphomas	9.8	12.2	10.9	365	4515532	7.3	9	8.1
+1999	American Indian/Alaska Native	Male and Female	Pancreas	6.3	9.7	7.9	101	2741025	3	4.5	3.7
+2000	American Indian/Alaska Native	Male and Female	Pancreas	6.2	9.2	7.6	116	2895579	3.3	4.8	4
+2001	American Indian/Alaska Native	Male and Female	Pancreas	5.6	8.5	6.9	102	3084418	2.7	4	3.3
+2002	American Indian/Alaska Native	Male and Female	Pancreas	5.6	8.4	6.9	113	3186407	2.9	4.3	3.5
+2003	American Indian/Alaska Native	Male and Female	Pancreas	6.3	9.1	7.6	135	3312011	3.4	4.8	4.1
+2004	American Indian/Alaska Native	Male and Female	Pancreas	8.1	11.3	9.6	169	3429452	4.2	5.7	4.9
+2005	American Indian/Alaska Native	Male and Female	Pancreas	6.4	9	7.6	152	3554356	3.6	5	4.3
+2006	American Indian/Alaska Native	Male and Female	Pancreas	6.3	9	7.6	148	3687683	3.4	4.7	4
+2007	American Indian/Alaska Native	Male and Female	Pancreas	6.6	9.2	7.8	164	3829898	3.7	5	4.3
+2008	American Indian/Alaska Native	Male and Female	Pancreas	6.6	9.1	7.8	180	3983929	3.9	5.2	4.5
+2009	American Indian/Alaska Native	Male and Female	Pancreas	6.3	8.6	7.4	186	4141215	3.9	5.2	4.5
+2010	American Indian/Alaska Native	Male and Female	Pancreas	7.2	9.7	8.4	209	4273059	4.3	5.6	4.9
+2011	American Indian/Alaska Native	Male and Female	Pancreas	7.2	9.6	8.4	224	4282122	4.6	6	5.2
+2012	American Indian/Alaska Native	Male and Female	Pancreas	6.4	8.6	7.4	215	4393751	4.3	5.6	4.9
+2013	American Indian/Alaska Native	Male and Female	Pancreas	7.3	9.6	8.4	242	4453014	4.8	6.2	5.4
+2014	American Indian/Alaska Native	Male and Female	Pancreas	7.2	9.4	8.3	255	4515532	5	6.4	5.6
+1999	American Indian/Alaska Native	Male and Female	Stomach	7.2	10.7	8.8	120	2741025	3.6	5.2	4.4
+2000	American Indian/Alaska Native	Male and Female	Stomach	5.1	7.9	6.4	95	2895579	2.7	4	3.3
+2001	American Indian/Alaska Native	Male and Female	Stomach	6.7	9.8	8.2	129	3084418	3.5	5	4.2
+2002	American Indian/Alaska Native	Male and Female	Stomach	6.5	9.4	7.9	130	3186407	3.4	4.8	4.1
+2003	American Indian/Alaska Native	Male and Female	Stomach	6.1	9	7.5	127	3312011	3.2	4.6	3.8
+2004	American Indian/Alaska Native	Male and Female	Stomach	6.5	9.2	7.7	156	3429452	3.9	5.3	4.5
+2005	American Indian/Alaska Native	Male and Female	Stomach	6.8	9.6	8.1	155	3554356	3.7	5.1	4.4
+2006	American Indian/Alaska Native	Male and Female	Stomach	6.2	8.8	7.5	152	3687683	3.5	4.8	4.1
+2007	American Indian/Alaska Native	Male and Female	Stomach	5.2	7.5	6.3	136	3829898	3	4.2	3.6
+2008	American Indian/Alaska Native	Male and Female	Stomach	5	7.2	6	138	3983929	2.9	4.1	3.5
+2009	American Indian/Alaska Native	Male and Female	Stomach	5	7	5.9	155	4141215	3.2	4.4	3.7
+2010	American Indian/Alaska Native	Male and Female	Stomach	5.5	7.6	6.5	165	4273059	3.3	4.5	3.9
+2011	American Indian/Alaska Native	Male and Female	Stomach	4.8	6.8	5.8	154	4282122	3.1	4.2	3.6
+2012	American Indian/Alaska Native	Male and Female	Stomach	5.1	7.1	6.1	165	4393751	3.2	4.4	3.8
+2013	American Indian/Alaska Native	Male and Female	Stomach	6	8.1	7	206	4453014	4	5.3	4.6
+2014	American Indian/Alaska Native	Male and Female	Stomach	5.1	6.9	5.9	190	4515532	3.6	4.9	4.2
+1999	Asian/Pacific Islander	Female	Brain	2.6	3.6	3.1	154	5851906	2.2	3.1	2.6
+2000	Asian/Pacific Islander	Female	Brain	2.5	3.5	3	160	6119913	2.2	3.1	2.6
+2001	Asian/Pacific Islander	Female	Brain	2.3	3.1	2.7	157	6420040	2.1	2.9	2.4
+2002	Asian/Pacific Islander	Female	Brain	2.4	3.3	2.9	173	6691689	2.2	3	2.6
+2003	Asian/Pacific Islander	Female	Brain	2.6	3.5	3	193	6988593	2.4	3.2	2.8
+2004	Asian/Pacific Islander	Female	Brain	2.6	3.4	3	199	7260672	2.4	3.1	2.7
+2005	Asian/Pacific Islander	Female	Brain	2.3	3.2	2.7	184	7546200	2.1	2.8	2.4
+2006	Asian/Pacific Islander	Female	Brain	2.3	3.1	2.7	190	7835755	2.1	2.8	2.4
+2007	Asian/Pacific Islander	Female	Brain	2.4	3.2	2.8	207	8121183	2.2	2.9	2.5
+2008	Asian/Pacific Islander	Female	Brain	2.4	3.2	2.8	222	8410193	2.3	3	2.6
+2009	Asian/Pacific Islander	Female	Brain	2.2	2.9	2.5	204	8687874	2	2.7	2.3
+2010	Asian/Pacific Islander	Female	Brain	2.4	3.1	2.7	225	8961428	2.2	2.9	2.5
+2011	Asian/Pacific Islander	Female	Brain	2.5	3.2	2.9	252	9108086	2.4	3.1	2.8
+2012	Asian/Pacific Islander	Female	Brain	2.7	3.4	3	280	9534318	2.6	3.3	2.9
+2013	Asian/Pacific Islander	Female	Brain	2.6	3.4	3	277	9847692	2.5	3.2	2.8
+2014	Asian/Pacific Islander	Female	Brain	2.8	3.6	3.2	313	10183290	2.7	3.4	3.1
+1999	Asian/Pacific Islander	Female	Gallbladder	1.1	1.9	1.5	60	5851906	0.8	1.3	1
+2000	Asian/Pacific Islander	Female	Gallbladder	1.3	2.1	1.6	71	6119913	0.9	1.5	1.2
+2001	Asian/Pacific Islander	Female	Gallbladder	1.5	2.4	1.9	89	6420040	1.1	1.7	1.4
+2002	Asian/Pacific Islander	Female	Gallbladder	1.1	1.8	1.4	66	6691689	0.8	1.3	1
+2003	Asian/Pacific Islander	Female	Gallbladder	1.4	2.2	1.8	90	6988593	1	1.6	1.3
+2004	Asian/Pacific Islander	Female	Gallbladder	1.2	1.9	1.5	84	7260672	0.9	1.4	1.2
+2005	Asian/Pacific Islander	Female	Gallbladder	1.3	2	1.6	94	7546200	1	1.5	1.2
+2006	Asian/Pacific Islander	Female	Gallbladder	1.1	1.8	1.4	86	7835755	0.9	1.4	1.1
+2007	Asian/Pacific Islander	Female	Gallbladder	1.3	1.9	1.6	104	8121183	1	1.6	1.3
+2008	Asian/Pacific Islander	Female	Gallbladder	1.1	1.7	1.4	92	8410193	0.9	1.3	1.1
+2009	Asian/Pacific Islander	Female	Gallbladder	1.4	2	1.6	113	8687874	1.1	1.6	1.3
+2010	Asian/Pacific Islander	Female	Gallbladder	1.2	1.7	1.4	113	8961428	1	1.5	1.3
+2011	Asian/Pacific Islander	Female	Gallbladder	1.3	1.9	1.6	122	9108086	1.1	1.6	1.3
+2012	Asian/Pacific Islander	Female	Gallbladder	1.4	2	1.7	139	9534318	1.2	1.7	1.5
+2013	Asian/Pacific Islander	Female	Gallbladder	1.2	1.7	1.4	128	9847692	1.1	1.5	1.3
+2014	Asian/Pacific Islander	Female	Gallbladder	1.4	2	1.7	163	10183290	1.4	1.9	1.6
+1999	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	3.3	4.6	3.9	170	5851906	2.5	3.4	2.9
+2000	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	3.6	4.8	4.2	196	6119913	2.8	3.7	3.2
+2001	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	3.7	4.9	4.3	208	6420040	2.8	3.7	3.2
+2002	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	3.4	4.6	4	212	6691689	2.8	3.6	3.2
+2003	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.3	5.5	4.9	273	6988593	3.5	4.4	3.9
+2004	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	3.7	4.8	4.3	248	7260672	3	3.9	3.4
+2005	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.4	5.5	4.9	301	7546200	3.6	4.5	4
+2006	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.8	6	5.4	348	7835755	4	4.9	4.4
+2007	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.7	5.8	5.2	353	8121183	3.9	4.8	4.3
+2008	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.7	5.8	5.3	384	8410193	4.1	5	4.6
+2009	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.6	5.7	5.1	394	8687874	4.1	5	4.5
+2010	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.3	5.2	4.7	384	8961428	3.9	4.7	4.3
+2011	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.4	5.4	4.9	403	9108086	4	4.9	4.4
+2012	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.3	5.3	4.8	420	9534318	4	4.8	4.4
+2013	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.4	5.3	4.8	460	9847692	4.3	5.1	4.7
+2014	Asian/Pacific Islander	Female	Kidney and Renal Pelvis	4.5	5.4	4.9	488	10183290	4.4	5.2	4.8
+1999	Asian/Pacific Islander	Female	Leukemias	5.7	7.2	6.4	301	5851906	4.6	5.8	5.1
+2000	Asian/Pacific Islander	Female	Leukemias	5.3	6.8	6	297	6119913	4.3	5.4	4.9
+2001	Asian/Pacific Islander	Female	Leukemias	4.8	6.1	5.4	296	6420040	4.1	5.2	4.6
+2002	Asian/Pacific Islander	Female	Leukemias	5.6	6.9	6.2	348	6691689	4.7	5.8	5.2
+2003	Asian/Pacific Islander	Female	Leukemias	5.4	6.7	6	345	6988593	4.4	5.5	4.9
+2004	Asian/Pacific Islander	Female	Leukemias	4.9	6.2	5.5	342	7260672	4.2	5.2	4.7
+2005	Asian/Pacific Islander	Female	Leukemias	5.5	6.7	6.1	397	7546200	4.8	5.8	5.3
+2006	Asian/Pacific Islander	Female	Leukemias	5.6	6.8	6.2	408	7835755	4.7	5.7	5.2
+2007	Asian/Pacific Islander	Female	Leukemias	5.2	6.4	5.8	414	8121183	4.6	5.6	5.1
+2008	Asian/Pacific Islander	Female	Leukemias	6.1	7.3	6.7	494	8410193	5.4	6.4	5.9
+2009	Asian/Pacific Islander	Female	Leukemias	5.6	6.7	6.1	484	8687874	5.1	6.1	5.6
+2010	Asian/Pacific Islander	Female	Leukemias	6	7.1	6.5	530	8961428	5.4	6.4	5.9
+2011	Asian/Pacific Islander	Female	Leukemias	6.1	7.3	6.7	558	9108086	5.6	6.7	6.1
+2012	Asian/Pacific Islander	Female	Leukemias	5.6	6.6	6.1	538	9534318	5.2	6.1	5.6
+2013	Asian/Pacific Islander	Female	Leukemias	5.6	6.6	6.1	566	9847692	5.3	6.2	5.7
+2014	Asian/Pacific Islander	Female	Leukemias	5.7	6.7	6.2	603	10183290	5.5	6.4	5.9
+1999	Asian/Pacific Islander	Female	Lymphomas	10.8	12.9	11.8	519	5851906	8.1	9.7	8.9
+2000	Asian/Pacific Islander	Female	Lymphomas	10.9	12.9	11.9	562	6119913	8.4	10	9.2
+2001	Asian/Pacific Islander	Female	Lymphomas	11.3	13.3	12.3	617	6420040	8.9	10.4	9.6
+2002	Asian/Pacific Islander	Female	Lymphomas	11.1	13	12	652	6691689	9	10.5	9.7
+2003	Asian/Pacific Islander	Female	Lymphomas	11.3	13.2	12.3	688	6988593	9.1	10.6	9.8
+2004	Asian/Pacific Islander	Female	Lymphomas	10.9	12.7	11.8	706	7260672	9	10.5	9.7
+2005	Asian/Pacific Islander	Female	Lymphomas	10.7	12.4	11.5	740	7546200	9.1	10.5	9.8
+2006	Asian/Pacific Islander	Female	Lymphomas	10.4	12	11.2	749	7835755	8.9	10.3	9.6
+2007	Asian/Pacific Islander	Female	Lymphomas	10.1	11.7	10.9	759	8121183	8.7	10	9.3
+2008	Asian/Pacific Islander	Female	Lymphomas	11.5	13.1	12.3	897	8410193	10	11.4	10.7
+2009	Asian/Pacific Islander	Female	Lymphomas	11.8	13.5	12.6	969	8687874	10.5	11.9	11.2
+2010	Asian/Pacific Islander	Female	Lymphomas	10.8	12.4	11.6	945	8961428	9.9	11.2	10.5
+2011	Asian/Pacific Islander	Female	Lymphomas	11.5	13.1	12.3	1031	9108086	10.6	12	11.3
+2012	Asian/Pacific Islander	Female	Lymphomas	10.4	11.9	11.1	987	9534318	9.7	11	10.4
+2013	Asian/Pacific Islander	Female	Lymphomas	10.4	11.7	11	1035	9847692	9.9	11.2	10.5
+2014	Asian/Pacific Islander	Female	Lymphomas	11.1	12.5	11.8	1156	10183290	10.7	12	11.4
+1999	Asian/Pacific Islander	Female	Pancreas	7.2	9.1	8.1	315	5851906	4.8	6	5.4
+2000	Asian/Pacific Islander	Female	Pancreas	7.5	9.4	8.4	345	6119913	5.1	6.3	5.6
+2001	Asian/Pacific Islander	Female	Pancreas	7.5	9.3	8.4	374	6420040	5.2	6.4	5.8
+2002	Asian/Pacific Islander	Female	Pancreas	7.2	8.9	8	386	6691689	5.2	6.4	5.8
+2003	Asian/Pacific Islander	Female	Pancreas	7	8.6	7.7	391	6988593	5.1	6.2	5.6
+2004	Asian/Pacific Islander	Female	Pancreas	7.3	8.9	8.1	428	7260672	5.3	6.5	5.9
+2005	Asian/Pacific Islander	Female	Pancreas	7.4	8.9	8.1	465	7546200	5.6	6.7	6.2
+2006	Asian/Pacific Islander	Female	Pancreas	7.6	9.1	8.4	495	7835755	5.8	6.9	6.3
+2007	Asian/Pacific Islander	Female	Pancreas	7.2	8.6	7.9	492	8121183	5.5	6.6	6.1
+2008	Asian/Pacific Islander	Female	Pancreas	7.8	9.2	8.5	553	8410193	6	7.1	6.6
+2009	Asian/Pacific Islander	Female	Pancreas	7.8	9.2	8.5	589	8687874	6.2	7.3	6.8
+2010	Asian/Pacific Islander	Female	Pancreas	8.3	9.8	9	664	8961428	6.9	8	7.4
+2011	Asian/Pacific Islander	Female	Pancreas	8	9.3	8.6	654	9108086	6.6	7.8	7.2
+2012	Asian/Pacific Islander	Female	Pancreas	8.5	9.8	9.1	750	9534318	7.3	8.5	7.9
+2013	Asian/Pacific Islander	Female	Pancreas	7.9	9.1	8.5	745	9847692	7	8.1	7.6
+2014	Asian/Pacific Islander	Female	Pancreas	7.7	8.9	8.3	776	10183290	7.1	8.2	7.6
+1999	Asian/Pacific Islander	Female	Stomach	10.1	12.3	11.1	439	5851906	6.8	8.2	7.5
+2000	Asian/Pacific Islander	Female	Stomach	10.6	12.8	11.6	488	6119913	7.3	8.7	8
+2001	Asian/Pacific Islander	Female	Stomach	10.3	12.4	11.3	513	6420040	7.3	8.7	8
+2002	Asian/Pacific Islander	Female	Stomach	10	11.9	10.9	536	6691689	7.3	8.7	8
+2003	Asian/Pacific Islander	Female	Stomach	9.8	11.6	10.7	562	6988593	7.4	8.7	8
+2004	Asian/Pacific Islander	Female	Stomach	9.1	10.8	9.9	550	7260672	7	8.2	7.6
+2005	Asian/Pacific Islander	Female	Stomach	9	10.6	9.8	584	7546200	7.1	8.4	7.7
+2006	Asian/Pacific Islander	Female	Stomach	8.4	10	9.2	572	7835755	6.7	7.9	7.3
+2007	Asian/Pacific Islander	Female	Stomach	8.7	10.2	9.4	611	8121183	6.9	8.1	7.5
+2008	Asian/Pacific Islander	Female	Stomach	8.1	9.6	8.8	602	8410193	6.6	7.8	7.2
+2009	Asian/Pacific Islander	Female	Stomach	8.7	10.1	9.4	671	8687874	7.2	8.3	7.7
+2010	Asian/Pacific Islander	Female	Stomach	7.9	9.3	8.6	656	8961428	6.8	7.9	7.3
+2011	Asian/Pacific Islander	Female	Stomach	6.9	8.2	7.5	606	9108086	6.1	7.2	6.7
+2012	Asian/Pacific Islander	Female	Stomach	7.9	9.2	8.6	727	9534318	7.1	8.2	7.6
+2013	Asian/Pacific Islander	Female	Stomach	7.6	8.8	8.2	742	9847692	7	8.1	7.5
+2014	Asian/Pacific Islander	Female	Stomach	7	8.1	7.6	719	10183290	6.6	7.6	7.1
+1999	Asian/Pacific Islander	Male	Brain	3.2	4.4	3.8	169	5517417	2.6	3.6	3.1
+2000	Asian/Pacific Islander	Male	Brain	2.9	4.1	3.5	169	5786686	2.5	3.4	2.9
+2001	Asian/Pacific Islander	Male	Brain	3.9	5.3	4.5	214	6054289	3.1	4	3.5
+2002	Asian/Pacific Islander	Male	Brain	3.5	4.6	4	209	6290708	2.9	3.8	3.3
+2003	Asian/Pacific Islander	Male	Brain	3.5	4.8	4.1	214	6542554	2.8	3.7	3.3
+2004	Asian/Pacific Islander	Male	Brain	3.2	4.3	3.7	213	6778074	2.7	3.6	3.1
+2005	Asian/Pacific Islander	Male	Brain	3.1	4.2	3.7	211	7022993	2.6	3.4	3
+2006	Asian/Pacific Islander	Male	Brain	3.5	4.6	4	239	7271603	2.9	3.7	3.3
+2007	Asian/Pacific Islander	Male	Brain	3.6	4.6	4.1	270	7512453	3.2	4	3.6
+2008	Asian/Pacific Islander	Male	Brain	3.7	4.8	4.2	282	7759796	3.2	4.1	3.6
+2009	Asian/Pacific Islander	Male	Brain	3.7	4.8	4.2	293	7995377	3.3	4.1	3.7
+2010	Asian/Pacific Islander	Male	Brain	3.7	4.7	4.1	299	8232912	3.2	4.1	3.6
+2011	Asian/Pacific Islander	Male	Brain	3.4	4.4	3.9	288	8375728	3.1	3.9	3.4
+2012	Asian/Pacific Islander	Male	Brain	3.6	4.5	4	328	8763513	3.3	4.2	3.7
+2013	Asian/Pacific Islander	Male	Brain	3.4	4.3	3.8	310	9055618	3.1	3.8	3.4
+2014	Asian/Pacific Islander	Male	Brain	3.2	4	3.6	305	9362812	2.9	3.6	3.3
+1999	Asian/Pacific Islander	Male	Gallbladder	0.9	1.9	1.4	40	5517417	0.5	1	0.7
+2000	Asian/Pacific Islander	Male	Gallbladder	0.8	1.5	1.1	35	5786686	0.4	0.8	0.6
+2001	Asian/Pacific Islander	Male	Gallbladder	0.7	1.6	1.1	34	6054289	0.4	0.8	0.6
+2002	Asian/Pacific Islander	Male	Gallbladder	1	1.8	1.4	47	6290708	0.5	1	0.7
+2003	Asian/Pacific Islander	Male	Gallbladder	1	1.9	1.4	52	6542554	0.6	1	0.8
+2004	Asian/Pacific Islander	Male	Gallbladder	0.8	1.5	1.1	43	6778074	0.5	0.9	0.6
+2005	Asian/Pacific Islander	Male	Gallbladder	0.8	1.5	1.1	45	7022993	0.5	0.9	0.6
+2006	Asian/Pacific Islander	Male	Gallbladder	0.8	1.4	1.1	50	7271603	0.5	0.9	0.7
+2007	Asian/Pacific Islander	Male	Gallbladder	1.1	1.8	1.4	67	7512453	0.7	1.1	0.9
+2008	Asian/Pacific Islander	Male	Gallbladder	0.9	1.6	1.2	63	7759796	0.6	1	0.8
+2009	Asian/Pacific Islander	Male	Gallbladder	0.7	1.2	0.9	52	7995377	0.5	0.9	0.7
+2010	Asian/Pacific Islander	Male	Gallbladder	0.7	1.3	1	55	8232912	0.5	0.9	0.7
+2011	Asian/Pacific Islander	Male	Gallbladder	0.8	1.3	1	58	8375728	0.5	0.9	0.7
+2012	Asian/Pacific Islander	Male	Gallbladder	0.8	1.3	1.1	69	8763513	0.6	1	0.8
+2013	Asian/Pacific Islander	Male	Gallbladder	0.9	1.4	1.1	74	9055618	0.6	1	0.8
+2014	Asian/Pacific Islander	Male	Gallbladder	0.9	1.4	1.1	79	9362812	0.7	1.1	0.8
+1999	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	6.9	8.9	7.9	279	5517417	4.5	5.7	5.1
+2000	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	8.1	10.2	9.1	341	5786686	5.3	6.6	5.9
+2001	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	7.3	9.1	8.2	345	6054289	5.1	6.3	5.7
+2002	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	7.2	9	8.1	359	6290708	5.1	6.3	5.7
+2003	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	8.9	10.9	9.9	444	6542554	6.2	7.4	6.8
+2004	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	8.5	10.4	9.4	437	6778074	5.9	7.1	6.4
+2005	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	8.3	10	9.1	470	7022993	6.1	7.3	6.7
+2006	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	9.6	11.5	10.6	559	7271603	7.1	8.4	7.7
+2007	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	10	11.8	10.9	614	7512453	7.5	8.8	8.2
+2008	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	10.1	11.8	10.9	655	7759796	7.8	9.1	8.4
+2009	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	9.5	11.2	10.4	650	7995377	7.5	8.8	8.1
+2010	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	10.5	12.2	11.3	724	8232912	8.2	9.5	8.8
+2011	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	10.1	11.7	10.9	757	8375728	8.4	9.7	9
+2012	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	9.9	11.5	10.7	776	8763513	8.2	9.5	8.9
+2013	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	10.3	11.8	11.1	856	9055618	8.8	10.1	9.5
+2014	Asian/Pacific Islander	Male	Kidney and Renal Pelvis	9.7	11.2	10.4	852	9362812	8.5	9.7	9.1
+1999	Asian/Pacific Islander	Male	Leukemias	8.5	10.7	9.6	366	5517417	6	7.3	6.6
+2000	Asian/Pacific Islander	Male	Leukemias	8.7	10.8	9.7	407	5786686	6.4	7.8	7
+2001	Asian/Pacific Islander	Male	Leukemias	9.1	11.1	10.1	436	6054289	6.5	7.9	7.2
+2002	Asian/Pacific Islander	Male	Leukemias	8.1	10	9.1	421	6290708	6.1	7.4	6.7
+2003	Asian/Pacific Islander	Male	Leukemias	8.5	10.4	9.4	472	6542554	6.6	7.9	7.2
+2004	Asian/Pacific Islander	Male	Leukemias	9.1	11	10	490	6778074	6.6	7.9	7.2
+2005	Asian/Pacific Islander	Male	Leukemias	7.8	9.5	8.6	468	7022993	6.1	7.3	6.7
+2006	Asian/Pacific Islander	Male	Leukemias	8	9.7	8.8	492	7271603	6.2	7.4	6.8
+2007	Asian/Pacific Islander	Male	Leukemias	8.2	9.8	9	518	7512453	6.3	7.5	6.9
+2008	Asian/Pacific Islander	Male	Leukemias	8.5	10.1	9.3	566	7759796	6.7	7.9	7.3
+2009	Asian/Pacific Islander	Male	Leukemias	9	10.6	9.8	605	7995377	7	8.2	7.6
+2010	Asian/Pacific Islander	Male	Leukemias	9.2	10.9	10	633	8232912	7.1	8.3	7.7
+2011	Asian/Pacific Islander	Male	Leukemias	9.4	11	10.2	679	8375728	7.5	8.7	8.1
+2012	Asian/Pacific Islander	Male	Leukemias	9.2	10.7	9.9	730	8763513	7.7	9	8.3
+2013	Asian/Pacific Islander	Male	Leukemias	8.5	9.9	9.2	704	9055618	7.2	8.4	7.8
+2014	Asian/Pacific Islander	Male	Leukemias	8.7	10.1	9.4	745	9362812	7.4	8.5	8
+1999	Asian/Pacific Islander	Male	Lymphomas	16.9	20	18.4	658	5517417	11	12.9	11.9
+2000	Asian/Pacific Islander	Male	Lymphomas	15.2	17.9	16.5	657	5786686	10.5	12.3	11.4
+2001	Asian/Pacific Islander	Male	Lymphomas	15.7	18.4	17	719	6054289	11	12.8	11.9
+2002	Asian/Pacific Islander	Male	Lymphomas	15.9	18.6	17.2	745	6290708	11	12.7	11.8
+2003	Asian/Pacific Islander	Male	Lymphomas	15.7	18.3	17	771	6542554	11	12.6	11.8
+2004	Asian/Pacific Islander	Male	Lymphomas	15.5	18	16.7	809	6778074	11.1	12.8	11.9
+2005	Asian/Pacific Islander	Male	Lymphomas	16.2	18.7	17.4	880	7022993	11.7	13.4	12.5
+2006	Asian/Pacific Islander	Male	Lymphomas	14.6	16.9	15.7	841	7271603	10.8	12.4	11.6
+2007	Asian/Pacific Islander	Male	Lymphomas	15.2	17.4	16.3	908	7512453	11.3	12.9	12.1
+2008	Asian/Pacific Islander	Male	Lymphomas	16.1	18.4	17.2	1016	7759796	12.3	13.9	13.1
+2009	Asian/Pacific Islander	Male	Lymphomas	16	18.2	17.1	1023	7995377	12	13.6	12.8
+2010	Asian/Pacific Islander	Male	Lymphomas	16.3	18.5	17.4	1116	8232912	12.8	14.4	13.6
+2011	Asian/Pacific Islander	Male	Lymphomas	16.3	18.4	17.3	1166	8375728	13.1	14.7	13.9
+2012	Asian/Pacific Islander	Male	Lymphomas	16	18	17	1220	8763513	13.2	14.7	13.9
+2013	Asian/Pacific Islander	Male	Lymphomas	16.3	18.2	17.2	1299	9055618	13.6	15.1	14.3
+2014	Asian/Pacific Islander	Male	Lymphomas	15.8	17.7	16.7	1332	9362812	13.5	15	14.2
+1999	Asian/Pacific Islander	Male	Pancreas	8	10.3	9.1	274	5517417	4.4	5.6	5
+2000	Asian/Pacific Islander	Male	Pancreas	9	11.4	10.2	334	5786686	5.2	6.4	5.8
+2001	Asian/Pacific Islander	Male	Pancreas	8.3	10.4	9.3	329	6054289	4.9	6.1	5.4
+2002	Asian/Pacific Islander	Male	Pancreas	8.4	10.6	9.5	353	6290708	5	6.2	5.6
+2003	Asian/Pacific Islander	Male	Pancreas	8.6	10.7	9.6	375	6542554	5.2	6.3	5.7
+2004	Asian/Pacific Islander	Male	Pancreas	9.2	11.2	10.2	433	6778074	5.8	7	6.4
+2005	Asian/Pacific Islander	Male	Pancreas	8.7	10.7	9.7	417	7022993	5.4	6.5	5.9
+2006	Asian/Pacific Islander	Male	Pancreas	8.6	10.5	9.6	434	7271603	5.4	6.6	6
+2007	Asian/Pacific Islander	Male	Pancreas	9.2	11.1	10.1	501	7512453	6.1	7.3	6.7
+2008	Asian/Pacific Islander	Male	Pancreas	8.9	10.7	9.8	514	7759796	6.1	7.2	6.6
+2009	Asian/Pacific Islander	Male	Pancreas	8.9	10.7	9.8	542	7995377	6.2	7.4	6.8
+2010	Asian/Pacific Islander	Male	Pancreas	8.7	10.4	9.5	552	8232912	6.2	7.3	6.7
+2011	Asian/Pacific Islander	Male	Pancreas	9.6	11.4	10.5	627	8375728	6.9	8.1	7.5
+2012	Asian/Pacific Islander	Male	Pancreas	9.1	10.7	9.9	647	8763513	6.8	8	7.4
+2013	Asian/Pacific Islander	Male	Pancreas	9.7	11.3	10.5	726	9055618	7.4	8.6	8
+2014	Asian/Pacific Islander	Male	Pancreas	8.8	10.2	9.5	705	9362812	7	8.1	7.5
+1999	Asian/Pacific Islander	Male	Stomach	18.8	22.2	20.4	645	5517417	10.8	12.6	11.7
+2000	Asian/Pacific Islander	Male	Stomach	18.3	21.6	19.9	656	5786686	10.5	12.2	11.3
+2001	Asian/Pacific Islander	Male	Stomach	17.7	20.8	19.2	680	6054289	10.4	12.1	11.2
+2002	Asian/Pacific Islander	Male	Stomach	17.5	20.5	19	713	6290708	10.5	12.2	11.3
+2003	Asian/Pacific Islander	Male	Stomach	17	19.9	18.4	729	6542554	10.3	12	11.1
+2004	Asian/Pacific Islander	Male	Stomach	17.5	20.3	18.9	792	6778074	10.9	12.5	11.7
+2005	Asian/Pacific Islander	Male	Stomach	16.7	19.4	18	793	7022993	10.5	12.1	11.3
+2006	Asian/Pacific Islander	Male	Stomach	14.8	17.3	16	753	7271603	9.6	11.1	10.4
+2007	Asian/Pacific Islander	Male	Stomach	16.2	18.7	17.4	854	7512453	10.6	12.2	11.4
+2008	Asian/Pacific Islander	Male	Stomach	14	16.3	15.1	788	7759796	9.5	10.9	10.2
+2009	Asian/Pacific Islander	Male	Stomach	14.4	16.6	15.5	858	7995377	10	11.5	10.7
+2010	Asian/Pacific Islander	Male	Stomach	13.7	15.9	14.8	849	8232912	9.6	11	10.3
+2011	Asian/Pacific Islander	Male	Stomach	13.3	15.3	14.3	893	8375728	10	11.4	10.7
+2012	Asian/Pacific Islander	Male	Stomach	12.4	14.2	13.3	889	8763513	9.5	10.8	10.1
+2013	Asian/Pacific Islander	Male	Stomach	13.4	15.3	14.3	998	9055618	10.3	11.7	11
+2014	Asian/Pacific Islander	Male	Stomach	12.6	14.4	13.5	1000	9362812	10	11.4	10.7
+1999	Asian/Pacific Islander	Male and Female	Brain	3	3.8	3.4	323	11369323	2.5	3.2	2.8
+2000	Asian/Pacific Islander	Male and Female	Brain	2.8	3.6	3.2	329	11906599	2.5	3.1	2.8
+2001	Asian/Pacific Islander	Male and Female	Brain	3.1	3.9	3.5	371	12474329	2.7	3.3	3
+2002	Asian/Pacific Islander	Male and Female	Brain	3	3.8	3.4	382	12982397	2.7	3.3	2.9
+2003	Asian/Pacific Islander	Male and Female	Brain	3.2	3.9	3.5	407	13531147	2.7	3.3	3
+2004	Asian/Pacific Islander	Male and Female	Brain	3	3.7	3.3	412	14038746	2.7	3.2	2.9
+2005	Asian/Pacific Islander	Male and Female	Brain	2.8	3.5	3.1	395	14569193	2.5	3	2.7
+2006	Asian/Pacific Islander	Male and Female	Brain	3	3.6	3.3	429	15107358	2.6	3.1	2.8
+2007	Asian/Pacific Islander	Male and Female	Brain	3.1	3.7	3.4	477	15633636	2.8	3.3	3.1
+2008	Asian/Pacific Islander	Male and Female	Brain	3.1	3.8	3.4	504	16169989	2.9	3.4	3.1
+2009	Asian/Pacific Islander	Male and Female	Brain	3	3.6	3.3	497	16683251	2.7	3.3	3
+2010	Asian/Pacific Islander	Male and Female	Brain	3.1	3.7	3.4	524	17194340	2.8	3.3	3
+2011	Asian/Pacific Islander	Male and Female	Brain	3	3.6	3.3	540	17483814	2.8	3.4	3.1
+2012	Asian/Pacific Islander	Male and Female	Brain	3.2	3.8	3.5	608	18297831	3.1	3.6	3.3
+2013	Asian/Pacific Islander	Male and Female	Brain	3.1	3.7	3.4	587	18903310	2.9	3.4	3.1
+2014	Asian/Pacific Islander	Male and Female	Brain	3.1	3.6	3.4	618	19546102	2.9	3.4	3.2
+1999	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.7	1.4	100	11369323	0.7	1.1	0.9
+2000	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.7	1.4	106	11906599	0.7	1.1	0.9
+2001	Asian/Pacific Islander	Male and Female	Gallbladder	1.3	1.9	1.5	123	12474329	0.8	1.2	1
+2002	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.6	1.4	113	12982397	0.7	1	0.9
+2003	Asian/Pacific Islander	Male and Female	Gallbladder	1.4	1.9	1.6	142	13531147	0.9	1.2	1
+2004	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.6	1.3	127	14038746	0.8	1.1	0.9
+2005	Asian/Pacific Islander	Male and Female	Gallbladder	1.2	1.6	1.4	139	14569193	0.8	1.1	1
+2006	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.5	1.3	136	15107358	0.8	1.1	0.9
+2007	Asian/Pacific Islander	Male and Female	Gallbladder	1.3	1.8	1.5	171	15633636	0.9	1.3	1.1
+2008	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.5	1.3	155	16169989	0.8	1.1	1
+2009	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.6	1.3	165	16683251	0.8	1.2	1
+2010	Asian/Pacific Islander	Male and Female	Gallbladder	1	1.4	1.2	168	17194340	0.8	1.1	1
+2011	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.5	1.3	180	17483814	0.9	1.2	1
+2012	Asian/Pacific Islander	Male and Female	Gallbladder	1.2	1.6	1.4	208	18297831	1	1.3	1.1
+2013	Asian/Pacific Islander	Male and Female	Gallbladder	1.1	1.5	1.3	202	18903310	0.9	1.2	1.1
+2014	Asian/Pacific Islander	Male and Female	Gallbladder	1.2	1.6	1.4	242	19546102	1.1	1.4	1.2
+1999	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	5.1	6.3	5.7	449	11369323	3.6	4.3	3.9
+2000	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	5.8	6.9	6.3	537	11906599	4.1	4.9	4.5
+2001	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	5.5	6.6	6	553	12474329	4.1	4.8	4.4
+2002	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	5.3	6.3	5.8	571	12982397	4	4.8	4.4
+2003	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	6.6	7.7	7.1	717	13531147	4.9	5.7	5.3
+2004	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	6	7	6.5	685	14038746	4.5	5.3	4.9
+2005	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	6.3	7.3	6.8	771	14569193	4.9	5.7	5.3
+2006	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.1	8.2	7.7	907	15107358	5.6	6.4	6
+2007	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.2	8.3	7.7	967	15633636	5.8	6.6	6.2
+2008	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.3	8.3	7.8	1039	16169989	6	6.8	6.4
+2009	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7	7.9	7.4	1044	16683251	5.9	6.6	6.3
+2010	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.2	8.1	7.6	1108	17194340	6.1	6.8	6.4
+2011	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.1	8	7.5	1160	17483814	6.3	7	6.6
+2012	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7	7.8	7.4	1196	18297831	6.2	6.9	6.5
+2013	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7.2	8	7.6	1316	18903310	6.6	7.3	7
+2014	Asian/Pacific Islander	Male and Female	Kidney and Renal Pelvis	7	7.8	7.4	1340	19546102	6.5	7.2	6.9
+1999	Asian/Pacific Islander	Male and Female	Leukemias	7.2	8.5	7.8	667	11369323	5.4	6.3	5.9
+2000	Asian/Pacific Islander	Male and Female	Leukemias	7.1	8.3	7.7	704	11906599	5.5	6.4	5.9
+2001	Asian/Pacific Islander	Male and Female	Leukemias	6.9	8.1	7.5	732	12474329	5.5	6.3	5.9
+2002	Asian/Pacific Islander	Male and Female	Leukemias	6.9	8.1	7.5	769	12982397	5.5	6.4	5.9
+2003	Asian/Pacific Islander	Male and Female	Leukemias	7	8.1	7.6	817	13531147	5.6	6.5	6
+2004	Asian/Pacific Islander	Male and Female	Leukemias	6.9	8	7.5	832	14038746	5.5	6.3	5.9
+2005	Asian/Pacific Islander	Male and Female	Leukemias	6.7	7.7	7.2	865	14569193	5.5	6.3	5.9
+2006	Asian/Pacific Islander	Male and Female	Leukemias	6.9	7.9	7.3	900	15107358	5.6	6.4	6
+2007	Asian/Pacific Islander	Male and Female	Leukemias	6.7	7.7	7.2	932	15633636	5.6	6.4	6
+2008	Asian/Pacific Islander	Male and Female	Leukemias	7.3	8.3	7.8	1060	16169989	6.2	7	6.6
+2009	Asian/Pacific Islander	Male and Female	Leukemias	7.2	8.2	7.7	1089	16683251	6.1	6.9	6.5
+2010	Asian/Pacific Islander	Male and Female	Leukemias	7.5	8.5	8	1163	17194340	6.4	7.2	6.8
+2011	Asian/Pacific Islander	Male and Female	Leukemias	7.7	8.7	8.2	1237	17483814	6.7	7.5	7.1
+2012	Asian/Pacific Islander	Male and Female	Leukemias	7.4	8.2	7.8	1268	18297831	6.6	7.3	6.9
+2013	Asian/Pacific Islander	Male and Female	Leukemias	7	7.9	7.4	1270	18903310	6.4	7.1	6.7
+2014	Asian/Pacific Islander	Male and Female	Leukemias	7.2	8	7.6	1348	19546102	6.5	7.3	6.9
+1999	Asian/Pacific Islander	Male and Female	Lymphomas	13.8	15.6	14.7	1177	11369323	9.8	11	10.4
+2000	Asian/Pacific Islander	Male and Female	Lymphomas	13.1	14.8	13.9	1219	11906599	9.7	10.8	10.2
+2001	Asian/Pacific Islander	Male and Female	Lymphomas	13.6	15.3	14.4	1336	12474329	10.1	11.3	10.7
+2002	Asian/Pacific Islander	Male and Female	Lymphomas	13.5	15.1	14.3	1397	12982397	10.2	11.3	10.8
+2003	Asian/Pacific Islander	Male and Female	Lymphomas	13.5	15.1	14.3	1459	13531147	10.2	11.4	10.8
+2004	Asian/Pacific Islander	Male and Female	Lymphomas	13.2	14.7	13.9	1515	14038746	10.3	11.3	10.8
+2005	Asian/Pacific Islander	Male and Female	Lymphomas	13.4	14.8	14.1	1620	14569193	10.6	11.7	11.1
+2006	Asian/Pacific Islander	Male and Female	Lymphomas	12.5	13.8	13.1	1590	15107358	10	11.1	10.5
+2007	Asian/Pacific Islander	Male and Female	Lymphomas	12.6	13.9	13.2	1667	15633636	10.2	11.2	10.7
+2008	Asian/Pacific Islander	Male and Female	Lymphomas	13.8	15.1	14.4	1913	16169989	11.3	12.4	11.8
+2009	Asian/Pacific Islander	Male and Female	Lymphomas	13.9	15.2	14.5	1992	16683251	11.4	12.5	11.9
+2010	Asian/Pacific Islander	Male and Female	Lymphomas	13.5	14.7	14.1	2061	17194340	11.5	12.5	12
+2011	Asian/Pacific Islander	Male and Female	Lymphomas	13.9	15.2	14.5	2197	17483814	12	13.1	12.6
+2012	Asian/Pacific Islander	Male and Female	Lymphomas	13.1	14.3	13.7	2207	18297831	11.6	12.6	12.1
+2013	Asian/Pacific Islander	Male and Female	Lymphomas	13.2	14.4	13.8	2334	18903310	11.9	12.9	12.3
+2014	Asian/Pacific Islander	Male and Female	Lymphomas	13.4	14.5	14	2488	19546102	12.2	13.2	12.7
+1999	Asian/Pacific Islander	Male and Female	Pancreas	7.8	9.3	8.5	589	11369323	4.8	5.6	5.2
+2000	Asian/Pacific Islander	Male and Female	Pancreas	8.5	9.9	9.2	679	11906599	5.3	6.1	5.7
+2001	Asian/Pacific Islander	Male and Female	Pancreas	8.1	9.5	8.8	703	12474329	5.2	6.1	5.6
+2002	Asian/Pacific Islander	Male and Female	Pancreas	8	9.3	8.6	739	12982397	5.3	6.1	5.7
+2003	Asian/Pacific Islander	Male and Female	Pancreas	7.9	9.2	8.5	766	13531147	5.3	6.1	5.7
+2004	Asian/Pacific Islander	Male and Female	Pancreas	8.4	9.6	9	861	14038746	5.7	6.6	6.1
+2005	Asian/Pacific Islander	Male and Female	Pancreas	8.2	9.4	8.7	882	14569193	5.7	6.5	6.1
+2006	Asian/Pacific Islander	Male and Female	Pancreas	8.3	9.5	8.9	929	15107358	5.8	6.6	6.1
+2007	Asian/Pacific Islander	Male and Female	Pancreas	8.3	9.5	8.9	993	15633636	6	6.8	6.4
+2008	Asian/Pacific Islander	Male and Female	Pancreas	8.5	9.7	9.1	1067	16169989	6.2	7	6.6
+2009	Asian/Pacific Islander	Male and Female	Pancreas	8.5	9.6	9.1	1131	16683251	6.4	7.2	6.8
+2010	Asian/Pacific Islander	Male and Female	Pancreas	8.7	9.8	9.2	1216	17194340	6.7	7.5	7.1
+2011	Asian/Pacific Islander	Male and Female	Pancreas	8.9	10	9.4	1281	17483814	6.9	7.7	7.3
+2012	Asian/Pacific Islander	Male and Female	Pancreas	9	10	9.5	1397	18297831	7.2	8	7.6
+2013	Asian/Pacific Islander	Male and Female	Pancreas	8.9	9.8	9.3	1471	18903310	7.4	8.2	7.8
+2014	Asian/Pacific Islander	Male and Female	Pancreas	8.4	9.3	8.8	1481	19546102	7.2	8	7.6
+1999	Asian/Pacific Islander	Male and Female	Stomach	14.2	16.2	15.2	1084	11369323	9	10.1	9.5
+2000	Asian/Pacific Islander	Male and Female	Stomach	14.3	16.2	15.2	1144	11906599	9.1	10.2	9.6
+2001	Asian/Pacific Islander	Male and Female	Stomach	13.8	15.6	14.7	1193	12474329	9	10.1	9.6
+2002	Asian/Pacific Islander	Male and Female	Stomach	13.5	15.2	14.3	1249	12982397	9.1	10.2	9.6
+2003	Asian/Pacific Islander	Male and Female	Stomach	13.2	14.8	14	1291	13531147	9	10.1	9.5
+2004	Asian/Pacific Islander	Male and Female	Stomach	13	14.5	13.8	1342	14038746	9.1	10.1	9.6
+2005	Asian/Pacific Islander	Male and Female	Stomach	12.5	14	13.2	1377	14569193	9	10	9.5
+2006	Asian/Pacific Islander	Male and Female	Stomach	11.4	12.8	12.1	1325	15107358	8.3	9.3	8.8
+2007	Asian/Pacific Islander	Male and Female	Stomach	12.1	13.5	12.8	1465	15633636	8.9	9.9	9.4
+2008	Asian/Pacific Islander	Male and Female	Stomach	10.9	12.2	11.5	1390	16169989	8.2	9.1	8.6
+2009	Asian/Pacific Islander	Male and Female	Stomach	11.4	12.6	12	1529	16683251	8.7	9.6	9.2
+2010	Asian/Pacific Islander	Male and Female	Stomach	10.6	11.8	11.2	1505	17194340	8.3	9.2	8.8
+2011	Asian/Pacific Islander	Male and Female	Stomach	9.9	11	10.5	1499	17483814	8.1	9	8.6
+2012	Asian/Pacific Islander	Male and Female	Stomach	10.1	11.2	10.6	1616	18297831	8.4	9.3	8.8
+2013	Asian/Pacific Islander	Male and Female	Stomach	10.3	11.4	10.8	1740	18903310	8.8	9.6	9.2
+2014	Asian/Pacific Islander	Male and Female	Stomach	9.7	10.6	10.1	1719	19546102	8.4	9.2	8.8
+1999	Black	Female	Brain	2.9	3.4	3.1	510	18199561	2.6	3.1	2.8
+2000	Black	Female	Brain	2.8	3.3	3	496	18470680	2.5	2.9	2.7
+2001	Black	Female	Brain	2.9	3.5	3.2	544	18960363	2.6	3.1	2.9
+2002	Black	Female	Brain	2.8	3.3	3.1	523	19025212	2.5	3	2.7
+2003	Black	Female	Brain	2.9	3.4	3.1	568	20015421	2.6	3.1	2.8
+2004	Black	Female	Brain	3	3.6	3.3	617	20277329	2.8	3.3	3
+2005	Black	Female	Brain	2.9	3.4	3.1	588	20551032	2.6	3.1	2.9
+2006	Black	Female	Brain	3	3.5	3.2	630	20840468	2.8	3.3	3
+2007	Black	Female	Brain	3	3.5	3.2	636	21142428	2.8	3.3	3
+2008	Black	Female	Brain	3	3.5	3.2	655	21446016	2.8	3.3	3.1
+2009	Black	Female	Brain	3.2	3.7	3.5	702	21744516	3	3.5	3.2
+2010	Black	Female	Brain	2.8	3.3	3	642	22030328	2.7	3.1	2.9
+2011	Black	Female	Brain	3	3.4	3.2	675	22158629	2.8	3.3	3
+2012	Black	Female	Brain	2.9	3.3	3.1	667	22547175	2.7	3.2	3
+2013	Black	Female	Brain	2.9	3.4	3.2	696	22804565	2.8	3.3	3.1
+2014	Black	Female	Brain	2.9	3.4	3.2	724	23075345	2.9	3.4	3.1
+1999	Black	Female	Gallbladder	1.4	1.8	1.6	222	18199561	1.1	1.4	1.2
+2000	Black	Female	Gallbladder	1.6	2	1.8	260	18470680	1.2	1.6	1.4
+2001	Black	Female	Gallbladder	1.5	1.9	1.7	252	18960363	1.2	1.5	1.3
+2002	Black	Female	Gallbladder	1.5	2	1.7	255	19025212	1.2	1.5	1.3
+2003	Black	Female	Gallbladder	1.4	1.8	1.6	253	20015421	1.1	1.4	1.3
+2004	Black	Female	Gallbladder	1.7	2.1	1.9	311	20277329	1.4	1.7	1.5
+2005	Black	Female	Gallbladder	1.5	1.9	1.7	283	20551032	1.2	1.5	1.4
+2006	Black	Female	Gallbladder	1.5	1.9	1.7	289	20840468	1.2	1.6	1.4
+2007	Black	Female	Gallbladder	1.7	2.1	1.9	327	21142428	1.4	1.7	1.5
+2008	Black	Female	Gallbladder	1.7	2.1	1.9	338	21446016	1.4	1.8	1.6
+2009	Black	Female	Gallbladder	1.5	1.9	1.7	317	21744516	1.3	1.6	1.5
+2010	Black	Female	Gallbladder	1.8	2.3	2	390	22030328	1.6	2	1.8
+2011	Black	Female	Gallbladder	1.8	2.2	2	393	22158629	1.6	2	1.8
+2012	Black	Female	Gallbladder	1.6	2	1.8	380	22547175	1.5	1.9	1.7
+2013	Black	Female	Gallbladder	1.9	2.3	2.1	455	22804565	1.8	2.2	2
+2014	Black	Female	Gallbladder	1.9	2.3	2.1	458	23075345	1.8	2.2	2
+1999	Black	Female	Kidney and Renal Pelvis	8.5	9.4	8.9	1310	18199561	6.8	7.6	7.2
+2000	Black	Female	Kidney and Renal Pelvis	8.9	9.9	9.4	1414	18470680	7.3	8.1	7.7
+2001	Black	Female	Kidney and Renal Pelvis	8.9	9.9	9.4	1465	18960363	7.3	8.1	7.7
+2002	Black	Female	Kidney and Renal Pelvis	9.9	10.9	10.4	1620	19025212	8.1	8.9	8.5
+2003	Black	Female	Kidney and Renal Pelvis	9.9	10.9	10.4	1727	20015421	8.2	9	8.6
+2004	Black	Female	Kidney and Renal Pelvis	9.9	10.9	10.4	1770	20277329	8.3	9.1	8.7
+2005	Black	Female	Kidney and Renal Pelvis	11.1	12.1	11.6	2031	20551032	9.5	10.3	9.9
+2006	Black	Female	Kidney and Renal Pelvis	11.1	12.1	11.6	2074	20840468	9.5	10.4	10
+2007	Black	Female	Kidney and Renal Pelvis	11.7	12.7	12.2	2255	21142428	10.2	11.1	10.7
+2008	Black	Female	Kidney and Renal Pelvis	12.4	13.5	12.9	2457	21446016	11	11.9	11.5
+2009	Black	Female	Kidney and Renal Pelvis	12.5	13.5	13	2530	21744516	11.2	12.1	11.6
+2010	Black	Female	Kidney and Renal Pelvis	12.2	13.2	12.7	2527	22030328	11	11.9	11.5
+2011	Black	Female	Kidney and Renal Pelvis	12.5	13.5	13	2664	22158629	11.6	12.5	12
+2012	Black	Female	Kidney and Renal Pelvis	12	13	12.5	2643	22547175	11.3	12.2	11.7
+2013	Black	Female	Kidney and Renal Pelvis	12	13	12.5	2731	22804565	11.5	12.4	12
+2014	Black	Female	Kidney and Renal Pelvis	11.9	12.9	12.4	2774	23075345	11.6	12.5	12
+1999	Black	Female	Leukemias	7.5	8.4	7.9	1199	18199561	6.2	7	6.6
+2000	Black	Female	Leukemias	8	8.9	8.4	1298	18470680	6.7	7.4	7
+2001	Black	Female	Leukemias	7.9	8.8	8.4	1321	18960363	6.6	7.4	7
+2002	Black	Female	Leukemias	7.6	8.5	8.1	1273	19025212	6.3	7.1	6.7
+2003	Black	Female	Leukemias	7.7	8.6	8.1	1374	20015421	6.5	7.2	6.9
+2004	Black	Female	Leukemias	8	8.8	8.4	1455	20277329	6.8	7.6	7.2
+2005	Black	Female	Leukemias	7.8	8.6	8.2	1438	20551032	6.6	7.4	7
+2006	Black	Female	Leukemias	7.5	8.4	7.9	1437	20840468	6.5	7.3	6.9
+2007	Black	Female	Leukemias	7.8	8.7	8.3	1518	21142428	6.8	7.6	7.2
+2008	Black	Female	Leukemias	7.7	8.5	8.1	1536	21446016	6.8	7.5	7.2
+2009	Black	Female	Leukemias	8	8.8	8.4	1625	21744516	7.1	7.8	7.5
+2010	Black	Female	Leukemias	8.2	9	8.6	1689	22030328	7.3	8	7.7
+2011	Black	Female	Leukemias	8.7	9.6	9.1	1851	22158629	8	8.7	8.4
+2012	Black	Female	Leukemias	8.6	9.5	9	1889	22547175	8	8.8	8.4
+2013	Black	Female	Leukemias	8	8.8	8.4	1810	22804565	7.6	8.3	7.9
+2014	Black	Female	Leukemias	8	8.8	8.4	1839	23075345	7.6	8.3	8
+1999	Black	Female	Lymphomas	12.6	13.7	13.1	2037	18199561	10.7	11.7	11.2
+2000	Black	Female	Lymphomas	12.7	13.8	13.3	2104	18470680	10.9	11.9	11.4
+2001	Black	Female	Lymphomas	12.8	14	13.4	2185	18960363	11	12	11.5
+2002	Black	Female	Lymphomas	12.8	14	13.4	2207	19025212	11.1	12.1	11.6
+2003	Black	Female	Lymphomas	13.5	14.6	14	2461	20015421	11.8	12.8	12.3
+2004	Black	Female	Lymphomas	14	15.2	14.6	2587	20277329	12.3	13.3	12.8
+2005	Black	Female	Lymphomas	13.4	14.5	14	2556	20551032	12	12.9	12.4
+2006	Black	Female	Lymphomas	13.3	14.4	13.9	2587	20840468	11.9	12.9	12.4
+2007	Black	Female	Lymphomas	13.7	14.8	14.2	2718	21142428	12.4	13.3	12.9
+2008	Black	Female	Lymphomas	13.4	14.5	14	2716	21446016	12.2	13.1	12.7
+2009	Black	Female	Lymphomas	13.9	15	14.4	2841	21744516	12.6	13.6	13.1
+2010	Black	Female	Lymphomas	13.9	15	14.5	2926	22030328	12.8	13.8	13.3
+2011	Black	Female	Lymphomas	13.5	14.5	14	2893	22158629	12.6	13.5	13.1
+2012	Black	Female	Lymphomas	13.9	14.9	14.4	3084	22547175	13.2	14.2	13.7
+2013	Black	Female	Lymphomas	13.8	14.8	14.3	3107	22804565	13.1	14.1	13.6
+2014	Black	Female	Lymphomas	13.6	14.6	14.1	3151	23075345	13.2	14.1	13.7
+1999	Black	Female	Pancreas	12.6	13.8	13.2	1821	18199561	9.6	10.5	10
+2000	Black	Female	Pancreas	12.5	13.7	13.1	1848	18470680	9.6	10.5	10
+2001	Black	Female	Pancreas	12.6	13.8	13.2	1920	18960363	9.7	10.6	10.1
+2002	Black	Female	Pancreas	12.7	13.9	13.3	1944	19025212	9.8	10.7	10.2
+2003	Black	Female	Pancreas	12.7	13.9	13.3	2085	20015421	10	10.9	10.4
+2004	Black	Female	Pancreas	12.8	14	13.4	2156	20277329	10.2	11.1	10.6
+2005	Black	Female	Pancreas	13.5	14.7	14.1	2316	20551032	10.8	11.7	11.3
+2006	Black	Female	Pancreas	13.4	14.6	14	2347	20840468	10.8	11.7	11.3
+2007	Black	Female	Pancreas	13.6	14.7	14.1	2448	21142428	11.1	12	11.6
+2008	Black	Female	Pancreas	13.9	15	14.5	2572	21446016	11.5	12.5	12
+2009	Black	Female	Pancreas	13.2	14.3	13.7	2504	21744516	11.1	12	11.5
+2010	Black	Female	Pancreas	13.6	14.7	14.1	2680	22030328	11.7	12.6	12.2
+2011	Black	Female	Pancreas	14.2	15.3	14.7	2863	22158629	12.5	13.4	12.9
+2012	Black	Female	Pancreas	13.9	15	14.4	2921	22547175	12.5	13.4	13
+2013	Black	Female	Pancreas	13.7	14.8	14.2	2987	22804565	12.6	13.6	13.1
+2014	Black	Female	Pancreas	13.9	14.9	14.4	3096	23075345	12.9	13.9	13.4
+1999	Black	Female	Stomach	8.7	9.7	9.2	1283	18199561	6.7	7.4	7
+2000	Black	Female	Stomach	8.6	9.6	9.1	1289	18470680	6.6	7.4	7
+2001	Black	Female	Stomach	8.5	9.5	9	1313	18960363	6.6	7.3	6.9
+2002	Black	Female	Stomach	8.3	9.2	8.7	1296	19025212	6.4	7.2	6.8
+2003	Black	Female	Stomach	8.3	9.2	8.8	1389	20015421	6.6	7.3	6.9
+2004	Black	Female	Stomach	7.8	8.7	8.3	1335	20277329	6.2	6.9	6.6
+2005	Black	Female	Stomach	8	8.9	8.4	1397	20551032	6.4	7.2	6.8
+2006	Black	Female	Stomach	8.2	9.1	8.7	1472	20840468	6.7	7.4	7.1
+2007	Black	Female	Stomach	7.6	8.5	8.1	1410	21142428	6.3	7	6.7
+2008	Black	Female	Stomach	7.5	8.3	7.9	1419	21446016	6.3	7	6.6
+2009	Black	Female	Stomach	7.4	8.2	7.8	1430	21744516	6.2	6.9	6.6
+2010	Black	Female	Stomach	7.9	8.7	8.3	1561	22030328	6.7	7.4	7.1
+2011	Black	Female	Stomach	7.9	8.7	8.3	1605	22158629	6.9	7.6	7.2
+2012	Black	Female	Stomach	7.3	8.1	7.7	1547	22547175	6.5	7.2	6.9
+2013	Black	Female	Stomach	6.9	7.6	7.2	1499	22804565	6.2	6.9	6.6
+2014	Black	Female	Stomach	6.9	7.7	7.3	1577	23075345	6.5	7.2	6.8
+1999	Black	Male	Brain	3.9	4.6	4.2	572	16506120	3.2	3.8	3.5
+2000	Black	Male	Brain	4	4.7	4.3	585	16781226	3.2	3.8	3.5
+2001	Black	Male	Brain	4	4.7	4.3	590	17243037	3.2	3.7	3.4
+2002	Black	Male	Brain	4.1	4.9	4.5	623	17327938	3.3	3.9	3.6
+2003	Black	Male	Brain	4.3	5.1	4.7	681	18194320	3.5	4	3.7
+2004	Black	Male	Brain	3.9	4.6	4.2	646	18461469	3.2	3.8	3.5
+2005	Black	Male	Brain	4.1	4.8	4.5	669	18729699	3.3	3.9	3.6
+2006	Black	Male	Brain	3.9	4.6	4.2	661	19016639	3.2	3.8	3.5
+2007	Black	Male	Brain	3.9	4.6	4.3	683	19308680	3.3	3.8	3.5
+2008	Black	Male	Brain	4.2	4.9	4.6	756	19602943	3.6	4.1	3.9
+2009	Black	Male	Brain	3.9	4.6	4.3	726	19887934	3.4	3.9	3.7
+2010	Black	Male	Brain	4.2	4.8	4.5	764	20170044	3.5	4.1	3.8
+2011	Black	Male	Brain	4.2	4.8	4.5	796	20303219	3.7	4.2	3.9
+2012	Black	Male	Brain	4.4	5.1	4.8	843	20705129	3.8	4.4	4.1
+2013	Black	Male	Brain	4.1	4.8	4.4	821	20967558	3.7	4.2	3.9
+2014	Black	Male	Brain	3.7	4.3	4	769	21240749	3.4	3.9	3.6
+1999	Black	Male	Gallbladder	0.8	1.2	1	86	16506120	0.4	0.6	0.5
+2000	Black	Male	Gallbladder	0.7	1.1	0.9	83	16781226	0.4	0.6	0.5
+2001	Black	Male	Gallbladder	0.7	1.1	0.9	85	17243037	0.4	0.6	0.5
+2002	Black	Male	Gallbladder	0.6	1	0.8	82	17327938	0.4	0.6	0.5
+2003	Black	Male	Gallbladder	0.9	1.3	1.1	109	18194320	0.5	0.7	0.6
+2004	Black	Male	Gallbladder	0.8	1.3	1	109	18461469	0.5	0.7	0.6
+2005	Black	Male	Gallbladder	0.8	1.3	1	111	18729699	0.5	0.7	0.6
+2006	Black	Male	Gallbladder	0.9	1.4	1.1	132	19016639	0.6	0.8	0.7
+2007	Black	Male	Gallbladder	1	1.4	1.2	134	19308680	0.6	0.8	0.7
+2008	Black	Male	Gallbladder	1.1	1.5	1.3	153	19602943	0.7	0.9	0.8
+2009	Black	Male	Gallbladder	1.2	1.6	1.4	172	19887934	0.7	1	0.9
+2010	Black	Male	Gallbladder	1.2	1.7	1.4	183	20170044	0.8	1	0.9
+2011	Black	Male	Gallbladder	1.2	1.7	1.5	183	20303219	0.8	1	0.9
+2012	Black	Male	Gallbladder	1.1	1.5	1.3	185	20705129	0.8	1	0.9
+2013	Black	Male	Gallbladder	1.1	1.5	1.3	181	20967558	0.7	1	0.9
+2014	Black	Male	Gallbladder	1.1	1.5	1.3	199	21240749	0.8	1.1	0.9
+1999	Black	Male	Kidney and Renal Pelvis	16.7	18.4	17.5	1842	16506120	10.7	11.7	11.2
+2000	Black	Male	Kidney and Renal Pelvis	17.3	18.9	18.1	2012	16781226	11.5	12.5	12
+2001	Black	Male	Kidney and Renal Pelvis	18.4	20.1	19.2	2182	17243037	12.1	13.2	12.7
+2002	Black	Male	Kidney and Renal Pelvis	18.9	20.7	19.8	2286	17327938	12.7	13.7	13.2
+2003	Black	Male	Kidney and Renal Pelvis	19.6	21.3	20.4	2535	18194320	13.4	14.5	13.9
+2004	Black	Male	Kidney and Renal Pelvis	20.1	21.8	21	2722	18461469	14.2	15.3	14.7
+2005	Black	Male	Kidney and Renal Pelvis	21.5	23.3	22.4	2946	18729699	15.2	16.3	15.7
+2006	Black	Male	Kidney and Renal Pelvis	21	22.7	21.8	3013	19016639	15.3	16.4	15.8
+2007	Black	Male	Kidney and Renal Pelvis	23.4	25.1	24.3	3392	19308680	17	18.2	17.6
+2008	Black	Male	Kidney and Renal Pelvis	23.1	24.8	24	3490	19602943	17.2	18.4	17.8
+2009	Black	Male	Kidney and Renal Pelvis	23.3	24.9	24.1	3666	19887934	17.8	19	18.4
+2010	Black	Male	Kidney and Renal Pelvis	22.6	24.2	23.4	3654	20170044	17.5	18.7	18.1
+2011	Black	Male	Kidney and Renal Pelvis	23.3	24.9	24.1	3836	20303219	18.3	19.5	18.9
+2012	Black	Male	Kidney and Renal Pelvis	23	24.5	23.7	3979	20705129	18.6	19.8	19.2
+2013	Black	Male	Kidney and Renal Pelvis	24	25.5	24.7	4276	20967558	19.8	21	20.4
+2014	Black	Male	Kidney and Renal Pelvis	24	25.5	24.7	4433	21240749	20.3	21.5	20.9
+1999	Black	Male	Leukemias	11.7	13.2	12.4	1322	16506120	7.6	8.5	8
+2000	Black	Male	Leukemias	12.1	13.5	12.8	1408	16781226	8	8.8	8.4
+2001	Black	Male	Leukemias	12.5	14	13.2	1509	17243037	8.3	9.2	8.8
+2002	Black	Male	Leukemias	12.2	13.6	12.9	1468	17327938	8	8.9	8.5
+2003	Black	Male	Leukemias	12.4	13.8	13	1616	18194320	8.5	9.3	8.9
+2004	Black	Male	Leukemias	13	14.5	13.7	1701	18461469	8.8	9.7	9.2
+2005	Black	Male	Leukemias	12.4	13.8	13.1	1652	18729699	8.4	9.3	8.8
+2006	Black	Male	Leukemias	12.4	13.7	13	1716	19016639	8.6	9.5	9
+2007	Black	Male	Leukemias	12	13.3	12.7	1715	19308680	8.5	9.3	8.9
+2008	Black	Male	Leukemias	12.4	13.7	13	1813	19602943	8.8	9.7	9.2
+2009	Black	Male	Leukemias	12.3	13.6	12.9	1820	19887934	8.7	9.6	9.2
+2010	Black	Male	Leukemias	13	14.3	13.7	2025	20170044	9.6	10.5	10
+2011	Black	Male	Leukemias	12.4	13.6	13	2013	20303219	9.5	10.4	9.9
+2012	Black	Male	Leukemias	13.5	14.8	14.2	2176	20705129	10.1	11	10.5
+2013	Black	Male	Leukemias	12.7	13.9	13.3	2148	20967558	9.8	10.7	10.2
+2014	Black	Male	Leukemias	12.4	13.6	13	2169	21240749	9.8	10.7	10.2
+1999	Black	Male	Lymphomas	19.5	21.2	20.3	2481	16506120	14.4	15.6	15
+2000	Black	Male	Lymphomas	18.3	19.9	19.1	2425	16781226	13.9	15	14.5
+2001	Black	Male	Lymphomas	18.9	20.5	19.7	2566	17243037	14.3	15.5	14.9
+2002	Black	Male	Lymphomas	18.9	20.6	19.7	2575	17327938	14.3	15.4	14.9
+2003	Black	Male	Lymphomas	18.7	20.3	19.5	2696	18194320	14.3	15.4	14.8
+2004	Black	Male	Lymphomas	19.7	21.3	20.5	2911	18461469	15.2	16.4	15.8
+2005	Black	Male	Lymphomas	20	21.6	20.8	3045	18729699	15.7	16.8	16.3
+2006	Black	Male	Lymphomas	19	20.5	19.7	2940	19016639	14.9	16	15.5
+2007	Black	Male	Lymphomas	19.3	20.8	20.1	3079	19308680	15.4	16.5	15.9
+2008	Black	Male	Lymphomas	19.3	20.8	20	3129	19602943	15.4	16.5	16
+2009	Black	Male	Lymphomas	20.4	21.9	21.1	3369	19887934	16.4	17.5	16.9
+2010	Black	Male	Lymphomas	20.4	21.9	21.1	3431	20170044	16.4	17.6	17
+2011	Black	Male	Lymphomas	19.4	20.9	20.2	3304	20303219	15.7	16.8	16.3
+2012	Black	Male	Lymphomas	18.6	20	19.2	3314	20705129	15.5	16.6	16
+2013	Black	Male	Lymphomas	19.1	20.5	19.8	3447	20967558	15.9	17	16.4
+2014	Black	Male	Lymphomas	19	20.4	19.7	3546	21240749	16.1	17.3	16.7
+1999	Black	Male	Pancreas	15.4	17.1	16.2	1554	16506120	9	9.9	9.4
+2000	Black	Male	Pancreas	15.3	17	16.1	1591	16781226	9	10	9.5
+2001	Black	Male	Pancreas	14.1	15.6	14.8	1516	17243037	8.4	9.2	8.8
+2002	Black	Male	Pancreas	14.6	16.2	15.4	1602	17327938	8.8	9.7	9.2
+2003	Black	Male	Pancreas	15.8	17.4	16.6	1820	18194320	9.5	10.5	10
+2004	Black	Male	Pancreas	15.5	17.1	16.3	1870	18461469	9.7	10.6	10.1
+2005	Black	Male	Pancreas	16	17.6	16.8	1970	18729699	10.1	11	10.5
+2006	Black	Male	Pancreas	16	17.6	16.8	2050	19016639	10.3	11.3	10.8
+2007	Black	Male	Pancreas	15.5	17	16.3	2048	19308680	10.2	11.1	10.6
+2008	Black	Male	Pancreas	16.2	17.8	17	2226	19602943	10.9	11.8	11.4
+2009	Black	Male	Pancreas	16.8	18.4	17.6	2340	19887934	11.3	12.3	11.8
+2010	Black	Male	Pancreas	16.5	18	17.2	2393	20170044	11.4	12.3	11.9
+2011	Black	Male	Pancreas	15.8	17.2	16.5	2380	20303219	11.3	12.2	11.7
+2012	Black	Male	Pancreas	16	17.4	16.7	2530	20705129	11.7	12.7	12.2
+2013	Black	Male	Pancreas	16.2	17.6	16.9	2644	20967558	12.1	13.1	12.6
+2014	Black	Male	Pancreas	16.5	17.9	17.2	2770	21240749	12.6	13.5	13
+1999	Black	Male	Stomach	17.4	19.3	18.3	1675	16506120	9.7	10.6	10.1
+2000	Black	Male	Stomach	16.5	18.3	17.4	1657	16781226	9.4	10.4	9.9
+2001	Black	Male	Stomach	16.5	18.3	17.4	1726	17243037	9.5	10.5	10
+2002	Black	Male	Stomach	16.2	18	17.1	1704	17327938	9.4	10.3	9.8
+2003	Black	Male	Stomach	16.5	18.2	17.3	1832	18194320	9.6	10.5	10.1
+2004	Black	Male	Stomach	15.7	17.3	16.5	1792	18461469	9.3	10.2	9.7
+2005	Black	Male	Stomach	15.9	17.5	16.7	1890	18729699	9.6	10.6	10.1
+2006	Black	Male	Stomach	15.2	16.8	16	1869	19016639	9.4	10.3	9.8
+2007	Black	Male	Stomach	15.5	17.1	16.3	1958	19308680	9.7	10.6	10.1
+2008	Black	Male	Stomach	15.4	16.9	16.1	2004	19602943	9.8	10.7	10.2
+2009	Black	Male	Stomach	15	16.4	15.7	2024	19887934	9.7	10.6	10.2
+2010	Black	Male	Stomach	13.8	15.2	14.5	1951	20170044	9.2	10.1	9.7
+2011	Black	Male	Stomach	13.6	15	14.3	1989	20303219	9.4	10.2	9.8
+2012	Black	Male	Stomach	13.7	15.1	14.4	2076	20705129	9.6	10.5	10
+2013	Black	Male	Stomach	13.4	14.7	14	2120	20967558	9.7	10.6	10.1
+2014	Black	Male	Stomach	12.5	13.7	13.1	2069	21240749	9.3	10.2	9.7
+1999	Black	Male and Female	Brain	3.4	3.9	3.6	1082	34705681	2.9	3.3	3.1
+2000	Black	Male and Female	Brain	3.4	3.8	3.6	1081	35251906	2.9	3.3	3.1
+2001	Black	Male and Female	Brain	3.5	3.9	3.7	1134	36203400	3	3.3	3.1
+2002	Black	Male and Female	Brain	3.5	3.9	3.7	1146	36353150	3	3.3	3.2
+2003	Black	Male and Female	Brain	3.6	4	3.8	1249	38209741	3.1	3.5	3.3
+2004	Black	Male and Female	Brain	3.5	3.9	3.7	1263	38738798	3.1	3.4	3.3
+2005	Black	Male and Female	Brain	3.5	3.9	3.7	1257	39280731	3	3.4	3.2
+2006	Black	Male and Female	Brain	3.4	3.8	3.6	1291	39857107	3.1	3.4	3.2
+2007	Black	Male and Female	Brain	3.5	3.9	3.7	1319	40451108	3.1	3.4	3.3
+2008	Black	Male and Female	Brain	3.6	4	3.8	1411	41048959	3.3	3.6	3.4
+2009	Black	Male and Female	Brain	3.6	4	3.8	1428	41632450	3.3	3.6	3.4
+2010	Black	Male and Female	Brain	3.5	3.9	3.6	1406	42200372	3.2	3.5	3.3
+2011	Black	Male and Female	Brain	3.6	4	3.8	1471	42461848	3.3	3.6	3.5
+2012	Black	Male and Female	Brain	3.6	4	3.8	1510	43252304	3.3	3.7	3.5
+2013	Black	Male and Female	Brain	3.5	3.9	3.7	1517	43772123	3.3	3.6	3.5
+2014	Black	Male and Female	Brain	3.4	3.7	3.6	1493	44316094	3.2	3.5	3.4
+1999	Black	Male and Female	Gallbladder	1.2	1.5	1.4	308	34705681	0.8	1	0.9
+2000	Black	Male and Female	Gallbladder	1.3	1.6	1.4	343	35251906	0.9	1.1	1
+2001	Black	Male and Female	Gallbladder	1.2	1.6	1.4	337	36203400	0.8	1	0.9
+2002	Black	Male and Female	Gallbladder	1.2	1.5	1.4	337	36353150	0.8	1	0.9
+2003	Black	Male and Female	Gallbladder	1.2	1.5	1.4	362	38209741	0.9	1.1	0.9
+2004	Black	Male and Female	Gallbladder	1.4	1.7	1.6	420	38738798	1	1.2	1.1
+2005	Black	Male and Female	Gallbladder	1.3	1.6	1.4	394	39280731	0.9	1.1	1
+2006	Black	Male and Female	Gallbladder	1.3	1.6	1.5	421	39857107	1	1.2	1.1
+2007	Black	Male and Female	Gallbladder	1.4	1.7	1.6	461	40451108	1	1.2	1.1
+2008	Black	Male and Female	Gallbladder	1.5	1.8	1.6	491	41048959	1.1	1.3	1.2
+2009	Black	Male and Female	Gallbladder	1.4	1.7	1.5	489	41632450	1.1	1.3	1.2
+2010	Black	Male and Female	Gallbladder	1.6	1.9	1.8	573	42200372	1.2	1.5	1.4
+2011	Black	Male and Female	Gallbladder	1.6	1.9	1.7	576	42461848	1.2	1.5	1.4
+2012	Black	Male and Female	Gallbladder	1.5	1.7	1.6	565	43252304	1.2	1.4	1.3
+2013	Black	Male and Female	Gallbladder	1.6	1.9	1.8	636	43772123	1.3	1.6	1.5
+2014	Black	Male and Female	Gallbladder	1.6	1.9	1.8	657	44316094	1.4	1.6	1.5
+1999	Black	Male and Female	Kidney and Renal Pelvis	12	12.9	12.5	3152	34705681	8.8	9.4	9.1
+2000	Black	Male and Female	Kidney and Renal Pelvis	12.6	13.5	13.1	3426	35251906	9.4	10	9.7
+2001	Black	Male and Female	Kidney and Renal Pelvis	13	13.9	13.5	3647	36203400	9.7	10.4	10.1
+2002	Black	Male and Female	Kidney and Renal Pelvis	13.8	14.8	14.3	3906	36353150	10.4	11.1	10.7
+2003	Black	Male and Female	Kidney and Renal Pelvis	14.2	15.1	14.6	4262	38209741	10.8	11.5	11.2
+2004	Black	Male and Female	Kidney and Renal Pelvis	14.5	15.4	14.9	4492	38738798	11.3	11.9	11.6
+2005	Black	Male and Female	Kidney and Renal Pelvis	15.6	16.5	16.1	4977	39280731	12.3	13	12.7
+2006	Black	Male and Female	Kidney and Renal Pelvis	15.5	16.4	16	5087	39857107	12.4	13.1	12.8
+2007	Black	Male and Female	Kidney and Renal Pelvis	16.8	17.8	17.3	5647	40451108	13.6	14.3	14
+2008	Black	Male and Female	Kidney and Renal Pelvis	17.2	18.1	17.6	5947	41048959	14.1	14.9	14.5
+2009	Black	Male and Female	Kidney and Renal Pelvis	17.3	18.2	17.8	6196	41632450	14.5	15.3	14.9
+2010	Black	Male and Female	Kidney and Renal Pelvis	16.9	17.7	17.3	6181	42200372	14.3	15	14.6
+2011	Black	Male and Female	Kidney and Renal Pelvis	17.3	18.2	17.7	6500	42461848	14.9	15.7	15.3
+2012	Black	Male and Female	Kidney and Renal Pelvis	16.9	17.8	17.3	6622	43252304	14.9	15.7	15.3
+2013	Black	Male and Female	Kidney and Renal Pelvis	17.4	18.3	17.8	7007	43772123	15.6	16.4	16
+2014	Black	Male and Female	Kidney and Renal Pelvis	17.3	18.2	17.8	7207	44316094	15.9	16.6	16.3
+1999	Black	Male and Female	Leukemias	9.3	10.1	9.7	2521	34705681	7	7.6	7.3
+2000	Black	Male and Female	Leukemias	9.8	10.6	10.2	2706	35251906	7.4	8	7.7
+2001	Black	Male and Female	Leukemias	9.9	10.7	10.3	2830	36203400	7.5	8.1	7.8
+2002	Black	Male and Female	Leukemias	9.6	10.4	10	2741	36353150	7.3	7.8	7.5
+2003	Black	Male and Female	Leukemias	9.8	10.5	10.1	2990	38209741	7.5	8.1	7.8
+2004	Black	Male and Female	Leukemias	10.1	10.9	10.5	3156	38738798	7.9	8.4	8.1
+2005	Black	Male and Female	Leukemias	9.8	10.5	10.1	3090	39280731	7.6	8.1	7.9
+2006	Black	Male and Female	Leukemias	9.6	10.4	10	3153	39857107	7.6	8.2	7.9
+2007	Black	Male and Female	Leukemias	9.7	10.4	10	3233	40451108	7.7	8.3	8
+2008	Black	Male and Female	Leukemias	9.7	10.4	10.1	3349	41048959	7.9	8.4	8.2
+2009	Black	Male and Female	Leukemias	9.9	10.6	10.2	3445	41632450	8	8.6	8.3
+2010	Black	Male and Female	Leukemias	10.3	11	10.7	3714	42200372	8.5	9.1	8.8
+2011	Black	Male and Female	Leukemias	10.4	11.1	10.8	3864	42461848	8.8	9.4	9.1
+2012	Black	Male and Female	Leukemias	10.8	11.5	11.1	4065	43252304	9.1	9.7	9.4
+2013	Black	Male and Female	Leukemias	10.1	10.8	10.4	3958	43772123	8.8	9.3	9
+2014	Black	Male and Female	Leukemias	9.9	10.6	10.3	4008	44316094	8.8	9.3	9
+1999	Black	Male and Female	Lymphomas	15.8	16.8	16.3	4518	34705681	12.6	13.4	13
+2000	Black	Male and Female	Lymphomas	15.4	16.3	15.8	4529	35251906	12.5	13.2	12.8
+2001	Black	Male and Female	Lymphomas	15.7	16.6	16.2	4751	36203400	12.8	13.5	13.1
+2002	Black	Male and Female	Lymphomas	15.6	16.6	16.1	4782	36353150	12.8	13.5	13.2
+2003	Black	Male and Female	Lymphomas	15.9	16.9	16.4	5157	38209741	13.1	13.9	13.5
+2004	Black	Male and Female	Lymphomas	16.7	17.6	17.2	5498	38738798	13.8	14.6	14.2
+2005	Black	Male and Female	Lymphomas	16.5	17.4	17	5601	39280731	13.9	14.6	14.3
+2006	Black	Male and Female	Lymphomas	16	16.9	16.5	5527	39857107	13.5	14.2	13.9
+2007	Black	Male and Female	Lymphomas	16.3	17.2	16.8	5797	40451108	14	14.7	14.3
+2008	Black	Male and Female	Lymphomas	16.2	17	16.6	5845	41048959	13.9	14.6	14.2
+2009	Black	Male and Female	Lymphomas	16.9	17.8	17.4	6210	41632450	14.5	15.3	14.9
+2010	Black	Male and Female	Lymphomas	16.9	17.8	17.3	6357	42200372	14.7	15.4	15.1
+2011	Black	Male and Female	Lymphomas	16.2	17.1	16.6	6197	42461848	14.2	15	14.6
+2012	Black	Male and Female	Lymphomas	16.1	17	16.5	6398	43252304	14.4	15.2	14.8
+2013	Black	Male and Female	Lymphomas	16.3	17.1	16.7	6554	43772123	14.6	15.3	15
+2014	Black	Male and Female	Lymphomas	16.1	16.9	16.5	6697	44316094	14.8	15.5	15.1
+1999	Black	Male and Female	Pancreas	14.1	15.1	14.5	3375	34705681	9.4	10.1	9.7
+2000	Black	Male and Female	Pancreas	14	15	14.5	3439	35251906	9.4	10.1	9.8
+2001	Black	Male and Female	Pancreas	13.5	14.4	13.9	3436	36203400	9.2	9.8	9.5
+2002	Black	Male and Female	Pancreas	13.8	14.8	14.3	3546	36353150	9.4	10.1	9.8
+2003	Black	Male and Female	Pancreas	14.3	15.2	14.7	3905	38209741	9.9	10.5	10.2
+2004	Black	Male and Female	Pancreas	14.2	15.2	14.7	4026	38738798	10.1	10.7	10.4
+2005	Black	Male and Female	Pancreas	14.8	15.8	15.3	4286	39280731	10.6	11.2	10.9
+2006	Black	Male and Female	Pancreas	14.8	15.8	15.3	4397	39857107	10.7	11.4	11
+2007	Black	Male and Female	Pancreas	14.7	15.6	15.1	4496	40451108	10.8	11.4	11.1
+2008	Black	Male and Female	Pancreas	15.2	16.1	15.6	4798	41048959	11.4	12	11.7
+2009	Black	Male and Female	Pancreas	14.9	15.8	15.4	4844	41632450	11.3	12	11.6
+2010	Black	Male and Female	Pancreas	15	15.9	15.5	5073	42200372	11.7	12.4	12
+2011	Black	Male and Female	Pancreas	15.1	16	15.6	5243	42461848	12	12.7	12.3
+2012	Black	Male and Female	Pancreas	15	15.9	15.5	5451	43252304	12.3	12.9	12.6
+2013	Black	Male and Female	Pancreas	15	15.9	15.4	5631	43772123	12.5	13.2	12.9
+2014	Black	Male and Female	Pancreas	15.2	16	15.6	5866	44316094	12.9	13.6	13.2
+1999	Black	Male and Female	Stomach	12.3	13.2	12.8	2958	34705681	8.2	8.8	8.5
+2000	Black	Male and Female	Stomach	11.9	12.9	12.4	2946	35251906	8.1	8.7	8.4
+2001	Black	Male and Female	Stomach	12	12.9	12.4	3039	36203400	8.1	8.7	8.4
+2002	Black	Male and Female	Stomach	11.6	12.5	12	3000	36353150	8	8.6	8.3
+2003	Black	Male and Female	Stomach	11.7	12.5	12.1	3221	38209741	8.1	8.7	8.4
+2004	Black	Male and Female	Stomach	11.1	11.9	11.5	3127	38738798	7.8	8.4	8.1
+2005	Black	Male and Female	Stomach	11.3	12.2	11.7	3287	39280731	8.1	8.7	8.4
+2006	Black	Male and Female	Stomach	11.2	12	11.6	3341	39857107	8.1	8.7	8.4
+2007	Black	Male and Female	Stomach	10.9	11.7	11.3	3368	40451108	8	8.6	8.3
+2008	Black	Male and Female	Stomach	10.8	11.5	11.1	3423	41048959	8.1	8.6	8.3
+2009	Black	Male and Female	Stomach	10.6	11.3	11	3454	41632450	8	8.6	8.3
+2010	Black	Male and Female	Stomach	10.4	11.2	10.8	3512	42200372	8	8.6	8.3
+2011	Black	Male and Female	Stomach	10.4	11.1	10.7	3594	42461848	8.2	8.7	8.5
+2012	Black	Male and Female	Stomach	10	10.7	10.4	3623	43252304	8.1	8.7	8.4
+2013	Black	Male and Female	Stomach	9.7	10.3	10	3619	43772123	8	8.5	8.3
+2014	Black	Male and Female	Stomach	9.3	10	9.6	3646	44316094	8	8.5	8.2
+1999	Hispanic	Female	Brain	4.5	5.4	4.9	589	16449865	3.3	3.9	3.6
+2000	Hispanic	Female	Brain	4.4	5.3	4.8	619	17257699	3.3	3.9	3.6
+2001	Hispanic	Female	Brain	4.2	5	4.6	622	18038562	3.2	3.7	3.4
+2002	Hispanic	Female	Brain	4.3	5.1	4.7	666	18755041	3.3	3.8	3.6
+2003	Hispanic	Female	Brain	4.3	5.1	4.7	689	19529116	3.3	3.8	3.5
+2004	Hispanic	Female	Brain	4.2	5	4.6	730	20263650	3.3	3.9	3.6
+2005	Hispanic	Female	Brain	3.9	4.5	4.2	674	21033628	3	3.5	3.2
+2006	Hispanic	Female	Brain	4.2	4.9	4.5	765	21837469	3.3	3.8	3.5
+2007	Hispanic	Female	Brain	4.3	5	4.6	818	22650892	3.4	3.9	3.6
+2008	Hispanic	Female	Brain	3.9	4.5	4.2	775	23468891	3.1	3.5	3.3
+2009	Hispanic	Female	Brain	3.9	4.6	4.3	815	24261364	3.1	3.6	3.4
+2010	Hispanic	Female	Brain	4.1	4.7	4.4	863	25001599	3.2	3.7	3.5
+2011	Hispanic	Female	Brain	3.7	4.3	4	828	25258439	3.1	3.5	3.3
+2012	Hispanic	Female	Brain	3.7	4.3	4	863	26194669	3.1	3.5	3.3
+2013	Hispanic	Female	Brain	3.9	4.5	4.2	914	26773423	3.2	3.6	3.4
+2014	Hispanic	Female	Brain	3.7	4.2	3.9	916	27380020	3.1	3.6	3.3
+1999	Hispanic	Female	Gallbladder	3.1	3.9	3.5	293	16449865	1.6	2	1.8
+2000	Hispanic	Female	Gallbladder	2.6	3.4	3	276	17257699	1.4	1.8	1.6
+2001	Hispanic	Female	Gallbladder	2.8	3.6	3.2	298	18038562	1.5	1.9	1.7
+2002	Hispanic	Female	Gallbladder	2.6	3.3	3	293	18755041	1.4	1.8	1.6
+2003	Hispanic	Female	Gallbladder	2.6	3.2	2.9	303	19529116	1.4	1.7	1.6
+2004	Hispanic	Female	Gallbladder	2.4	3	2.7	297	20263650	1.3	1.6	1.5
+2005	Hispanic	Female	Gallbladder	2.9	3.5	3.2	361	21033628	1.5	1.9	1.7
+2006	Hispanic	Female	Gallbladder	2.6	3.3	2.9	352	21837469	1.4	1.8	1.6
+2007	Hispanic	Female	Gallbladder	2.5	3	2.7	352	22650892	1.4	1.7	1.6
+2008	Hispanic	Female	Gallbladder	2.5	3	2.7	367	23468891	1.4	1.7	1.6
+2009	Hispanic	Female	Gallbladder	2.6	3.2	2.9	416	24261364	1.6	1.9	1.7
+2010	Hispanic	Female	Gallbladder	2.3	2.9	2.6	382	25001599	1.4	1.7	1.5
+2011	Hispanic	Female	Gallbladder	2.3	2.8	2.5	385	25258439	1.4	1.7	1.5
+2012	Hispanic	Female	Gallbladder	2.4	2.9	2.6	422	26194669	1.5	1.8	1.6
+2013	Hispanic	Female	Gallbladder	2.3	2.7	2.5	433	26773423	1.5	1.8	1.6
+2014	Hispanic	Female	Gallbladder	2.4	2.9	2.6	472	27380020	1.6	1.9	1.7
+1999	Hispanic	Female	Kidney and Renal Pelvis	9.1	10.4	9.7	919	16449865	5.2	6	5.6
+2000	Hispanic	Female	Kidney and Renal Pelvis	8.5	9.8	9.1	912	17257699	4.9	5.6	5.3
+2001	Hispanic	Female	Kidney and Renal Pelvis	9.4	10.6	10	1067	18038562	5.6	6.3	5.9
+2002	Hispanic	Female	Kidney and Renal Pelvis	9.2	10.4	9.8	1077	18755041	5.4	6.1	5.7
+2003	Hispanic	Female	Kidney and Renal Pelvis	10.5	11.8	11.1	1301	19529116	6.3	7	6.7
+2004	Hispanic	Female	Kidney and Renal Pelvis	10.3	11.5	10.8	1333	20263650	6.2	6.9	6.6
+2005	Hispanic	Female	Kidney and Renal Pelvis	10.4	11.6	11	1408	21033628	6.3	7.1	6.7
+2006	Hispanic	Female	Kidney and Renal Pelvis	10.9	12.1	11.5	1577	21837469	6.9	7.6	7.2
+2007	Hispanic	Female	Kidney and Renal Pelvis	11.2	12.3	11.7	1700	22650892	7.2	7.9	7.5
+2008	Hispanic	Female	Kidney and Renal Pelvis	11	12.1	11.6	1771	23468891	7.2	7.9	7.5
+2009	Hispanic	Female	Kidney and Renal Pelvis	11.4	12.5	11.9	1897	24261364	7.5	8.2	7.8
+2010	Hispanic	Female	Kidney and Renal Pelvis	11.1	12.2	11.6	1946	25001599	7.4	8.1	7.8
+2011	Hispanic	Female	Kidney and Renal Pelvis	11.6	12.7	12.1	2081	25258439	7.9	8.6	8.2
+2012	Hispanic	Female	Kidney and Renal Pelvis	12	13.1	12.5	2311	26194669	8.5	9.2	8.8
+2013	Hispanic	Female	Kidney and Renal Pelvis	11.6	12.6	12.1	2322	26773423	8.3	9	8.7
+2014	Hispanic	Female	Kidney and Renal Pelvis	11.4	12.4	11.9	2432	27380020	8.5	9.2	8.9
+1999	Hispanic	Female	Leukemias	8.5	9.7	9.1	1041	16449865	5.9	6.7	6.3
+2000	Hispanic	Female	Leukemias	8.9	10.1	9.5	1183	17257699	6.5	7.3	6.9
+2001	Hispanic	Female	Leukemias	8.9	10	9.4	1194	18038562	6.2	7	6.6
+2002	Hispanic	Female	Leukemias	8.5	9.6	9	1249	18755041	6.3	7	6.7
+2003	Hispanic	Female	Leukemias	8.5	9.6	9	1272	19529116	6.2	6.9	6.5
+2004	Hispanic	Female	Leukemias	8.5	9.6	9	1325	20263650	6.2	6.9	6.5
+2005	Hispanic	Female	Leukemias	8	9.1	8.5	1321	21033628	5.9	6.6	6.3
+2006	Hispanic	Female	Leukemias	8.7	9.7	9.2	1493	21837469	6.5	7.2	6.8
+2007	Hispanic	Female	Leukemias	8.4	9.3	8.9	1541	22650892	6.5	7.2	6.8
+2008	Hispanic	Female	Leukemias	9	10	9.5	1703	23468891	6.9	7.6	7.3
+2009	Hispanic	Female	Leukemias	8.5	9.4	9	1699	24261364	6.7	7.3	7
+2010	Hispanic	Female	Leukemias	8.8	9.8	9.3	1771	25001599	6.8	7.4	7.1
+2011	Hispanic	Female	Leukemias	8.7	9.6	9.1	1790	25258439	6.8	7.4	7.1
+2012	Hispanic	Female	Leukemias	8.8	9.7	9.2	1916	26194669	7	7.6	7.3
+2013	Hispanic	Female	Leukemias	8.6	9.5	9	1936	26773423	6.9	7.6	7.2
+2014	Hispanic	Female	Leukemias	8.5	9.3	8.9	1975	27380020	6.9	7.5	7.2
+1999	Hispanic	Female	Lymphomas	17.5	19.4	18.4	1833	16449865	10.6	11.7	11.1
+2000	Hispanic	Female	Lymphomas	15.6	17.2	16.4	1774	17257699	9.8	10.8	10.3
+2001	Hispanic	Female	Lymphomas	16.4	18	17.2	1906	18038562	10.1	11.1	10.6
+2002	Hispanic	Female	Lymphomas	16.1	17.7	16.9	1989	18755041	10.1	11.1	10.6
+2003	Hispanic	Female	Lymphomas	17.1	18.7	17.9	2188	19529116	10.7	11.7	11.2
+2004	Hispanic	Female	Lymphomas	17	18.5	17.7	2266	20263650	10.7	11.7	11.2
+2005	Hispanic	Female	Lymphomas	17.9	19.4	18.6	2496	21033628	11.4	12.3	11.9
+2006	Hispanic	Female	Lymphomas	16.8	18.3	17.6	2482	21837469	10.9	11.8	11.4
+2007	Hispanic	Female	Lymphomas	16.9	18.4	17.6	2603	22650892	11.1	11.9	11.5
+2008	Hispanic	Female	Lymphomas	17.2	18.6	17.9	2757	23468891	11.3	12.2	11.7
+2009	Hispanic	Female	Lymphomas	17.8	19.2	18.4	2957	24261364	11.8	12.6	12.2
+2010	Hispanic	Female	Lymphomas	16.7	18	17.3	2901	25001599	11.2	12	11.6
+2011	Hispanic	Female	Lymphomas	16.4	17.7	17	2940	25258439	11.2	12.1	11.6
+2012	Hispanic	Female	Lymphomas	16.1	17.3	16.7	3086	26194669	11.4	12.2	11.8
+2013	Hispanic	Female	Lymphomas	16.5	17.7	17.1	3261	26773423	11.8	12.6	12.2
+2014	Hispanic	Female	Lymphomas	16.8	18	17.4	3490	27380020	12.3	13.2	12.7
+1999	Hispanic	Female	Pancreas	9.1	10.6	9.8	787	16449865	4.5	5.1	4.8
+2000	Hispanic	Female	Pancreas	9	10.4	9.7	837	17257699	4.5	5.2	4.9
+2001	Hispanic	Female	Pancreas	9.3	10.6	9.9	904	18038562	4.7	5.3	5
+2002	Hispanic	Female	Pancreas	9.6	10.9	10.2	960	18755041	4.8	5.5	5.1
+2003	Hispanic	Female	Pancreas	9.4	10.6	10	997	19529116	4.8	5.4	5.1
+2004	Hispanic	Female	Pancreas	9.4	10.7	10	1069	20263650	5	5.6	5.3
+2005	Hispanic	Female	Pancreas	9.4	10.6	10	1115	21033628	5	5.6	5.3
+2006	Hispanic	Female	Pancreas	9.3	10.4	9.8	1155	21837469	5	5.6	5.3
+2007	Hispanic	Female	Pancreas	9.3	10.5	9.9	1216	22650892	5.1	5.7	5.4
+2008	Hispanic	Female	Pancreas	10.1	11.3	10.7	1365	23468891	5.5	6.1	5.8
+2009	Hispanic	Female	Pancreas	9.8	10.9	10.3	1405	24261364	5.5	6.1	5.8
+2010	Hispanic	Female	Pancreas	9.8	10.8	10.3	1477	25001599	5.6	6.2	5.9
+2011	Hispanic	Female	Pancreas	9.8	10.9	10.4	1549	25258439	5.8	6.4	6.1
+2012	Hispanic	Female	Pancreas	9.9	11	10.5	1682	26194669	6.1	6.7	6.4
+2013	Hispanic	Female	Pancreas	9.9	11	10.4	1756	26773423	6.3	6.9	6.6
+2014	Hispanic	Female	Pancreas	9.6	10.6	10.1	1804	27380020	6.3	6.9	6.6
+1999	Hispanic	Female	Stomach	9	10.3	9.6	832	16449865	4.7	5.4	5.1
+2000	Hispanic	Female	Stomach	8.8	10.1	9.4	866	17257699	4.7	5.4	5
+2001	Hispanic	Female	Stomach	8.6	9.8	9.2	896	18038562	4.6	5.3	5
+2002	Hispanic	Female	Stomach	8.7	9.9	9.3	947	18755041	4.7	5.4	5
+2003	Hispanic	Female	Stomach	8.7	9.9	9.3	997	19529116	4.8	5.4	5.1
+2004	Hispanic	Female	Stomach	8.5	9.7	9.1	1028	20263650	4.8	5.4	5.1
+2005	Hispanic	Female	Stomach	8.1	9.1	8.6	1034	21033628	4.6	5.2	4.9
+2006	Hispanic	Female	Stomach	7.8	8.8	8.3	1049	21837469	4.5	5.1	4.8
+2007	Hispanic	Female	Stomach	7.8	8.9	8.3	1129	22650892	4.7	5.3	5
+2008	Hispanic	Female	Stomach	7.7	8.6	8.1	1152	23468891	4.6	5.2	4.9
+2009	Hispanic	Female	Stomach	7.6	8.6	8.1	1196	24261364	4.7	5.2	4.9
+2010	Hispanic	Female	Stomach	7.7	8.7	8.2	1280	25001599	4.8	5.4	5.1
+2011	Hispanic	Female	Stomach	7	7.8	7.4	1214	25258439	4.5	5.1	4.8
+2012	Hispanic	Female	Stomach	7.3	8.1	7.7	1334	26194669	4.8	5.4	5.1
+2013	Hispanic	Female	Stomach	7.7	8.5	8.1	1449	26773423	5.1	5.7	5.4
+2014	Hispanic	Female	Stomach	7	7.8	7.4	1431	27380020	5	5.5	5.2
+1999	Hispanic	Male	Brain	5.3	6.4	5.9	684	17370473	3.6	4.2	3.9
+2000	Hispanic	Male	Brain	5.6	6.8	6.2	717	18261804	3.6	4.2	3.9
+2001	Hispanic	Male	Brain	5.5	6.5	6	781	19057491	3.8	4.4	4.1
+2002	Hispanic	Male	Brain	5.7	6.7	6.2	812	19763456	3.8	4.4	4.1
+2003	Hispanic	Male	Brain	5.6	6.6	6	812	20516198	3.7	4.2	4
+2004	Hispanic	Male	Brain	5.7	6.6	6.1	857	21233735	3.8	4.3	4
+2005	Hispanic	Male	Brain	5.6	6.5	6	890	21985906	3.8	4.3	4
+2006	Hispanic	Male	Brain	5.3	6.2	5.8	926	22764677	3.8	4.3	4.1
+2007	Hispanic	Male	Brain	5.5	6.4	5.9	971	23542063	3.9	4.4	4.1
+2008	Hispanic	Male	Brain	5.4	6.3	5.9	982	24320894	3.8	4.3	4
+2009	Hispanic	Male	Brain	5.3	6.1	5.7	983	25062023	3.7	4.2	3.9
+2010	Hispanic	Male	Brain	5.3	6.1	5.7	1029	25750149	3.8	4.2	4
+2011	Hispanic	Male	Brain	5.4	6.2	5.8	1091	25957634	4	4.5	4.2
+2012	Hispanic	Male	Brain	5	5.8	5.4	1045	26873947	3.7	4.1	3.9
+2013	Hispanic	Male	Brain	5.4	6.1	5.7	1132	27423892	3.9	4.4	4.1
+2014	Hispanic	Male	Brain	5	5.8	5.4	1103	28008154	3.7	4.2	3.9
+1999	Hispanic	Male	Gallbladder	1	1.6	1.3	77	17370473	0.3	0.6	0.4
+2000	Hispanic	Male	Gallbladder	1.2	1.9	1.6	99	18261804	0.4	0.7	0.5
+2001	Hispanic	Male	Gallbladder	1.4	2.1	1.7	116	19057491	0.5	0.7	0.6
+2002	Hispanic	Male	Gallbladder	1.1	1.7	1.4	98	19763456	0.4	0.6	0.5
+2003	Hispanic	Male	Gallbladder	1.1	1.6	1.3	102	20516198	0.4	0.6	0.5
+2004	Hispanic	Male	Gallbladder	1	1.6	1.3	100	21233735	0.4	0.6	0.5
+2005	Hispanic	Male	Gallbladder	1.2	1.8	1.5	130	21985906	0.5	0.7	0.6
+2006	Hispanic	Male	Gallbladder	1.2	1.7	1.4	128	22764677	0.5	0.7	0.6
+2007	Hispanic	Male	Gallbladder	1.1	1.6	1.3	121	23542063	0.4	0.6	0.5
+2008	Hispanic	Male	Gallbladder	1.1	1.6	1.4	141	24320894	0.5	0.7	0.6
+2009	Hispanic	Male	Gallbladder	0.9	1.3	1.1	124	25062023	0.4	0.6	0.5
+2010	Hispanic	Male	Gallbladder	1.1	1.5	1.3	140	25750149	0.5	0.6	0.5
+2011	Hispanic	Male	Gallbladder	1.1	1.5	1.3	148	25957634	0.5	0.7	0.6
+2012	Hispanic	Male	Gallbladder	0.9	1.3	1	135	26873947	0.4	0.6	0.5
+2013	Hispanic	Male	Gallbladder	1.1	1.5	1.2	169	27423892	0.5	0.7	0.6
+2014	Hispanic	Male	Gallbladder	1	1.4	1.2	172	28008154	0.5	0.7	0.6
+1999	Hispanic	Male	Kidney and Renal Pelvis	16.1	18.1	17.1	1305	17370473	7.1	7.9	7.5
+2000	Hispanic	Male	Kidney and Renal Pelvis	16.2	18.2	17.2	1390	18261804	7.2	8	7.6
+2001	Hispanic	Male	Kidney and Renal Pelvis	16.7	18.7	17.7	1543	19057491	7.7	8.5	8.1
+2002	Hispanic	Male	Kidney and Renal Pelvis	17.3	19.3	18.3	1638	19763456	7.9	8.7	8.3
+2003	Hispanic	Male	Kidney and Renal Pelvis	18.1	20	19.1	1849	20516198	8.6	9.4	9
+2004	Hispanic	Male	Kidney and Renal Pelvis	18.2	20	19.1	1952	21233735	8.8	9.6	9.2
+2005	Hispanic	Male	Kidney and Renal Pelvis	19.8	21.7	20.7	2196	21985906	9.6	10.4	10
+2006	Hispanic	Male	Kidney and Renal Pelvis	19.5	21.3	20.4	2276	22764677	9.6	10.4	10
+2007	Hispanic	Male	Kidney and Renal Pelvis	20.3	22.1	21.2	2523	23542063	10.3	11.1	10.7
+2008	Hispanic	Male	Kidney and Renal Pelvis	20.7	22.5	21.6	2713	24320894	10.7	11.6	11.2
+2009	Hispanic	Male	Kidney and Renal Pelvis	20.2	21.9	21	2786	25062023	10.7	11.5	11.1
+2010	Hispanic	Male	Kidney and Renal Pelvis	19.8	21.5	20.7	2902	25750149	10.9	11.7	11.3
+2011	Hispanic	Male	Kidney and Renal Pelvis	19.8	21.4	20.6	3020	25957634	11.2	12.1	11.6
+2012	Hispanic	Male	Kidney and Renal Pelvis	19.8	21.4	20.6	3211	26873947	11.5	12.4	11.9
+2013	Hispanic	Male	Kidney and Renal Pelvis	20.5	22	21.3	3473	27423892	12.2	13.1	12.7
+2014	Hispanic	Male	Kidney and Renal Pelvis	19.9	21.3	20.6	3604	28008154	12.5	13.3	12.9
+1999	Hispanic	Male	Leukemias	12.1	13.9	13	1324	17370473	7.2	8	7.6
+2000	Hispanic	Male	Leukemias	13	14.9	13.9	1418	18261804	7.4	8.2	7.8
+2001	Hispanic	Male	Leukemias	12.7	14.4	13.5	1497	19057491	7.5	8.3	7.9
+2002	Hispanic	Male	Leukemias	13.1	14.8	13.9	1558	19763456	7.5	8.3	7.9
+2003	Hispanic	Male	Leukemias	12	13.6	12.8	1545	20516198	7.2	7.9	7.5
+2004	Hispanic	Male	Leukemias	12	13.6	12.8	1639	21233735	7.3	8.1	7.7
+2005	Hispanic	Male	Leukemias	12.1	13.6	12.9	1758	21985906	7.6	8.4	8
+2006	Hispanic	Male	Leukemias	13	14.5	13.8	1887	22764677	7.9	8.7	8.3
+2007	Hispanic	Male	Leukemias	12.2	13.6	12.9	1953	23542063	7.9	8.7	8.3
+2008	Hispanic	Male	Leukemias	12.5	13.9	13.2	2059	24320894	8.1	8.8	8.5
+2009	Hispanic	Male	Leukemias	12.9	14.3	13.6	2173	25062023	8.3	9	8.7
+2010	Hispanic	Male	Leukemias	12.9	14.2	13.5	2219	25750149	8.3	9	8.6
+2011	Hispanic	Male	Leukemias	12.7	14	13.3	2289	25957634	8.5	9.2	8.8
+2012	Hispanic	Male	Leukemias	12.1	13.4	12.7	2277	26873947	8.1	8.8	8.5
+2013	Hispanic	Male	Leukemias	13	14.2	13.6	2528	27423892	8.9	9.6	9.2
+2014	Hispanic	Male	Leukemias	11.7	12.9	12.3	2433	28008154	8.3	9	8.7
+1999	Hispanic	Male	Lymphomas	22.5	24.9	23.6	2168	17370473	12	13	12.5
+2000	Hispanic	Male	Lymphomas	23.2	25.5	24.4	2306	18261804	12.1	13.2	12.6
+2001	Hispanic	Male	Lymphomas	20.9	23	21.9	2262	19057491	11.4	12.4	11.9
+2002	Hispanic	Male	Lymphomas	24.1	26.4	25.2	2594	19763456	12.6	13.6	13.1
+2003	Hispanic	Male	Lymphomas	22.2	24.3	23.2	2553	20516198	12	12.9	12.4
+2004	Hispanic	Male	Lymphomas	23.6	25.7	24.6	2761	21233735	12.5	13.5	13
+2005	Hispanic	Male	Lymphomas	23	25.1	24.1	2820	21985906	12.4	13.3	12.8
+2006	Hispanic	Male	Lymphomas	22.5	24.4	23.4	2963	22764677	12.6	13.5	13
+2007	Hispanic	Male	Lymphomas	22.3	24.2	23.2	3063	23542063	12.6	13.5	13
+2008	Hispanic	Male	Lymphomas	22.7	24.6	23.7	3233	24320894	12.8	13.8	13.3
+2009	Hispanic	Male	Lymphomas	22.3	24.1	23.2	3275	25062023	12.6	13.5	13.1
+2010	Hispanic	Male	Lymphomas	22.7	24.5	23.6	3483	25750149	13.1	14	13.5
+2011	Hispanic	Male	Lymphomas	21.7	23.4	22.6	3487	25957634	13	13.9	13.4
+2012	Hispanic	Male	Lymphomas	21.6	23.2	22.4	3596	26873947	12.9	13.8	13.4
+2013	Hispanic	Male	Lymphomas	21.7	23.3	22.5	3758	27423892	13.3	14.1	13.7
+2014	Hispanic	Male	Lymphomas	20.9	22.5	21.7	3818	28008154	13.2	14.1	13.6
+1999	Hispanic	Male	Pancreas	9.7	11.4	10.5	697	17370473	3.7	4.3	4
+2000	Hispanic	Male	Pancreas	11.7	13.6	12.6	821	18261804	4.2	4.8	4.5
+2001	Hispanic	Male	Pancreas	10.7	12.4	11.6	840	19057491	4.1	4.7	4.4
+2002	Hispanic	Male	Pancreas	10.9	12.6	11.7	910	19763456	4.3	4.9	4.6
+2003	Hispanic	Male	Pancreas	11	12.7	11.8	931	20516198	4.3	4.8	4.5
+2004	Hispanic	Male	Pancreas	11.4	13.1	12.2	1054	21233735	4.7	5.3	5
+2005	Hispanic	Male	Pancreas	11.3	12.8	12	1091	21985906	4.7	5.3	5
+2006	Hispanic	Male	Pancreas	11.5	13.1	12.3	1156	22764677	4.8	5.4	5.1
+2007	Hispanic	Male	Pancreas	11.2	12.6	11.9	1186	23542063	4.8	5.3	5
+2008	Hispanic	Male	Pancreas	11.4	12.9	12.2	1278	24320894	5	5.6	5.3
+2009	Hispanic	Male	Pancreas	11.8	13.2	12.5	1363	25062023	5.2	5.7	5.4
+2010	Hispanic	Male	Pancreas	11.4	12.8	12.1	1426	25750149	5.3	5.8	5.5
+2011	Hispanic	Male	Pancreas	11.8	13.2	12.5	1534	25957634	5.6	6.2	5.9
+2012	Hispanic	Male	Pancreas	10.9	12.1	11.5	1515	26873947	5.4	5.9	5.6
+2013	Hispanic	Male	Pancreas	11.7	12.9	12.3	1730	27423892	6	6.6	6.3
+2014	Hispanic	Male	Pancreas	11	12.2	11.6	1704	28008154	5.8	6.4	6.1
+1999	Hispanic	Male	Stomach	17.3	19.7	18.5	1186	17370473	6.4	7.2	6.8
+2000	Hispanic	Male	Stomach	15.7	17.9	16.8	1166	18261804	6	6.8	6.4
+2001	Hispanic	Male	Stomach	14.8	16.7	15.7	1210	19057491	6	6.7	6.3
+2002	Hispanic	Male	Stomach	14.8	16.8	15.8	1234	19763456	5.9	6.6	6.2
+2003	Hispanic	Male	Stomach	14.8	16.7	15.7	1315	20516198	6.1	6.8	6.4
+2004	Hispanic	Male	Stomach	14.7	16.5	15.6	1356	21233735	6.1	6.7	6.4
+2005	Hispanic	Male	Stomach	14.5	16.3	15.4	1426	21985906	6.2	6.8	6.5
+2006	Hispanic	Male	Stomach	13.3	14.9	14.1	1397	22764677	5.8	6.5	6.1
+2007	Hispanic	Male	Stomach	13.5	15.1	14.3	1489	23542063	6	6.7	6.3
+2008	Hispanic	Male	Stomach	13.5	15	14.2	1546	24320894	6	6.7	6.4
+2009	Hispanic	Male	Stomach	13.4	15	14.2	1647	25062023	6.3	6.9	6.6
+2010	Hispanic	Male	Stomach	13.2	14.6	13.9	1698	25750149	6.3	6.9	6.6
+2011	Hispanic	Male	Stomach	12.7	14.1	13.4	1719	25957634	6.3	6.9	6.6
+2012	Hispanic	Male	Stomach	11.8	13.1	12.4	1687	26873947	6	6.6	6.3
+2013	Hispanic	Male	Stomach	11.6	12.8	12.2	1791	27423892	6.2	6.8	6.5
+2014	Hispanic	Male	Stomach	11.8	13	12.4	1901	28008154	6.5	7.1	6.8
+1999	Hispanic	Male and Female	Brain	5.1	5.8	5.4	1273	33820338	3.6	4	3.8
+2000	Hispanic	Male and Female	Brain	5.1	5.8	5.4	1336	35519503	3.6	4	3.8
+2001	Hispanic	Male and Female	Brain	5	5.6	5.3	1403	37096053	3.6	4	3.8
+2002	Hispanic	Male and Female	Brain	5.1	5.7	5.4	1478	38518497	3.6	4	3.8
+2003	Hispanic	Male and Female	Brain	5	5.6	5.3	1501	40045314	3.6	3.9	3.7
+2004	Hispanic	Male and Female	Brain	5	5.6	5.3	1587	41497385	3.6	4	3.8
+2005	Hispanic	Male and Female	Brain	4.8	5.3	5	1564	43019534	3.5	3.8	3.6
+2006	Hispanic	Male and Female	Brain	4.8	5.4	5.1	1691	44602146	3.6	4	3.8
+2007	Hispanic	Male and Female	Brain	4.9	5.5	5.2	1789	46192955	3.7	4.1	3.9
+2008	Hispanic	Male and Female	Brain	4.7	5.2	4.9	1757	47789785	3.5	3.9	3.7
+2009	Hispanic	Male and Female	Brain	4.7	5.2	4.9	1798	49323387	3.5	3.8	3.6
+2010	Hispanic	Male and Female	Brain	4.8	5.2	5	1892	50751748	3.6	3.9	3.7
+2011	Hispanic	Male and Female	Brain	4.6	5.1	4.8	1919	51216073	3.6	3.9	3.7
+2012	Hispanic	Male and Female	Brain	4.4	4.9	4.6	1908	53068616	3.4	3.8	3.6
+2013	Hispanic	Male and Female	Brain	4.7	5.1	4.9	2046	54197315	3.6	3.9	3.8
+2014	Hispanic	Male and Female	Brain	4.4	4.8	4.6	2019	55388174	3.5	3.8	3.6
+1999	Hispanic	Male and Female	Gallbladder	2.3	2.8	2.5	370	33820338	1	1.2	1.1
+2000	Hispanic	Male and Female	Gallbladder	2.1	2.6	2.3	375	35519503	1	1.2	1.1
+2001	Hispanic	Male and Female	Gallbladder	2.3	2.8	2.5	414	37096053	1	1.2	1.1
+2002	Hispanic	Male and Female	Gallbladder	2	2.5	2.3	391	38518497	0.9	1.1	1
+2003	Hispanic	Male and Female	Gallbladder	2	2.4	2.2	405	40045314	0.9	1.1	1
+2004	Hispanic	Male and Female	Gallbladder	1.9	2.3	2.1	397	41497385	0.9	1.1	1
+2005	Hispanic	Male and Female	Gallbladder	2.2	2.7	2.5	491	43019534	1	1.2	1.1
+2006	Hispanic	Male and Female	Gallbladder	2.1	2.5	2.3	480	44602146	1	1.2	1.1
+2007	Hispanic	Male and Female	Gallbladder	1.9	2.3	2.1	473	46192955	0.9	1.1	1
+2008	Hispanic	Male and Female	Gallbladder	1.9	2.3	2.1	508	47789785	1	1.2	1.1
+2009	Hispanic	Male and Female	Gallbladder	1.9	2.3	2.1	540	49323387	1	1.2	1.1
+2010	Hispanic	Male and Female	Gallbladder	1.8	2.2	2	522	50751748	0.9	1.1	1
+2011	Hispanic	Male and Female	Gallbladder	1.8	2.2	2	533	51216073	1	1.1	1
+2012	Hispanic	Male and Female	Gallbladder	1.8	2.1	1.9	557	53068616	1	1.1	1
+2013	Hispanic	Male and Female	Gallbladder	1.8	2.1	1.9	602	54197315	1	1.2	1.1
+2014	Hispanic	Male and Female	Gallbladder	1.8	2.1	2	644	55388174	1.1	1.3	1.2
+1999	Hispanic	Male and Female	Kidney and Renal Pelvis	12.4	13.6	13	2224	33820338	6.3	6.9	6.6
+2000	Hispanic	Male and Female	Kidney and Renal Pelvis	12.1	13.2	12.7	2302	35519503	6.2	6.8	6.5
+2001	Hispanic	Male and Female	Kidney and Renal Pelvis	12.8	13.9	13.3	2610	37096053	6.8	7.3	7
+2002	Hispanic	Male and Female	Kidney and Renal Pelvis	12.9	14	13.5	2715	38518497	6.8	7.3	7
+2003	Hispanic	Male and Female	Kidney and Renal Pelvis	14.1	15.2	14.6	3150	40045314	7.6	8.1	7.9
+2004	Hispanic	Male and Female	Kidney and Renal Pelvis	14	15	14.5	3285	41497385	7.6	8.2	7.9
+2005	Hispanic	Male and Female	Kidney and Renal Pelvis	14.8	15.8	15.3	3604	43019534	8.1	8.7	8.4
+2006	Hispanic	Male and Female	Kidney and Renal Pelvis	14.9	15.9	15.4	3853	44602146	8.4	8.9	8.6
+2007	Hispanic	Male and Female	Kidney and Renal Pelvis	15.4	16.4	15.9	4223	46192955	8.9	9.4	9.1
+2008	Hispanic	Male and Female	Kidney and Renal Pelvis	15.5	16.5	16	4484	47789785	9.1	9.7	9.4
+2009	Hispanic	Male and Female	Kidney and Renal Pelvis	15.5	16.5	16	4683	49323387	9.2	9.8	9.5
+2010	Hispanic	Male and Female	Kidney and Renal Pelvis	15.2	16.1	15.7	4848	50751748	9.3	9.8	9.6
+2011	Hispanic	Male and Female	Kidney and Renal Pelvis	15.5	16.4	16	5101	51216073	9.7	10.2	10
+2012	Hispanic	Male and Female	Kidney and Renal Pelvis	15.7	16.6	16.1	5522	53068616	10.1	10.7	10.4
+2013	Hispanic	Male and Female	Kidney and Renal Pelvis	15.8	16.7	16.2	5795	54197315	10.4	11	10.7
+2014	Hispanic	Male and Female	Kidney and Renal Pelvis	15.4	16.3	15.9	6036	55388174	10.6	11.2	10.9
+1999	Hispanic	Male and Female	Leukemias	10.3	11.3	10.8	2365	33820338	6.7	7.3	7
+2000	Hispanic	Male and Female	Leukemias	10.8	11.8	11.3	2601	35519503	7	7.6	7.3
+2001	Hispanic	Male and Female	Leukemias	10.7	11.7	11.2	2691	37096053	7	7.5	7.3
+2002	Hispanic	Male and Female	Leukemias	10.6	11.5	11	2807	38518497	7	7.6	7.3
+2003	Hispanic	Male and Female	Leukemias	10.2	11.1	10.7	2817	40045314	6.8	7.3	7
+2004	Hispanic	Male and Female	Leukemias	10.2	11.1	10.7	2964	41497385	6.9	7.4	7.1
+2005	Hispanic	Male and Female	Leukemias	10	10.9	10.4	3079	43019534	6.9	7.4	7.2
+2006	Hispanic	Male and Female	Leukemias	10.7	11.6	11.1	3380	44602146	7.3	7.8	7.6
+2007	Hispanic	Male and Female	Leukemias	10.2	11	10.6	3494	46192955	7.3	7.8	7.6
+2008	Hispanic	Male and Female	Leukemias	10.7	11.5	11.1	3762	47789785	7.6	8.1	7.9
+2009	Hispanic	Male and Female	Leukemias	10.6	11.3	11	3872	49323387	7.6	8.1	7.9
+2010	Hispanic	Male and Female	Leukemias	10.7	11.5	11.1	3990	50751748	7.6	8.1	7.9
+2011	Hispanic	Male and Female	Leukemias	10.6	11.4	11	4079	51216073	7.7	8.2	8
+2012	Hispanic	Male and Female	Leukemias	10.4	11.1	10.8	4193	53068616	7.7	8.1	7.9
+2013	Hispanic	Male and Female	Leukemias	10.7	11.4	11.1	4464	54197315	8	8.5	8.2
+2014	Hispanic	Male and Female	Leukemias	10.1	10.8	10.4	4408	55388174	7.7	8.2	8
+1999	Hispanic	Male and Female	Lymphomas	20.1	21.5	20.8	4001	33820338	11.5	12.2	11.8
+2000	Hispanic	Male and Female	Lymphomas	19.3	20.6	19.9	4080	35519503	11.1	11.8	11.5
+2001	Hispanic	Male and Female	Lymphomas	18.8	20.1	19.4	4168	37096053	10.9	11.6	11.2
+2002	Hispanic	Male and Female	Lymphomas	19.9	21.2	20.5	4583	38518497	11.6	12.2	11.9
+2003	Hispanic	Male and Female	Lymphomas	19.7	20.9	20.3	4741	40045314	11.5	12.2	11.8
+2004	Hispanic	Male and Female	Lymphomas	20.2	21.4	20.8	5027	41497385	11.8	12.5	12.1
+2005	Hispanic	Male and Female	Lymphomas	20.4	21.7	21	5316	43019534	12	12.7	12.4
+2006	Hispanic	Male and Female	Lymphomas	19.6	20.8	20.2	5445	44602146	11.9	12.5	12.2
+2007	Hispanic	Male and Female	Lymphomas	19.6	20.7	20.2	5666	46192955	11.9	12.6	12.3
+2008	Hispanic	Male and Female	Lymphomas	19.9	21	20.5	5990	47789785	12.2	12.9	12.5
+2009	Hispanic	Male and Female	Lymphomas	20	21.1	20.6	6232	49323387	12.3	13	12.6
+2010	Hispanic	Male and Female	Lymphomas	19.6	20.7	20.1	6384	50751748	12.3	12.9	12.6
+2011	Hispanic	Male and Female	Lymphomas	19	20.1	19.6	6427	51216073	12.2	12.9	12.5
+2012	Hispanic	Male and Female	Lymphomas	18.7	19.7	19.2	6682	53068616	12.3	12.9	12.6
+2013	Hispanic	Male and Female	Lymphomas	19	20	19.5	7019	54197315	12.6	13.3	13
+2014	Hispanic	Male and Female	Lymphomas	18.8	19.8	19.3	7308	55388174	12.9	13.5	13.2
+1999	Hispanic	Male and Female	Pancreas	9.7	10.8	10.2	1484	33820338	4.2	4.6	4.4
+2000	Hispanic	Male and Female	Pancreas	10.3	11.4	10.9	1658	35519503	4.4	4.9	4.7
+2001	Hispanic	Male and Female	Pancreas	10.2	11.2	10.7	1744	37096053	4.5	4.9	4.7
+2002	Hispanic	Male and Female	Pancreas	10.4	11.5	11	1870	38518497	4.6	5.1	4.9
+2003	Hispanic	Male and Female	Pancreas	10.3	11.3	10.8	1928	40045314	4.6	5	4.8
+2004	Hispanic	Male and Female	Pancreas	10.6	11.5	11	2123	41497385	4.9	5.3	5.1
+2005	Hispanic	Male and Female	Pancreas	10.5	11.4	10.9	2206	43019534	4.9	5.3	5.1
+2006	Hispanic	Male and Female	Pancreas	10.5	11.4	10.9	2311	44602146	5	5.4	5.2
+2007	Hispanic	Male and Female	Pancreas	10.3	11.2	10.8	2402	46192955	5	5.4	5.2
+2008	Hispanic	Male and Female	Pancreas	10.9	11.8	11.4	2643	47789785	5.3	5.7	5.5
+2009	Hispanic	Male and Female	Pancreas	10.8	11.7	11.3	2768	49323387	5.4	5.8	5.6
+2010	Hispanic	Male and Female	Pancreas	10.7	11.5	11.1	2903	50751748	5.5	5.9	5.7
+2011	Hispanic	Male and Female	Pancreas	10.9	11.8	11.4	3083	51216073	5.8	6.2	6
+2012	Hispanic	Male and Female	Pancreas	10.5	11.3	10.9	3197	53068616	5.8	6.2	6
+2013	Hispanic	Male and Female	Pancreas	10.9	11.7	11.3	3486	54197315	6.2	6.6	6.4
+2014	Hispanic	Male and Female	Pancreas	10.4	11.2	10.8	3508	55388174	6.1	6.5	6.3
+1999	Hispanic	Male and Female	Stomach	12.7	13.9	13.3	2018	33820338	5.7	6.2	6
+2000	Hispanic	Male and Female	Stomach	11.9	13.1	12.5	2032	35519503	5.5	6	5.7
+2001	Hispanic	Male and Female	Stomach	11.4	12.5	12	2106	37096053	5.4	5.9	5.7
+2002	Hispanic	Male and Female	Stomach	11.5	12.6	12	2181	38518497	5.4	5.9	5.7
+2003	Hispanic	Male and Female	Stomach	11.5	12.6	12	2312	40045314	5.5	6	5.8
+2004	Hispanic	Male and Female	Stomach	11.3	12.4	11.8	2384	41497385	5.5	6	5.7
+2005	Hispanic	Male and Female	Stomach	11	11.9	11.4	2460	43019534	5.5	5.9	5.7
+2006	Hispanic	Male and Female	Stomach	10.3	11.2	10.8	2446	44602146	5.3	5.7	5.5
+2007	Hispanic	Male and Female	Stomach	10.4	11.3	10.9	2618	46192955	5.5	5.9	5.7
+2008	Hispanic	Male and Female	Stomach	10.3	11.2	10.7	2698	47789785	5.4	5.9	5.6
+2009	Hispanic	Male and Female	Stomach	10.3	11.2	10.7	2843	49323387	5.6	6	5.8
+2010	Hispanic	Male and Female	Stomach	10.2	11	10.6	2978	50751748	5.7	6.1	5.9
+2011	Hispanic	Male and Female	Stomach	9.6	10.3	10	2933	51216073	5.5	5.9	5.7
+2012	Hispanic	Male and Female	Stomach	9.3	10.1	9.7	3021	53068616	5.5	5.9	5.7
+2013	Hispanic	Male and Female	Stomach	9.5	10.3	9.9	3240	54197315	5.8	6.2	6
+2014	Hispanic	Male and Female	Stomach	9.2	9.9	9.6	3332	55388174	5.8	6.2	6
+1999	White	Female	Brain	5.6	5.9	5.8	7088	113607930	6.1	6.4	6.2
+2000	White	Female	Brain	5.6	5.9	5.8	7128	114453422	6.1	6.4	6.2
+2001	White	Female	Brain	5.4	5.7	5.6	7036	116677955	5.9	6.2	6
+2002	White	Female	Brain	5.5	5.8	5.7	7192	117303097	6	6.3	6.1
+2003	White	Female	Brain	5.5	5.8	5.7	7370	119015908	6.1	6.3	6.2
+2004	White	Female	Brain	5.7	5.9	5.8	7622	119722518	6.2	6.5	6.4
+2005	White	Female	Brain	5.6	5.9	5.8	7662	120443644	6.2	6.5	6.4
+2006	White	Female	Brain	5.6	5.9	5.8	7756	121213131	6.3	6.5	6.4
+2007	White	Female	Brain	5.7	6	5.8	7888	121990793	6.3	6.6	6.5
+2008	White	Female	Brain	5.6	5.9	5.7	7896	122761253	6.3	6.6	6.4
+2009	White	Female	Brain	5.6	5.9	5.7	8013	123469289	6.3	6.6	6.5
+2010	White	Female	Brain	5.5	5.8	5.6	7969	124141301	6.3	6.6	6.4
+2011	White	Female	Brain	5.4	5.7	5.6	7851	123681649	6.2	6.5	6.3
+2012	White	Female	Brain	5.4	5.7	5.6	8053	125313138	6.3	6.6	6.4
+2013	White	Female	Brain	5.4	5.7	5.6	8134	125851723	6.3	6.6	6.5
+2014	White	Female	Brain	5.2	5.4	5.3	7830	126445081	6.1	6.3	6.2
+1999	White	Female	Gallbladder	1.4	1.5	1.5	1990	113607930	1.7	1.8	1.8
+2000	White	Female	Gallbladder	1.3	1.5	1.4	1915	114453422	1.6	1.7	1.7
+2001	White	Female	Gallbladder	1.3	1.5	1.4	1968	116677955	1.6	1.8	1.7
+2002	White	Female	Gallbladder	1.2	1.3	1.3	1816	117303097	1.5	1.6	1.5
+2003	White	Female	Gallbladder	1.3	1.4	1.3	1921	119015908	1.5	1.7	1.6
+2004	White	Female	Gallbladder	1.2	1.4	1.3	1918	119722518	1.5	1.7	1.6
+2005	White	Female	Gallbladder	1.3	1.4	1.4	2013	120443644	1.6	1.7	1.7
+2006	White	Female	Gallbladder	1.2	1.4	1.3	1971	121213131	1.6	1.7	1.6
+2007	White	Female	Gallbladder	1.2	1.4	1.3	1982	121990793	1.6	1.7	1.6
+2008	White	Female	Gallbladder	1.2	1.4	1.3	2004	122761253	1.6	1.7	1.6
+2009	White	Female	Gallbladder	1.3	1.4	1.3	2121	123469289	1.6	1.8	1.7
+2010	White	Female	Gallbladder	1.2	1.4	1.3	2071	124141301	1.6	1.7	1.7
+2011	White	Female	Gallbladder	1.2	1.3	1.3	2042	123681649	1.6	1.7	1.7
+2012	White	Female	Gallbladder	1.2	1.3	1.3	2103	125313138	1.6	1.8	1.7
+2013	White	Female	Gallbladder	1.2	1.3	1.2	2061	125851723	1.6	1.7	1.6
+2014	White	Female	Gallbladder	1.2	1.3	1.3	2137	126445081	1.6	1.8	1.7
+1999	White	Female	Kidney and Renal Pelvis	8.5	8.8	8.6	11137	113607930	9.6	10	9.8
+2000	White	Female	Kidney and Renal Pelvis	8.8	9.2	9	11721	114453422	10.1	10.4	10.2
+2001	White	Female	Kidney and Renal Pelvis	9.2	9.5	9.4	12466	116677955	10.5	10.9	10.7
+2002	White	Female	Kidney and Renal Pelvis	9.4	9.8	9.6	12951	117303097	10.9	11.2	11
+2003	White	Female	Kidney and Renal Pelvis	10	10.3	10.1	13954	119015908	11.5	11.9	11.7
+2004	White	Female	Kidney and Renal Pelvis	10.4	10.8	10.6	14784	119722518	12.2	12.5	12.3
+2005	White	Female	Kidney and Renal Pelvis	10.7	11	10.8	15239	120443644	12.5	12.9	12.7
+2006	White	Female	Kidney and Renal Pelvis	11.2	11.5	11.3	16173	121213131	13.1	13.5	13.3
+2007	White	Female	Kidney and Renal Pelvis	11.2	11.5	11.4	16425	121990793	13.3	13.7	13.5
+2008	White	Female	Kidney and Renal Pelvis	11.4	11.8	11.6	17004	122761253	13.6	14.1	13.9
+2009	White	Female	Kidney and Renal Pelvis	11.4	11.8	11.6	17203	123469289	13.7	14.1	13.9
+2010	White	Female	Kidney and Renal Pelvis	11.1	11.4	11.3	16944	124141301	13.4	13.9	13.6
+2011	White	Female	Kidney and Renal Pelvis	11.2	11.5	11.3	17133	123681649	13.6	14.1	13.9
+2012	White	Female	Kidney and Renal Pelvis	11.3	11.7	11.5	17815	125313138	14	14.4	14.2
+2013	White	Female	Kidney and Renal Pelvis	11.2	11.6	11.4	17839	125851723	14	14.4	14.2
+2014	White	Female	Kidney and Renal Pelvis	11.2	11.5	11.4	18126	126445081	14.1	14.5	14.3
+1999	White	Female	Leukemias	10	10.3	10.1	13172	113607930	11.4	11.8	11.6
+2000	White	Female	Leukemias	10.4	10.7	10.6	13868	114453422	11.9	12.3	12.1
+2001	White	Female	Leukemias	10.5	10.9	10.7	14367	116677955	12.1	12.5	12.3
+2002	White	Female	Leukemias	10.2	10.6	10.4	14061	117303097	11.8	12.2	12
+2003	White	Female	Leukemias	10.6	10.9	10.7	14841	119015908	12.3	12.7	12.5
+2004	White	Female	Leukemias	10.5	10.9	10.7	14909	119722518	12.3	12.7	12.5
+2005	White	Female	Leukemias	10.5	10.8	10.7	15005	120443644	12.3	12.7	12.5
+2006	White	Female	Leukemias	10.7	11	10.9	15490	121213131	12.6	13	12.8
+2007	White	Female	Leukemias	10.6	10.9	10.8	15415	121990793	12.4	12.8	12.6
+2008	White	Female	Leukemias	10.5	10.9	10.7	15543	122761253	12.5	12.9	12.7
+2009	White	Female	Leukemias	10.6	10.9	10.8	15888	123469289	12.7	13.1	12.9
+2010	White	Female	Leukemias	11.2	11.5	11.3	16912	124141301	13.4	13.8	13.6
+2011	White	Female	Leukemias	11.2	11.5	11.3	16948	123681649	13.5	13.9	13.7
+2012	White	Female	Leukemias	10.9	11.2	11.1	16893	125313138	13.3	13.7	13.5
+2013	White	Female	Leukemias	10.8	11.1	11	16896	125851723	13.2	13.6	13.4
+2014	White	Female	Leukemias	10.4	10.8	10.6	16594	126445081	12.9	13.3	13.1
+1999	White	Female	Lymphomas	19.3	19.7	19.5	25104	113607930	21.8	22.4	22.1
+2000	White	Female	Lymphomas	19.1	19.6	19.4	25192	114453422	21.7	22.3	22
+2001	White	Female	Lymphomas	19.2	19.7	19.5	25921	116677955	21.9	22.5	22.2
+2002	White	Female	Lymphomas	19.4	19.9	19.6	26388	117303097	22.2	22.8	22.5
+2003	White	Female	Lymphomas	19.6	20.1	19.8	27184	119015908	22.6	23.1	22.8
+2004	White	Female	Lymphomas	20	20.5	20.2	28092	119722518	23.2	23.7	23.5
+2005	White	Female	Lymphomas	19.8	20.2	20	28048	120443644	23	23.6	23.3
+2006	White	Female	Lymphomas	19.6	20.1	19.8	28152	121213131	23	23.5	23.2
+2007	White	Female	Lymphomas	19.5	20	19.8	28413	121990793	23	23.6	23.3
+2008	White	Female	Lymphomas	19.6	20	19.8	28906	122761253	23.3	23.8	23.5
+2009	White	Female	Lymphomas	19.5	19.9	19.7	29088	123469289	23.3	23.8	23.6
+2010	White	Female	Lymphomas	19.2	19.7	19.4	29158	124141301	23.2	23.8	23.5
+2011	White	Female	Lymphomas	18.6	19.1	18.8	28322	123681649	22.6	23.2	22.9
+2012	White	Female	Lymphomas	18.4	18.9	18.7	28758	125313138	22.7	23.2	22.9
+2013	White	Female	Lymphomas	18.2	18.6	18.4	28738	125851723	22.6	23.1	22.8
+2014	White	Female	Lymphomas	17.9	18.3	18.1	28661	126445081	22.4	22.9	22.7
+1999	White	Female	Pancreas	9.1	9.4	9.3	12748	113607930	11	11.4	11.2
+2000	White	Female	Pancreas	9.3	9.6	9.4	13039	114453422	11.2	11.6	11.4
+2001	White	Female	Pancreas	9.3	9.6	9.5	13392	116677955	11.3	11.7	11.5
+2002	White	Female	Pancreas	9.3	9.7	9.5	13581	117303097	11.4	11.8	11.6
+2003	White	Female	Pancreas	9.7	10	9.9	14407	119015908	11.9	12.3	12.1
+2004	White	Female	Pancreas	9.7	10	9.8	14510	119722518	11.9	12.3	12.1
+2005	White	Female	Pancreas	10	10.3	10.1	15109	120443644	12.3	12.7	12.5
+2006	White	Female	Pancreas	10.1	10.5	10.3	15518	121213131	12.6	13	12.8
+2007	White	Female	Pancreas	10.1	10.5	10.3	15774	121990793	12.7	13.1	12.9
+2008	White	Female	Pancreas	10.4	10.7	10.6	16470	122761253	13.2	13.6	13.4
+2009	White	Female	Pancreas	10.3	10.6	10.4	16454	123469289	13.1	13.5	13.3
+2010	White	Female	Pancreas	10.4	10.8	10.6	16975	124141301	13.5	13.9	13.7
+2011	White	Female	Pancreas	10.5	10.8	10.6	17165	123681649	13.7	14.1	13.9
+2012	White	Female	Pancreas	10.6	10.9	10.8	17844	125313138	14	14.5	14.2
+2013	White	Female	Pancreas	10.6	10.9	10.8	18145	125851723	14.2	14.6	14.4
+2014	White	Female	Pancreas	10.6	10.9	10.7	18366	126445081	14.3	14.7	14.5
+1999	White	Female	Stomach	4.3	4.6	4.4	6087	113607930	5.2	5.5	5.4
+2000	White	Female	Stomach	4.2	4.5	4.4	6022	114453422	5.1	5.4	5.3
+2001	White	Female	Stomach	4.1	4.4	4.2	5979	116677955	5	5.3	5.1
+2002	White	Female	Stomach	4.2	4.4	4.3	6067	117303097	5	5.3	5.2
+2003	White	Female	Stomach	4.2	4.5	4.4	6312	119015908	5.2	5.4	5.3
+2004	White	Female	Stomach	4.2	4.4	4.3	6224	119722518	5.1	5.3	5.2
+2005	White	Female	Stomach	4	4.2	4.1	6055	120443644	4.9	5.2	5
+2006	White	Female	Stomach	3.9	4.1	4	5992	121213131	4.8	5.1	4.9
+2007	White	Female	Stomach	4	4.2	4.1	6135	121990793	4.9	5.2	5
+2008	White	Female	Stomach	3.8	4	3.9	5978	122761253	4.7	5	4.9
+2009	White	Female	Stomach	3.8	4	3.9	6002	123469289	4.7	5	4.9
+2010	White	Female	Stomach	4	4.2	4.1	6303	124141301	5	5.2	5.1
+2011	White	Female	Stomach	3.9	4.1	4	6239	123681649	4.9	5.2	5
+2012	White	Female	Stomach	4	4.2	4.1	6433	125313138	5	5.3	5.1
+2013	White	Female	Stomach	3.9	4.1	4	6406	125851723	5	5.2	5.1
+2014	White	Female	Stomach	3.8	4	3.9	6420	126445081	5	5.2	5.1
+1999	White	Male	Brain	7.9	8.3	8.1	8644	110385529	7.7	8	7.8
+2000	White	Male	Brain	7.9	8.2	8.1	8716	111372120	7.7	8	7.8
+2001	White	Male	Brain	7.8	8.1	8	8855	113675859	7.6	8	7.8
+2002	White	Male	Brain	8.1	8.4	8.2	9225	114368303	7.9	8.2	8.1
+2003	White	Male	Brain	7.8	8.1	8	9172	116039126	7.7	8.1	7.9
+2004	White	Male	Brain	8	8.3	8.1	9506	116875784	8	8.3	8.1
+2005	White	Male	Brain	8	8.3	8.1	9568	117668675	8	8.3	8.1
+2006	White	Male	Brain	8	8.3	8.1	9724	118514633	8	8.4	8.2
+2007	White	Male	Brain	7.9	8.3	8.1	9856	119325772	8.1	8.4	8.3
+2008	White	Male	Brain	8	8.3	8.2	10079	120129836	8.2	8.6	8.4
+2009	White	Male	Brain	7.9	8.2	8.1	10124	120845324	8.2	8.5	8.4
+2010	White	Male	Brain	7.8	8.1	8	10147	121537791	8.2	8.5	8.3
+2011	White	Male	Brain	7.7	8.1	7.9	10144	121090605	8.2	8.5	8.4
+2012	White	Male	Brain	7.6	7.9	7.7	10189	122845599	8.1	8.5	8.3
+2013	White	Male	Brain	7.6	7.9	7.8	10383	123447225	8.2	8.6	8.4
+2014	White	Male	Brain	7.6	7.9	7.7	10428	124084592	8.2	8.6	8.4
+1999	White	Male	Gallbladder	0.7	0.9	0.8	784	110385529	0.7	0.8	0.7
+2000	White	Male	Gallbladder	0.7	0.8	0.7	723	111372120	0.6	0.7	0.6
+2001	White	Male	Gallbladder	0.8	0.9	0.8	843	113675859	0.7	0.8	0.7
+2002	White	Male	Gallbladder	0.7	0.8	0.8	818	114368303	0.7	0.8	0.7
+2003	White	Male	Gallbladder	0.7	0.8	0.8	843	116039126	0.7	0.8	0.7
+2004	White	Male	Gallbladder	0.7	0.8	0.8	838	116875784	0.7	0.8	0.7
+2005	White	Male	Gallbladder	0.7	0.8	0.7	838	117668675	0.7	0.8	0.7
+2006	White	Male	Gallbladder	0.7	0.8	0.8	897	118514633	0.7	0.8	0.8
+2007	White	Male	Gallbladder	0.7	0.8	0.7	869	119325772	0.7	0.8	0.7
+2008	White	Male	Gallbladder	0.7	0.8	0.7	869	120129836	0.7	0.8	0.7
+2009	White	Male	Gallbladder	0.7	0.8	0.8	944	120845324	0.7	0.8	0.8
+2010	White	Male	Gallbladder	0.7	0.8	0.8	933	121537791	0.7	0.8	0.8
+2011	White	Male	Gallbladder	0.7	0.8	0.8	970	121090605	0.8	0.9	0.8
+2012	White	Male	Gallbladder	0.7	0.8	0.7	966	122845599	0.7	0.8	0.8
+2013	White	Male	Gallbladder	0.7	0.8	0.8	1028	123447225	0.8	0.9	0.8
+2014	White	Male	Gallbladder	0.7	0.8	0.7	988	124084592	0.7	0.8	0.8
+1999	White	Male	Kidney and Renal Pelvis	16.6	17.1	16.8	17519	110385529	15.6	16.1	15.9
+2000	White	Male	Kidney and Renal Pelvis	17.2	17.7	17.5	18515	111372120	16.4	16.9	16.6
+2001	White	Male	Kidney and Renal Pelvis	18.1	18.6	18.3	19985	113675859	17.3	17.8	17.6
+2002	White	Male	Kidney and Renal Pelvis	18.6	19.2	18.9	21024	114368303	18.1	18.6	18.4
+2003	White	Male	Kidney and Renal Pelvis	19.3	19.8	19.5	22331	116039126	19	19.5	19.2
+2004	White	Male	Kidney and Renal Pelvis	19.8	20.3	20.1	23433	116875784	19.8	20.3	20
+2005	White	Male	Kidney and Renal Pelvis	20.5	21	20.8	24654	117668675	20.7	21.2	21
+2006	White	Male	Kidney and Renal Pelvis	21.1	21.7	21.4	25915	118514633	21.6	22.1	21.9
+2007	White	Male	Kidney and Renal Pelvis	21.5	22	21.7	26929	119325772	22.3	22.8	22.6
+2008	White	Male	Kidney and Renal Pelvis	21.8	22.3	22	27872	120129836	22.9	23.5	23.2
+2009	White	Male	Kidney and Renal Pelvis	21.8	22.3	22	28451	120845324	23.3	23.8	23.5
+2010	White	Male	Kidney and Renal Pelvis	21.3	21.8	21.6	28386	121537791	23.1	23.6	23.4
+2011	White	Male	Kidney and Renal Pelvis	21.5	22	21.8	28950	121090605	23.6	24.2	23.9
+2012	White	Male	Kidney and Renal Pelvis	21.7	22.2	21.9	30137	122845599	24.3	24.8	24.5
+2013	White	Male	Kidney and Renal Pelvis	21.7	22.2	21.9	30771	123447225	24.6	25.2	24.9
+2014	White	Male	Kidney and Renal Pelvis	21.8	22.3	22	31481	124084592	25.1	25.7	25.4
+1999	White	Male	Leukemias	16.8	17.3	17	17225	110385529	15.4	15.8	15.6
+2000	White	Male	Leukemias	17.7	18.2	18	18464	111372120	16.3	16.8	16.6
+2001	White	Male	Leukemias	17.7	18.2	17.9	18952	113675859	16.4	16.9	16.7
+2002	White	Male	Leukemias	17.3	17.8	17.5	18777	114368303	16.2	16.7	16.4
+2003	White	Male	Leukemias	17.5	18	17.7	19491	116039126	16.6	17	16.8
+2004	White	Male	Leukemias	17.8	18.3	18	20108	116875784	17	17.4	17.2
+2005	White	Male	Leukemias	17.5	18	17.8	20207	117668675	16.9	17.4	17.2
+2006	White	Male	Leukemias	17.6	18.1	17.9	20702	118514633	17.2	17.7	17.5
+2007	White	Male	Leukemias	17.4	17.9	17.7	20863	119325772	17.2	17.7	17.5
+2008	White	Male	Leukemias	17.5	18	17.8	21300	120129836	17.5	18	17.7
+2009	White	Male	Leukemias	17.6	18.1	17.8	21782	120845324	17.8	18.3	18
+2010	White	Male	Leukemias	18.3	18.8	18.5	23132	121537791	18.8	19.3	19
+2011	White	Male	Leukemias	18.2	18.6	18.4	23209	121090605	18.9	19.4	19.2
+2012	White	Male	Leukemias	18	18.5	18.3	23748	122845599	19.1	19.6	19.3
+2013	White	Male	Leukemias	17.8	18.3	18.1	23949	123447225	19.2	19.6	19.4
+2014	White	Male	Leukemias	17.3	17.7	17.5	23694	124084592	18.9	19.3	19.1
+1999	White	Male	Lymphomas	26.3	27	26.7	27706	110385529	24.8	25.4	25.1
+2000	White	Male	Lymphomas	26.5	27.1	26.8	28265	111372120	25.1	25.7	25.4
+2001	White	Male	Lymphomas	26.5	27.1	26.8	28999	113675859	25.2	25.8	25.5
+2002	White	Male	Lymphomas	27	27.7	27.3	30022	114368303	26	26.5	26.3
+2003	White	Male	Lymphomas	27	27.7	27.3	30728	116039126	26.2	26.8	26.5
+2004	White	Male	Lymphomas	27.5	28.1	27.8	31657	116875784	26.8	27.4	27.1
+2005	White	Male	Lymphomas	27.7	28.3	28	32433	117668675	27.3	27.9	27.6
+2006	White	Male	Lymphomas	27.4	28	27.7	32689	118514633	27.3	27.9	27.6
+2007	White	Male	Lymphomas	27.6	28.2	27.9	33479	119325772	27.8	28.4	28.1
+2008	White	Male	Lymphomas	27.5	28.1	27.8	33947	120129836	28	28.6	28.3
+2009	White	Male	Lymphomas	27.4	28	27.7	34451	120845324	28.2	28.8	28.5
+2010	White	Male	Lymphomas	27.1	27.6	27.4	34618	121537791	28.2	28.8	28.5
+2011	White	Male	Lymphomas	26.8	27.3	27.1	34546	121090605	28.2	28.8	28.5
+2012	White	Male	Lymphomas	26.2	26.8	26.5	34906	122845599	28.1	28.7	28.4
+2013	White	Male	Lymphomas	26	26.5	26.3	35336	123447225	28.3	28.9	28.6
+2014	White	Male	Lymphomas	25.8	26.3	26	35610	124084592	28.4	29	28.7
+1999	White	Male	Pancreas	12	12.5	12.2	12333	110385529	11	11.4	11.2
+2000	White	Male	Pancreas	12.2	12.7	12.4	12739	111372120	11.2	11.6	11.4
+2001	White	Male	Pancreas	12.4	12.8	12.6	13302	113675859	11.5	11.9	11.7
+2002	White	Male	Pancreas	12.3	12.7	12.5	13437	114368303	11.6	11.9	11.7
+2003	White	Male	Pancreas	12.6	13.1	12.9	14197	116039126	12	12.4	12.2
+2004	White	Male	Pancreas	12.8	13.2	13	14644	116875784	12.3	12.7	12.5
+2005	White	Male	Pancreas	12.8	13.3	13.1	15011	117668675	12.6	13	12.8
+2006	White	Male	Pancreas	13.2	13.6	13.4	15730	118514633	13.1	13.5	13.3
+2007	White	Male	Pancreas	13.3	13.7	13.5	16239	119325772	13.4	13.8	13.6
+2008	White	Male	Pancreas	13.5	13.9	13.7	16860	120129836	13.8	14.2	14
+2009	White	Male	Pancreas	13.5	13.9	13.7	17236	120845324	14.1	14.5	14.3
+2010	White	Male	Pancreas	13.5	13.9	13.7	17705	121537791	14.4	14.8	14.6
+2011	White	Male	Pancreas	13.8	14.2	14	18367	121090605	14.9	15.4	15.2
+2012	White	Male	Pancreas	14	14.4	14.2	19299	122845599	15.5	15.9	15.7
+2013	White	Male	Pancreas	13.9	14.4	14.1	19616	123447225	15.7	16.1	15.9
+2014	White	Male	Pancreas	14	14.4	14.2	20168	124084592	16	16.5	16.3
+1999	White	Male	Stomach	9.7	10.1	9.9	9895	110385529	8.8	9.1	9
+2000	White	Male	Stomach	9.4	9.8	9.6	9787	111372120	8.6	9	8.8
+2001	White	Male	Stomach	9.2	9.5	9.4	9819	113675859	8.5	8.8	8.6
+2002	White	Male	Stomach	9.1	9.5	9.3	9939	114368303	8.5	8.9	8.7
+2003	White	Male	Stomach	9	9.4	9.2	10072	116039126	8.5	8.9	8.7
+2004	White	Male	Stomach	8.8	9.2	9	10071	116875784	8.4	8.8	8.6
+2005	White	Male	Stomach	8.4	8.8	8.6	9801	117668675	8.2	8.5	8.3
+2006	White	Male	Stomach	8.4	8.7	8.5	9956	118514633	8.2	8.6	8.4
+2007	White	Male	Stomach	8.2	8.6	8.4	10045	119325772	8.3	8.6	8.4
+2008	White	Male	Stomach	8.1	8.5	8.3	10111	120129836	8.3	8.6	8.4
+2009	White	Male	Stomach	8.1	8.4	8.3	10316	120845324	8.4	8.7	8.5
+2010	White	Male	Stomach	8.4	8.8	8.6	10969	121537791	8.9	9.2	9
+2011	White	Male	Stomach	8.4	8.7	8.5	11051	121090605	9	9.3	9.1
+2012	White	Male	Stomach	8.1	8.4	8.3	11077	122845599	8.8	9.2	9
+2013	White	Male	Stomach	8.1	8.4	8.2	11236	123447225	8.9	9.3	9.1
+2014	White	Male	Stomach	7.9	8.3	8.1	11363	124084592	9	9.3	9.2
+1999	White	Male and Female	Brain	6.7	7	6.8	15732	223993459	6.9	7.1	7
+2000	White	Male and Female	Brain	6.7	6.9	6.8	15844	225825542	6.9	7.1	7
+2001	White	Male and Female	Brain	6.6	6.8	6.7	15891	230353814	6.8	7	6.9
+2002	White	Male and Female	Brain	6.7	6.9	6.8	16417	231671400	7	7.2	7.1
+2003	White	Male and Female	Brain	6.6	6.8	6.7	16542	235055034	6.9	7.1	7
+2004	White	Male and Female	Brain	6.8	7	6.9	17128	236598302	7.1	7.3	7.2
+2005	White	Male and Female	Brain	6.8	7	6.9	17230	238112319	7.1	7.3	7.2
+2006	White	Male and Female	Brain	6.8	7	6.9	17480	239727764	7.2	7.4	7.3
+2007	White	Male and Female	Brain	6.8	7	6.9	17744	241316565	7.2	7.5	7.4
+2008	White	Male and Female	Brain	6.8	7	6.9	17975	242891089	7.3	7.5	7.4
+2009	White	Male and Female	Brain	6.7	6.9	6.8	18137	244314613	7.3	7.5	7.4
+2010	White	Male and Female	Brain	6.6	6.8	6.7	18116	245679092	7.3	7.5	7.4
+2011	White	Male and Female	Brain	6.6	6.8	6.7	17995	244772254	7.2	7.5	7.4
+2012	White	Male and Female	Brain	6.5	6.7	6.6	18242	248158737	7.2	7.5	7.4
+2013	White	Male and Female	Brain	6.5	6.7	6.6	18517	249298948	7.3	7.5	7.4
+2014	White	Male and Female	Brain	6.3	6.5	6.4	18258	250529673	7.2	7.4	7.3
+1999	White	Male and Female	Gallbladder	1.1	1.2	1.2	2774	223993459	1.2	1.3	1.2
+2000	White	Male and Female	Gallbladder	1.1	1.1	1.1	2638	225825542	1.1	1.2	1.2
+2001	White	Male and Female	Gallbladder	1.1	1.2	1.1	2811	230353814	1.2	1.3	1.2
+2002	White	Male and Female	Gallbladder	1	1.1	1.1	2634	231671400	1.1	1.2	1.1
+2003	White	Male and Female	Gallbladder	1	1.1	1.1	2764	235055034	1.1	1.2	1.2
+2004	White	Male and Female	Gallbladder	1	1.1	1.1	2756	236598302	1.1	1.2	1.2
+2005	White	Male and Female	Gallbladder	1	1.1	1.1	2851	238112319	1.2	1.2	1.2
+2006	White	Male and Female	Gallbladder	1	1.1	1.1	2868	239727764	1.2	1.2	1.2
+2007	White	Male and Female	Gallbladder	1	1.1	1	2851	241316565	1.1	1.2	1.2
+2008	White	Male and Female	Gallbladder	1	1.1	1	2873	242891089	1.1	1.2	1.2
+2009	White	Male and Female	Gallbladder	1	1.1	1.1	3065	244314613	1.2	1.3	1.3
+2010	White	Male and Female	Gallbladder	1	1.1	1.1	3004	245679092	1.2	1.3	1.2
+2011	White	Male and Female	Gallbladder	1	1.1	1	3012	244772254	1.2	1.3	1.2
+2012	White	Male and Female	Gallbladder	1	1.1	1	3069	248158737	1.2	1.3	1.2
+2013	White	Male and Female	Gallbladder	1	1.1	1	3089	249298948	1.2	1.3	1.2
+2014	White	Male and Female	Gallbladder	1	1	1	3125	250529673	1.2	1.3	1.2
+1999	White	Male and Female	Kidney and Renal Pelvis	12.1	12.4	12.3	28656	223993459	12.6	12.9	12.8
+2000	White	Male and Female	Kidney and Renal Pelvis	12.6	12.9	12.8	30236	225825542	13.2	13.5	13.4
+2001	White	Male and Female	Kidney and Renal Pelvis	13.2	13.5	13.4	32451	230353814	13.9	14.2	14.1
+2002	White	Male and Female	Kidney and Renal Pelvis	13.6	13.9	13.8	33975	231671400	14.5	14.8	14.7
+2003	White	Male and Female	Kidney and Renal Pelvis	14.2	14.5	14.4	36285	235055034	15.3	15.6	15.4
+2004	White	Male and Female	Kidney and Renal Pelvis	14.7	15	14.9	38217	236598302	16	16.3	16.2
+2005	White	Male and Female	Kidney and Renal Pelvis	15.2	15.5	15.3	39893	238112319	16.6	16.9	16.8
+2006	White	Male and Female	Kidney and Renal Pelvis	15.8	16.1	15.9	42088	239727764	17.4	17.7	17.6
+2007	White	Male and Female	Kidney and Renal Pelvis	16	16.3	16.1	43354	241316565	17.8	18.1	18
+2008	White	Male and Female	Kidney and Renal Pelvis	16.2	16.5	16.4	44876	242891089	18.3	18.6	18.5
+2009	White	Male and Female	Kidney and Renal Pelvis	16.2	16.6	16.4	45654	244314613	18.5	18.9	18.7
+2010	White	Male and Female	Kidney and Renal Pelvis	15.9	16.2	16	45330	245679092	18.3	18.6	18.5
+2011	White	Male and Female	Kidney and Renal Pelvis	16	16.3	16.2	46083	244772254	18.7	19	18.8
+2012	White	Male and Female	Kidney and Renal Pelvis	16.2	16.5	16.4	47952	248158737	19.2	19.5	19.3
+2013	White	Male and Female	Kidney and Renal Pelvis	16.2	16.4	16.3	48610	249298948	19.3	19.7	19.5
+2014	White	Male and Female	Kidney and Renal Pelvis	16.2	16.5	16.4	49607	250529673	19.6	20	19.8
+1999	White	Male and Female	Leukemias	12.9	13.2	13.1	30397	223993459	13.4	13.7	13.6
+2000	White	Male and Female	Leukemias	13.6	13.9	13.7	32332	225825542	14.2	14.5	14.3
+2001	White	Male and Female	Leukemias	13.7	14	13.8	33319	230353814	14.3	14.6	14.5
+2002	White	Male and Female	Leukemias	13.3	13.6	13.5	32838	231671400	14	14.3	14.2
+2003	White	Male and Female	Leukemias	13.6	13.9	13.8	34332	235055034	14.5	14.8	14.6
+2004	White	Male and Female	Leukemias	13.7	14	13.9	35017	236598302	14.6	15	14.8
+2005	White	Male and Female	Leukemias	13.6	13.9	13.7	35212	238112319	14.6	14.9	14.8
+2006	White	Male and Female	Leukemias	13.8	14.1	14	36192	239727764	14.9	15.3	15.1
+2007	White	Male and Female	Leukemias	13.6	13.9	13.8	36278	241316565	14.9	15.2	15
+2008	White	Male and Female	Leukemias	13.7	13.9	13.8	36843	242891089	15	15.3	15.2
+2009	White	Male and Female	Leukemias	13.7	14	13.9	37670	244314613	15.3	15.6	15.4
+2010	White	Male and Female	Leukemias	14.4	14.7	14.5	40044	245679092	16.1	16.5	16.3
+2011	White	Male and Female	Leukemias	14.3	14.6	14.5	40157	244772254	16.2	16.6	16.4
+2012	White	Male and Female	Leukemias	14.1	14.4	14.3	40641	248158737	16.2	16.5	16.4
+2013	White	Male and Female	Leukemias	14	14.3	14.1	40845	249298948	16.2	16.5	16.4
+2014	White	Male and Female	Leukemias	13.6	13.9	13.7	40288	250529673	15.9	16.2	16.1
+1999	White	Male and Female	Lymphomas	22.5	22.9	22.7	52810	223993459	23.4	23.8	23.6
+2000	White	Male and Female	Lymphomas	22.5	22.9	22.7	53457	225825542	23.5	23.9	23.7
+2001	White	Male and Female	Lymphomas	22.5	22.9	22.7	54920	230353814	23.6	24	23.8
+2002	White	Male and Female	Lymphomas	22.9	23.3	23.1	56410	231671400	24.1	24.6	24.3
+2003	White	Male and Female	Lymphomas	23	23.4	23.2	57912	235055034	24.4	24.8	24.6
+2004	White	Male and Female	Lymphomas	23.4	23.8	23.6	59749	236598302	25.1	25.5	25.3
+2005	White	Male and Female	Lymphomas	23.4	23.7	23.6	60481	238112319	25.2	25.6	25.4
+2006	White	Male and Female	Lymphomas	23.2	23.6	23.4	60841	239727764	25.2	25.6	25.4
+2007	White	Male and Female	Lymphomas	23.2	23.6	23.4	61892	241316565	25.4	25.9	25.6
+2008	White	Male and Female	Lymphomas	23.2	23.6	23.4	62853	242891089	25.7	26.1	25.9
+2009	White	Male and Female	Lymphomas	23.2	23.5	23.3	63539	244314613	25.8	26.2	26
+2010	White	Male and Female	Lymphomas	22.8	23.2	23	63776	245679092	25.8	26.2	26
+2011	White	Male and Female	Lymphomas	22.4	22.7	22.6	62868	244772254	25.5	25.9	25.7
+2012	White	Male and Female	Lymphomas	22.1	22.4	22.2	63664	248158737	25.5	25.9	25.7
+2013	White	Male and Female	Lymphomas	21.8	22.2	22	64074	249298948	25.5	25.9	25.7
+2014	White	Male and Female	Lymphomas	21.5	21.9	21.7	64271	250529673	25.5	25.9	25.7
+1999	White	Male and Female	Pancreas	10.5	10.8	10.6	25081	223993459	11.1	11.3	11.2
+2000	White	Male and Female	Pancreas	10.7	10.9	10.8	25778	225825542	11.3	11.6	11.4
+2001	White	Male and Female	Pancreas	10.8	11	10.9	26694	230353814	11.4	11.7	11.6
+2002	White	Male and Female	Pancreas	10.7	11	10.9	27018	231671400	11.5	11.8	11.7
+2003	White	Male and Female	Pancreas	11.1	11.4	11.2	28604	235055034	12	12.3	12.2
+2004	White	Male and Female	Pancreas	11.1	11.4	11.3	29154	236598302	12.2	12.5	12.3
+2005	White	Male and Female	Pancreas	11.3	11.6	11.5	30120	238112319	12.5	12.8	12.6
+2006	White	Male and Female	Pancreas	11.6	11.8	11.7	31248	239727764	12.9	13.2	13
+2007	White	Male and Female	Pancreas	11.7	11.9	11.8	32013	241316565	13.1	13.4	13.3
+2008	White	Male and Female	Pancreas	11.9	12.1	12	33330	242891089	13.6	13.9	13.7
+2009	White	Male and Female	Pancreas	11.8	12	11.9	33690	244314613	13.6	13.9	13.8
+2010	White	Male and Female	Pancreas	11.9	12.2	12	34680	245679092	14	14.3	14.1
+2011	White	Male and Female	Pancreas	12.1	12.3	12.2	35532	244772254	14.4	14.7	14.5
+2012	White	Male and Female	Pancreas	12.2	12.5	12.4	37143	248158737	14.8	15.1	15
+2013	White	Male and Female	Pancreas	12.2	12.4	12.3	37761	249298948	15	15.3	15.1
+2014	White	Male and Female	Pancreas	12.2	12.4	12.3	38534	250529673	15.2	15.5	15.4
+1999	White	Male and Female	Stomach	6.7	6.9	6.8	15982	223993459	7	7.2	7.1
+2000	White	Male and Female	Stomach	6.5	6.7	6.6	15809	225825542	6.9	7.1	7
+2001	White	Male and Female	Stomach	6.4	6.6	6.5	15798	230353814	6.8	7	6.9
+2002	White	Male and Female	Stomach	6.4	6.6	6.5	16006	231671400	6.8	7	6.9
+2003	White	Male and Female	Stomach	6.4	6.5	6.4	16384	235055034	6.9	7.1	7
+2004	White	Male and Female	Stomach	6.2	6.4	6.3	16295	236598302	6.8	7	6.9
+2005	White	Male and Female	Stomach	6	6.2	6.1	15856	238112319	6.6	6.8	6.7
+2006	White	Male and Female	Stomach	5.9	6.1	6	15948	239727764	6.5	6.8	6.7
+2007	White	Male and Female	Stomach	5.9	6.1	6	16180	241316565	6.6	6.8	6.7
+2008	White	Male and Female	Stomach	5.8	6	5.9	16089	242891089	6.5	6.7	6.6
+2009	White	Male and Female	Stomach	5.8	5.9	5.8	16318	244314613	6.6	6.8	6.7
+2010	White	Male and Female	Stomach	6	6.2	6.1	17272	245679092	6.9	7.1	7
+2011	White	Male and Female	Stomach	5.9	6.1	6	17290	244772254	7	7.2	7.1
+2012	White	Male and Female	Stomach	5.9	6	5.9	17510	248158737	7	7.2	7.1
+2013	White	Male and Female	Stomach	5.8	6	5.9	17642	249298948	7	7.2	7.1
+2014	White	Male and Female	Stomach	5.7	5.9	5.8	17783	250529673	7	7.2	7.1
