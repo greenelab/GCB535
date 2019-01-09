@@ -1,4 +1,4 @@
-### Instructions for setting up the course on CoCalc
+0;276;0c### Instructions for setting up the course on CoCalc
 
 1. Login to CoCalc.
 2. If you haven't already done so, setup your [ssh keys](https://cocalc.com/settings/ssh-keys?session=default).
@@ -19,7 +19,7 @@
 10. Run `mv .* ../` - you'll get some errors about . and .. directories, but can ignore these. The key is to move the git info up a level.
 11. Cleanup: Run `cd ..` and then `rm -r GCB535`. This will get the exercises into the root folder, which makes the CoCalc class functionality happy.
 12. If you followed the instructions above and your answer keys use the answer key rsa key, we're going to make keygit an alias for git using the DSA key. Run: `echo "alias keygit=\"GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_anskey' git\"" >> ~/.bashrc`
-13. run `source .bashrc`
+13. run `source .bashrc` !
 14. Get the answer keys onto SMC as well. Use the keygit alias to clone your answer key repo (for us: `keygit clone git@github.com:greenelab/GCB535-Keys.git`). NOTE: TO DO ANYTHING WITH GIT ON THE ANSWER KEYS, USE THE `keygit` ALIAS.
 
 Congratulations! Your GitHub setup tasks are done!
