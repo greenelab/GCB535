@@ -1,4 +1,4 @@
-0;276;0c### Instructions for setting up the course on CoCalc
+### Instructions for setting up the course on CoCalc
 
 1. Login to CoCalc.
 2. If you haven't already done so, setup your [ssh keys](https://cocalc.com/settings/ssh-keys?session=default).
