@@ -42,7 +42,7 @@
 
 * Katerina Gawronski: molecular trait mapping, alternative splicing, cardiometabolic disease
 * Zilu Zhou: statistical genomics, cancer, machine learning
-* Jingya Qiu: 
+* Jingya Qiu: cancer biology, single-cell RNA Seq, immunology
 
 ## Location and time
 
