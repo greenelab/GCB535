@@ -28,21 +28,21 @@
 
 ### Teaching assistants
 
-[Kelsey Johnson](mailto:kelseyelizabethjohnson@gmail.com): kelseyelizabethjohnson@gmail.com
+[Katerina Gawronski](mailto:kgawro@pennmedicine.upenn.edu): kgawro@pennmedicine.upenn.edu 
 
-[Greg Way](mailto:gregory.way@gmail.com): gregory.way@gmail.com
+[Zilu Zhou](mailto:zhouzilu@pennmedicine.upenn.edu): zhouzilu@pennmedicine.upenn.edu 
 
-### Grader
-
-[Lucy Shan](mailto:mengge@mail.med.upenn.edu): mengge@mail.med.upenn.edu
+[Jingya Qiu](mailto:jingyaq@pennmedicine.upenn.edu): jingyaq@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ben Voight: human genetics, statistics, cardiometabolic disease
 * Casey Greene: machine learning, systems biology, gene expression
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
-* Greg Way: machine learning, cancer genomics, data science
-* Kelsey Johnson: human genetics, evolution
+
+* Katerina Gawronski: molecular trait mapping, alternative splicing, cardiometabolic disease
+* Zilu Zhou: statistical genomics, cancer, machine learning
+* Jingya Qiu: cancer biology, single-cell RNA Seq, immunology
 
 ## Location and time
 
@@ -60,11 +60,11 @@ the course directors. There are some days where there are preexisting conflicts
 with regularly scheduled office hours. We've created a [table with details](https://github.com/greenelab/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* OS: Monday, 1-2 PM in room 5050 CTRB
+* CSG: Monday 9-10 AM in SCTR 10-131
+* OS: Monday 1-2 PM in room 5050 CTRB
 * TAs: Tuesday 2-3 PM in Room 10-120 SCTR
 * BFV: Wednesday 11a-12p in SCTR 10-126
 * TAs: Thursday 2-3 PM in Room 10-120 SCTR
-* CSG: Friday 1-2 PM in SCTR 10-131
 
 ## Course web site
 
@@ -118,11 +118,10 @@ calendar](https://github.com/greenelab/GCB535/blob/master/Course_Calendar.md).
 
 Grades are composed of:
 
-* the course project (50% total, 25% written proposal,
-25% oral presentation)
-* homework assignments (30%)
+* homework assignments (50%)
 * prelab assignments (10%)
-* class participation (10%)
+* participation (5%)
+* final (35%)
 
 For the homework grade, we will drop scores from the 3 lowest scoring
 assignments when determining the final grade.
