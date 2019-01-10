@@ -4,6 +4,9 @@
 
 ### Course Directors
 
+Please use e-mail to contact the course instructors.
+We do not reliably check the Canvas messaging functionality.
+
 #### Benjamin F. Voight, PhD
     Department of Systems Pharmacology and Translational Therapeutics
     Department of Genetics
