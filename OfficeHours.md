@@ -5,7 +5,6 @@
 | 16-Jan | 11:00 - 12:00 | 10-126 SCTR | Ben                                 |
 | 17-Jan | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
 | 21-Jan | -             | -           | MLK DAY                             |
-| 21-Jan | -             | -           | MLK DAY                             |
 | 22-Jan | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
 | 23-Jan | -             | -           | Ben Out of Town - Email for Appt.   |
 | 24-Jan | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
