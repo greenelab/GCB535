@@ -33,7 +33,7 @@
 | 27-Mar | Programming in Python - III                 | 25_Python-III                 | 24_Python-II          |
 | 29-Mar | Programming in Python - IV                  | 26_Python-IV                  | 25_Python-III         |
 | 1-Apr  | Programming in Python - V                   | 27_Python-V                   | 26_Python-IV          |
-| 3-Apr  | Machine Learning (ML) - I                   | 28_ML-I                       | 27_Python-V           |
+| 3-Apr  | Machine Learning (ML) - I (MANDATORY)       | 28_ML-I                       | 27_Python-V           |
 | 6-Apr  | ML - II                                     | 29_ML-II                      | 28_ML-I               |
 | 5-Apr  | ML - III                                    | 30_ML-III                     | 29_ML-II              |
 | 8-Apr  | ML - IV                                     | 31_ML-IV                      | 30_ML-III             |
@@ -44,7 +44,7 @@
 | 19-Apr | OPEN STUDIO                                 | -                             | -                     |
 | 22-Apr | Single cell RNA-Seq Analysis - I            | 36_scRNA-Seq-I                | -                     |
 | 24-Apr | Single cell RNA-Seq Analysis II             | 37_scRNA-Seq-II               | 36_scRNA-Seq-I        |
-| 26-Apr | CRISPR Screening - I                        | -                             | 37_scRNA-Seq-II       |
+| 26-Apr | CRISPR Screening - I  (MANDATORY)           | -                             | 37_scRNA-Seq-II       |
 | 29-Apr | CRISPR Screening - II                       | 38_CRISPR_Screening           | -                     |
 | 1-May  | FINAL Distributed                           | -                             | 38_CRISPR_Screening   |
 | 7-May  | -                                           | -                             | FINAL Due @ 2pm       |
