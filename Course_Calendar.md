@@ -35,7 +35,7 @@
 | 1-Apr  | Programming in Python - V                   | 27_Python-V                   | 26_Python-IV          |
 | 3-Apr  | Machine Learning (ML) - I (MANDATORY)       | 28_ML-I                       | 27_Python-V           |
 | 6-Apr  | ML - II                                     | 29_ML-II                      | 28_ML-I               |
-| 5-Apr  | ML - III                                    | 30_ML-III                     | 29_ML-II              |
+| 5-Apr  | ML - III (MANDATORY)                        | 30_ML-III                     | 29_ML-II              |
 | 8-Apr  | ML - IV                                     | 31_ML-IV                      | 30_ML-III             |
 | 10-Apr | ML - V                                      | 32_ML-V                       | 31_ML-IV              |
 | 12-Apr | Intro to PLINK                              | 33_Variation-I                | 32_ML-V               |
