@@ -23,7 +23,7 @@
 | 12-Feb | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
 | 13-Feb | 11:00 - 12:00 | 10-126 SCTR | Ben                                 |
 | 14-Feb | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
-| 18-Feb | 9:00 - 10:00  | 10-131 SCTR | Casey                               |
+| 18-Feb | 9:00 - 10:00  | 10-131 SCTR | Casey Out of Town - Email for Appt. |
 | 18-Feb | 1:00 - 2:00   | 5050 CTRB   | Ophir                               |
 | 19-Feb | 4:00 - 5:00   | 10-120 SCTR | The TAs                             |
 | 20-Feb | 11:00 - 12:00 | 10-126 SCTR | Ben                                 |
