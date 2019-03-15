@@ -34,17 +34,16 @@
 | 29-Mar | Programming in Python - IV                  | 26_Python-IV                  | 25_Python-III         |
 | 1-Apr  | Programming in Python - V                   | 27_Python-V                   | 26_Python-IV          |
 | 3-Apr  | Machine Learning (ML) - I (MANDATORY for Participation)       | 28_ML-I                       | 27_Python-V           |
-| 6-Apr  | ML - II                                     | 29_ML-II                      | 28_ML-I               |
-| 5-Apr  | ML - III (MANDATORY for Participation)                        | 30_ML-III                     | 29_ML-II              |
-| 8-Apr  | ML - IV                                     | 31_ML-IV                      | 30_ML-III             |
-| 10-Apr | ML - V                                      | 32_ML-V                       | 31_ML-IV              |
-| 12-Apr | Intro to PLINK                              | 33_Variation-I                | 32_ML-V               |
-| 15-Apr | Analysis of Genetic Variation               | 34_Variation-II               | 33_Variation-I        |
-| 17-Apr | -                                           | -                             | 34_Variation-II       |
-| 19-Apr | OPEN STUDIO                                 | -                             | -                     |
-| 22-Apr | Single cell RNA-Seq Analysis - I            | 36_scRNA-Seq-I                | -                     |
+| 5-Apr  | ML - II                                     | 29_ML-II                      | 28_ML-I               |
+| 8-Apr  | ML - III (MANDATORY for Participation)                        | 30_ML-III                     | 29_ML-II              |
+| 10-Apr  | ML - IV                                     | 31_ML-IV                      | 30_ML-III             |
+| 12-Apr | ML - V                                      | 32_ML-V                       | 31_ML-IV              |
+| 15-Apr | Intro to PLINK                              | 33_Variation-I                | 32_ML-V               |
+| 17-Apr | Analysis of Genetic Variation               | 34_Variation-II               | 33_Variation-I        |
+| 19-Apr | OPEN STUDIO                                           | -                             | -       |
+| 22-Apr | Single cell RNA-Seq Analysis - I            | 36_scRNA-Seq-I                | 34_Variation-II          |
 | 24-Apr | Single cell RNA-Seq Analysis II             | 37_scRNA-Seq-II               | 36_scRNA-Seq-I        |
 | 26-Apr | CRISPR Screening - I  (MANDATORY for Participation)           | -                             | 37_scRNA-Seq-II       |
-| 29-Apr | CRISPR Screening - II                       | 38_CRISPR_Screening           |                      |
-| 1-May  | OPEN STUDIO (Final Distributed 30-Apr)      | -                             | 38_CRISPR_Screening   |
+| 29-Apr | CRISPR Screening - II                       | 38_CRISPR_Screening           | -                     |
+| 1-May  | OPEN STUDIO (Final Distributed 30-Apr)     | -                             | 38_CRISPR_Screening   |
 | 7-May  | -                                           | -                             | FINAL Due @ 2pm       |
