@@ -45,5 +45,5 @@
 | 24-Apr | Single cell RNA-Seq Analysis II             | 37_scRNA-Seq-II               | 36_scRNA-Seq-I        |
 | 26-Apr | OPEN STUDIO (Final Distributed 30-Apr)           | -                             | 37_scRNA-Seq-II       |
 | 29-Apr | CRISPR Screening - I  (MANDATORY for Participation) | 38_CRISPR_Screening           | -                     |
-| 1-May  | CRISPR Screening - II     | -                           | -   |  38_CRISPR_Screening |
+| 1-May  | CRISPR Screening - II     | -                           |  38_CRISPR_Screening |
 | 7-May  | -                                           | -                             | FINAL Due @ 2pm       |
